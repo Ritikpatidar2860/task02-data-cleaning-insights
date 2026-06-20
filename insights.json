@@ -1,0 +1,148 @@
+{
+  "total_revenue": 12834429.94,
+  "total_orders": 1199,
+  "avg_order_value": 10704.28,
+  "avg_discount_pct": 5.34,
+  "avg_rating": 4.01,
+  "revenue_by_category": {
+    "Electronics": {
+      "sum": 8040840.73,
+      "mean": 48438.8,
+      "count": 166
+    },
+    "Home & Kitchen": {
+      "sum": 1930372.35,
+      "mean": 11030.7,
+      "count": 175
+    },
+    "Sports": {
+      "sum": 1077702.23,
+      "mean": 6414.89,
+      "count": 168
+    },
+    "Clothing": {
+      "sum": 478970.51,
+      "mean": 3050.77,
+      "count": 157
+    },
+    "Beauty": {
+      "sum": 382112.33,
+      "mean": 2234.58,
+      "count": 171
+    },
+    "Toys": {
+      "sum": 377662.08,
+      "mean": 2375.23,
+      "count": 159
+    },
+    "Unknown": {
+      "sum": 372291.13,
+      "mean": 20682.84,
+      "count": 18
+    },
+    "Books": {
+      "sum": 174478.58,
+      "mean": 943.13,
+      "count": 185
+    }
+  },
+  "revenue_by_region": {
+    "North": {
+      "sum": 3382592.25,
+      "mean": 10807.0,
+      "count": 313
+    },
+    "West": {
+      "sum": 3289960.81,
+      "mean": 11077.31,
+      "count": 297
+    },
+    "South": {
+      "sum": 2986574.0,
+      "mean": 10055.8,
+      "count": 297
+    },
+    "East": {
+      "sum": 2928034.49,
+      "mean": 10457.27,
+      "count": 280
+    },
+    "Unknown": {
+      "sum": 247268.39,
+      "mean": 20605.7,
+      "count": 12
+    }
+  },
+  "revenue_by_payment": {
+    "Cash on Delivery": {
+      "sum": 3183621.67,
+      "count": 253
+    },
+    "Net Banking": {
+      "sum": 2576130.78,
+      "count": 233
+    },
+    "UPI": {
+      "sum": 2465900.2,
+      "count": 241
+    },
+    "Credit Card": {
+      "sum": 2439238.98,
+      "count": 218
+    },
+    "Debit Card": {
+      "sum": 1995689.33,
+      "count": 230
+    },
+    "Unknown": {
+      "sum": 173848.98,
+      "count": 24
+    }
+  },
+  "monthly_revenue": {
+    "2024-01": 645934.36,
+    "2024-02": 580236.8,
+    "2024-03": 996179.48,
+    "2024-04": 782052.57,
+    "2024-05": 921699.13,
+    "2024-06": 765917.62,
+    "2024-07": 812774.51,
+    "2024-08": 892218.26,
+    "2024-09": 685064.69,
+    "2024-10": 923987.32,
+    "2024-11": 658828.8,
+    "2024-12": 583790.27,
+    "2025-01": 547157.24,
+    "2025-02": 741348.89,
+    "2025-03": 812921.52,
+    "2025-04": 493139.45,
+    "2025-05": 653843.12,
+    "2025-06": 337335.91
+  },
+  "top_10_cities": {
+    "Kochi": 1309308.44,
+    "Lucknow": 980448.74,
+    "Bhubaneswar": 964444.77,
+    "Jaipur": 957517.13,
+    "Chandigarh": 954300.44,
+    "Ahmedabad": 866128.37,
+    "Surat": 864102.7,
+    "Patna": 834644.82,
+    "Pune": 767589.94,
+    "Mumbai": 713087.82
+  },
+  "discount_quantity_correlation": 0.013,
+  "avg_revenue_by_rating": {
+    "1.0": 8094.65,
+    "2.0": 8122.99,
+    "3.0": 8723.8,
+    "4.0": 12008.85,
+    "5.0": 10922.91
+  },
+  "flagged_price_outliers": 7,
+  "flagged_revenue_outliers": 93,
+  "flagged_quantity_outliers": 72,
+  "highest_avg_order_value_category": "Electronics",
+  "lowest_avg_order_value_category": "Books",
+  "highest_avg_order_value_region": "Unknown"
+}

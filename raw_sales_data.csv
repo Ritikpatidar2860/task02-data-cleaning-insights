@@ -1,0 +1,1251 @@
+OrderID,CustomerName,Category,Region,City,OrderDate,Quantity,UnitPrice,DiscountPercent,Revenue,PaymentMethod,CustomerRating
+100365,SHREYA NAIR,clothing,East,Bhubaneswar,2024-02-22,1.0,1042.08,0.0,1042.08,upi,4.0
+100080,Divya Mehta,Clothing,west,Surat,01-24-2025,1.0,3745.57,0.0,3745.57,COD,5.0
+101055,Meena Mehta,Home and Kitchen,east,Bhubaneswar,27/08/2024,1.0,13059.5,0.0,13059.5,DC,4.0
+100889,Amit Verma,ELECTRONICS,SOUTH,Kochi,07/04/2024,2.0,22391.26,0.0,44782.52,Cash On Delivery,4.0
+100143,Pooja Mehta,,NORTH,Delhi,2024-01-27,2.0,2233.36,0.0,4466.72,NetBanking,4.0
+100689,Suresh Choudhary,electronics,south,Chennai,2024-04-01,4.0,12932.05,10.0,46555.38,Debit Card,5.0
+100654,Vikram Joshi,beauty,Wast,Pune,03-08-2024,1.0,589.07,0.0,589.07,Net Banking,5.0
+100063,  Meena Choudhary  ,BOOKS,WEST,Pune,05-07-2024,1.0,727.93,0.0,727.93,credit card,4.0
+100729,Neha Patel,books,East,Bhubaneswar,02-26-2024,1.0,136.0,,136.0,Debit Card,3.0
+100408,NEHA IYER,Home & Kitchen,South,Bengaluru,17-Oct-2024,1.0,208.41,10.0,187.57,DC,2.0
+100225,Divya Joshi,Electronics,south,Kochi,2024/11/19,1.0,57078.57,0.0,57078.57,CC,5.0
+100299,  RAHUL KAPOOR  ,clothing,South,Kochi,06-14-2025,1.0,1872.42,0.0,1872.42,net banking,3.0
+100167,MEENA KAPOOR,books,west,Pune,2024/05/20,1.0,365.97,5.0,347.67,upi,4.0
+100342,SANJAY MEHTA,Home and Kitchen,NORTH,Chandigarh,07-02-2024,2.0,6833.96,0.0,13667.92,NetBanking,3.0
+100662,Neha Kapoor,BEAUTY,West,Mumbai,05/02/2025,1.0,2637.79,0.0,2637.79,Cash on Delivery,5.0
+101151,KAVITA MEHTA,sports,South,Kochi,29/09/2024,1.0,5331.56,0.0,5331.56,Net Banking,5.0
+100128,Rohan Verma,Home & Kitchen,north,Chandigarh  ,26/07/2024,1.0,13661.37,15.0,11612.16,Cash On Delivery,4.0
+100372,Sneha Gupta,Toy,north,Delhi,10/06/2025,3.0,2765.81,10.0,7467.69,COD,5.0
+100295,Karan Bose,Home & Kitchen,West,Surat,2024/07/20,1.0,4201.06,10.0,3780.95,DC,4.0
+101003,Sanjay Mehta,Books,Nort,Delhi,2025-04-18,1.0,224.8,0.0,224.8,NetBanking,4.0
+100086,Amit Bose,Toys,West,Mumbai,04-19-2025,1.0,3336.5,15.0,2836.02,Debit Card,3.0
+100057,Shreya Reddy,CLOTHING,EAST,Patna,06/02/2025,1.0,689.53,5.0,655.05,NetBanking,3.0
+100819,Vikram Patel,BEAUTY,East,Guwahati,09-Apr-2024,4.0,,5.0,4215.11,CC,4.0
+100953,sanjay iyer,home & kitchen,East,Guwahati,04-26-2024,1.0,9150.28,0.0,9150.28,UPI,2.0
+100107,RAHUL VERMA,,South,Chennai,08/08/2024,1.0,2476.73,0.0,2476.73,upi,4.0
+100502,SHREYA VERMA,books,East,Bhubaneswar,2025/03/08,2.0,571.44,30.0,800.02,Credit Card,3.0
+100853,Sanjay Joshi,Sports,east,Kolkata,01-22-2024,2.0,2407.24,5.0,4573.76,Debit Card,5.0
+100466,SURESH BOSE,Sport,east,Bhubaneswar,2025/01/01,1.0,4057.88,0.0,4057.88,credit card,3.0
+100266,Pooja Rao,Toys,WEST,Mumbai,01-04-2024,1.0,2347.85,10.0,2113.06,Cash On Delivery,5.0
+101186,Rahul Joshi,Home&Kitchen,east,Kolkata,04-17-2025,2.0,10054.63,0.0,20109.26,upi,2.0
+100214,SNEHA SHARMA,BOOKS,Nort,Chandigarh,26-Mar-2025,4.0,237.36,0.0,949.44,upi,3.0
+100856,shreya kapoor,sports,SOUTH,Kochi,22/05/2024,1.0,3060.6,5.0,2907.57,COD,5.0
+100353,Meena Mehta,Cloths,Wast,Ahmedabad,27/10/2024,1.0,928.26,0.0,928.26,cod,
+100223,Meena Patel,BOOKS,SOUTH,Hyderabad,2024-03-10,1.0,795.14,20.0,636.11,debit card,4.0
+100144,Vikram Iyer,Home&Kitchen,Wast,Ahmedabad,12/01/2025,1.0,10223.85,0.0,10223.85,Cash on Delivery,5.0
+100294,Anita Bose,Books,south,Hyderabad,2025-06-17,1.0,965.1,15.0,820.34,Cash On Delivery,5.0
+100319,amit malhotra,Electronic,Wast,Pune,21-Apr-2024,1.0,14294.2,20.0,11435.36,DC,
+100428,  AMIT PATEL  ,Toy,north,Delhi,2024/06/24,2.0,1329.91,0.0,2659.82,,5.0
+100699,Riya Rao,Home and Kitchen,SOUTH,Hyderabad,22-Mar-2025,2.0,11079.19,15.0,18834.62,Net Banking,3.0
+100806,Pooja Gupta,BEAUTY,east,Kolkata,2024/04/19,1.0,2050.07,0.0,2050.07,Credit Card,
+100857,Anita Singh,books,south,Bengaluru,2024/04/28,2.0,580.73,0.0,1161.46,Upi,4.0
+100119,Aarav Iyer,BOOKS,Nort,Lucknow,06/01/2024,1.0,677.12,0.0,677.12,net banking,5.0
+100520,aarav joshi,CLOTHING,NORTH,Delhi,2025/05/27,1.0,930.18,10.0,837.16,upi,5.0
+101175,Meena Singh,Home & Kitchen,SOUTH,Hyderabad,27-Feb-2025,1.0,4745.54,0.0,4745.54,Credit Card,4.0
+100682,,Toys,SOUTH,Chennai,2024-02-07,1.0,1652.34,,1239.25,net banking,5.0
+100600,  MANOJ GUPTA  ,Electronic,East,Bhubaneswar,2025-01-29,1.0,41792.0,0.0,41792.0,Cash On Delivery,5.0
+100836,Kavita Verma,Toys,south,Bengaluru,08-17-2024,1.0,446.11,0.0,446.11,Net Banking,4.0
+100776,arjun choudhary,Home&Kitchen,west,Ahmedabad,2024-11-04,1.0,12868.25,0.0,12868.25,UPI,5.0
+100667,Rahul Iyer,books,WEST,Pune,2025-03-23,2.0,368.59,,737.18,DC,5.0
+100904,MEENA REDDY,clothing,East,Guwahati,2024/08/05,1.0,3667.33,0.0,3667.33,COD,4.0
+100269,MANOJ NAIR,Cloths,EAST,Guwahati,2024/08/14,1.0,3358.46,0.0,3358.46,CC,4.0
+100791,Kavita Verma,Books,Wast,Pune,02/12/2024,1.0,881.89,20.0,705.51,upi,3.0
+100146,RIYA REDDY,sports,NORTH,Delhi,2024/03/02,1.0,2531.76,0.0,2531.76,DC,5.0
+100088,Rohan Kapoor,Sport,EAST,Guwahati,2024-06-19,1.0,6638.12,0.0,6638.12,,4.0
+100707,Vikram Bose,sports,West,Surat,20/05/2025,1.0,4033.8,0.0,4033.8,COD,3.0
+100771,ROHAN KAPOOR,ELECTRONICS,west,Pune,06-16-2024,1.0,27193.91,5.0,25834.21,Net Banking,4.0
+100129,neha patel,Home&Kitchen,NORTH,Delhi,2024/07/02,1.0,8064.88,0.0,8064.88,,
+101135,  riya sharma  ,Beauty,East,Kolkata,2024-03-29,2.0,1578.97,0.0,3157.94,Net Banking,5.0
+100236,aarav gupta,BOOKS,south,Kochi,2025-01-22,1.0,379.87,0.0,379.87,Credit Card,4.0
+100430,Arjun Gupta,BOOKS,SOUTH,Bengaluru,2025-01-10,1.0,212.18,5.0,201.57,NetBanking,2.0
+100154,,Sports,Nort,Chandigarh,06-15-2025,3.0,2737.67,,8213.01,debit card,5.0
+100254,,Beauty,South,Bengaluru,05-07-2024,1.0,2481.57,0.0,2481.57,Credit_Card,5.0
+100988,Anita Joshi,BEAUTY,Nort,Delhi,2025-01-31,1.0,1205.91,5.0,1145.61,Debit Card,5.0
+100201,Amit Malhotra,home & kitchen,SOUTH,Bengaluru,2024/09/17,1.0,9857.28,0.0,9857.28,cod,4.0
+100786,Meena Iyer,Cloths,south,Bengaluru,03-Jul-2024,1.0,2491.05,,2491.05,cod,4.0
+100763,Manoj Mehta,BOOKS,South,Chennai,15-Jun-2025,1.0,182.62,0.0,182.62,NetBanking,4.0
+100234,SANJAY MEHTA,Electronics,West,Pune,08/05/2025,1.0,9611.29,5.0,9130.73,credit card,4.0
+100994,,toys,east,Bhubaneswar,2024-07-18,1.0,285.67,5.0,271.39,net banking,4.0
+100153,Priya Reddy,Beauty,SOUTH,Kochi,06-01-2025,1.0,1668.48,20.0,1334.78,UPI,4.0
+101121,Rohan Choudhary,Sports,West,Ahmedabad,02/08/2024,1.0,7991.35,15.0,6792.65,Debit Card,3.0
+100389,Rahul Malhotra,beauty,SOUTH,Bengaluru,30-Aug-2024,2.0,684.45,15.0,1163.56,NetBanking,4.0
+100128,Rohan Verma,Home & Kitchen,north,Chandigarh,26/07/2024,1.0,13661.37,15.0,11612.16,Cash On Delivery,4.0
+101164,Amit Rao,clothing,EAST,Bhubaneswar,09-Jun-2025,1.0,1919.16,0.0,1919.16,DC,4.0
+100668,Riya Rao,sports,North,Delhi,2025-02-13,1.0,4801.88,0.0,4801.88,debit card,4.0
+100818,Sanjay Choudhary,Toy,south,Bengaluru,2024/02/18,1.0,722.86,0.0,722.86,debit card,3.0
+100259,Meena Bose,Home&Kitchen,East,Patna,20/03/2024,1.0,12382.24,15.0,10524.9,credit card,3.0
+101005,Aarav Iyer,ELECTRONICS,SOUTH,Chennai,2024/08/11,2.0,51257.87,5.0,97389.95,NetBanking,5.0
+100733,meena kapoor,beauty,WEST,Mumbai,25-Sep-2024,3.0,176.79,0.0,530.37,Cash On Delivery,4.0
+101084,Rohan Iyer,Sport,north,Chandigarh,05-15-2025,1.0,3222.5,0.0,3222.5,net banking,5.0
+100971,Meena Verma,BEAUTY,WEST,Ahmedabad,20-Mar-2024,1.0,923.62,0.0,923.62,net banking,3.0
+100912,Shreya Kapoor,beauty,South,Chennai,2024-01-28,1.0,2731.5,10.0,2458.35,net banking,
+100053,Pooja Malhotra,Electronic,East,Patna,2025/02/27,2.0,7884.92,10.0,14192.86,COD,4.0
+101182,Karan Patel,Sport,SOUTH,Kochi,2025/04/04,1.0,2759.52,5.0,2621.54,Credit Card,2.0
+100678,Rohan Sharma,Toy,West,Mumbai,23/11/2024,500.0,476.77,10.0,429.09,Cash on Delivery,4.0
+100827,Anita Reddy,books,EAST,Bhubaneswar,10/12/2024,1.0,1035.99,15.0,880.59,debit card,5.0
+100906,Riya Sharma,beauty,Wast,Ahmedabad,31/03/2024,1.0,1764.55,0.0,1764.55,Cash on Delivery,4.0
+100017,Rahul Malhotra,BEAUTY,North,Lucknow,31/05/2024,1.0,2019.56,10.0,1817.6,Credit_Card,5.0
+100866,Riya Kapoor,Home&Kitchen,South,Kochi,19/08/2024,1.0,6120.99,0.0,6120.99,Upi,5.0
+100356,Aarav Kapoor,BEAUTY,Nort,Chandigarh,2025/06/02,2.0,2065.35,0.0,4130.7,Upi,
+100377,  Shreya Gupta  ,ELECTRONICS,east,Bhubaneswar,09-Oct-2024,4.0,48021.09,10.0,172875.92,UPI,
+101124,Meena Gupta,clothing,west,Surat,26-Jan-2025,1.0,2529.77,0.0,2529.77,Debit Card,4.0
+100985,  Karan Bose  ,home & kitchen,North,Lucknow,2025/05/02,1.0,5705.66,5.0,5420.38,Net Banking,5.0
+101051,Pooja Singh,BEAUTY,NORTH,Lucknow,2024-11-22,3.0,1017.73,0.0,3053.19,Cash on Delivery,4.0
+100292,  Vikram Malhotra  ,Toys,NORTH,Chandigarh,14/02/2024,2.0,279.12,5.0,530.33,net banking,5.0
+101060,Divya Reddy,ELECTRONICS,North,Chandigarh,10/01/2024,1.0,,0.0,39179.08,COD,1.0
+100693,Shreya Verma,Toys,west,Ahmedabad,29-Dec-2024,1.0,1064.0,0.0,,Credit_Card,4.0
+100681,  arjun iyer  ,toys,NORTH,Delhi,2025/04/21,1.0,1644.21,0.0,1644.21,Credit_Card,5.0
+100926,Riya Nair,books,north,Jaipur,22-Apr-2025,1.0,543.97,0.0,543.97,UPI,5.0
+100271,Manoj Choudhary,home & kitchen,East,Patna,2024-12-31,1.0,215.8,20.0,172.64,credit card,5.0
+100177,Neha Mehta,sports,Nort,Jaipur,2024-07-06,2.0,1490.8,,2683.44,DC,5.0
+100480,Karan Bose,clothing,Wast,Ahmedabad,2025/04/04,1.0,1958.4,0.0,1958.4,,5.0
+101198,MEENA CHOUDHARY,home & kitchen,SOUTH,Hyderabad,05/03/2024,4.0,5937.63,0.0,23750.52,Net Banking,4.0
+100969,  Kavita Joshi  ,Toy,South,Hyderabad,2025/02/04,2.0,1965.19,25.0,2947.78,Cash on Delivery,5.0
+100778,  Rohan Reddy  ,Home and Kitchen,west,Mumbai,2025-06-06,,8643.54,5.0,8211.36,Upi,5.0
+100401,Rohan Singh,BOOKS,Wast,Ahmedabad,01-09-2025,1.0,850.53,0.0,850.53,debit card,4.0
+100211,Meena Bose,Sports,Nort,Lucknow,17-Apr-2025,1.0,4340.63,0.0,4340.63,debit card,3.0
+100656,Karan Nair,Books,EAST,Bhubaneswar,16-Apr-2024,3.0,261.89,0.0,785.67,Credit Card,3.0
+100870,,electronics,east,Patna,2024-07-28,1.0,19337.31,0.0,19337.31,debit card,4.0
+100962,Anita Verma,sports,East,Bhubaneswar,06-23-2024,1.0,7378.83,20.0,5903.06,upi,4.0
+100002,Neha Iyer,BEAUTY,East,Kolkata,2025-02-26,1.0,1406.12,20.0,1124.9,DC,5.0
+100396,Divya Choudhary,home & kitchen,Nort,Chandigarh,2025-03-07,1.0,4058.42,0.0,4058.42,UPI,4.0
+101012,Vikram Joshi,Toy,west,Ahmedabad,06/10/2024,2.0,988.76,10.0,1779.77,Credit_Card,1.0
+100042,Riya Mehta,Books,Nort,Delhi,2024/01/18,3.0,387.97,0.0,1163.91,cod,5.0
+100619,NEHA VERMA,toys,EAST,Guwahati,26/04/2024,1.0,2450.95,20.0,1960.76,debit card,4.0
+100262,Rohan Sharma,CLOTHING,EAST,Bhubaneswar,2025-02-14,2.0,1071.0,0.0,2142.0,CC,3.0
+100116,Sanjay Mehta,Sport,South,Hyderabad,01-Oct-2024,1.0,1398.18,0.0,1398.18,DC,
+100671,Priya Reddy,books,South,Bengaluru,25/06/2024,2.0,531.97,0.0,1063.94,cod,5.0
+100253,Meena Nair,Home & Kitchen,West,Ahmedabad,2024/08/17,1.0,10149.51,10.0,9134.56,UPI,5.0
+101142,Rahul Joshi,Beauty,West,Ahmedabad,2024-10-29,1.0,2544.04,5.0,2416.84,Cash on Delivery,
+100893,Aarav Nair,Electronic,south,Chennai,01/09/2024,1.0,,0.0,43694.3,Credit Card,4.0
+101159,Meena Kapoor,Beauty,WEST,Ahmedabad,06/08/2024,1.0,1187.83,0.0,1187.83,Debit Card,3.0
+100233,Rahul Joshi,Beauty,WEST,Ahmedabad,2025-02-24,2.0,815.37,0.0,1630.74,upi,4.0
+100509,Kavita Verma,Toy,north,Jaipur,06-Jun-2024,1.0,2522.42,0.0,2522.42,Credit_Card,4.0
+101125,Manoj Singh,Sport,south,Hyderabad,03-28-2024,3.0,1330.33,0.0,,DC,5.0
+100124,Meena Verma,Electronic,EAST,Bhubaneswar,25-May-2024,1.0,35807.04,0.0,35807.04,Credit Card,5.0
+100500,Sanjay Malhotra,Home & Kitchen,EAST,Bhubaneswar,2024/06/05,2.0,8101.8,0.0,16203.6,net banking,
+100065,Meena Choudhary,BOOKS,east,Guwahati,2024-01-29,2.0,208.12,20.0,332.99,Credit_Card,
+100805,Shreya Iyer,Toys,North,Jaipur,29/05/2024,2.0,2948.97,5.0,5603.04,Upi,5.0
+100860,  ROHAN RAO  ,clothing,WEST,Mumbai,2025-03-17,1.0,1671.32,0.0,1671.32,CC,
+100725,KARAN KAPOOR,Home&Kitchen,East,Guwahati,01-10-2025,1.0,7260.83,0.0,7260.83,debit card,3.0
+100708,Sanjay Reddy,Sport,EAST,Guwahati,2024/11/06,2.0,5870.69,0.0,11741.38,DC,3.0
+101037,Shreya Reddy,clothing,NORTH,Lucknow,2024/08/08,2.0,1559.27,0.0,3118.54,Debit Card,3.0
+100745,Sanjay Nair,Sports,EAST,Bhubaneswar,2024-03-03,1.0,2765.76,0.0,2765.76,debit card,5.0
+100305,anita iyer,Toy,South,Chennai,2025/05/26,4.0,2860.05,0.0,11440.2,cod,5.0
+100675,Riya Mehta,Home & Kitchen,South,Bengaluru,29/11/2024,1.0,2927.79,0.0,2927.79,upi,
+100764,SNEHA IYER,BEAUTY,WEST,Pune,15-Feb-2025,1.0,120.55,0.0,120.55,Net Banking,2.0
+101138,Meena Rao,CLOTHING,North,Chandigarh,2025-03-06,1.0,1435.29,5.0,1363.53,Net Banking,2.0
+100680,  Divya Bose  ,toys,West,Surat,29-Mar-2024,1.0,2152.56,0.0,2152.56,net banking,4.0
+100774,Sneha Patel,Electronics,west,Surat,2024-04-28,2.0,34434.46,10.0,61982.03,Cash on Delivery,5.0
+100713,  Rahul Choudhary  ,Electronic,North,Jaipur,2024-02-03,1.0,7078.18,10.0,6370.36,,5.0
+100586,Meena Bose,Cloths,west,Mumbai,20/01/2025,2.0,1074.33,0.0,2148.66,Debit Card,5.0
+100338,Priya Patel,sports,NORTH,Jaipur,01-Apr-2024,2.0,4329.25,10.0,7792.65,COD,3.0
+100034,Sneha Choudhary,Beauty,EAST,Patna,05-Mar-2024,1.0,-1706.7,5.0,1621.36,Upi,5.0
+100647,MANOJ KAPOOR,Sport,south,Chennai,2025-01-15,2.0,4360.42,0.0,8720.84,upi,3.0
+100872,Rohan Nair,clothing,NORTH,Jaipur,02-07-2025,1.0,1067.21,0.0,1067.21,NetBanking,3.0
+100644,Riya Reddy,Electronics,east,Patna,24/08/2024,500.0,37949.68,0.0,37949.68,DC,3.0
+100685,Rahul Gupta,home & kitchen,SOUTH,Hyderabad,2024/03/02,2.0,11757.6,0.0,23515.2,Debit Card,4.0
+100814,Divya Sharma,sports,Nort,Jaipur,02/07/2024,1.0,5499.72,0.0,5499.72,Debit Card,3.0
+100552,Vikram Reddy,Sport,west,,03-08-2025,1.0,6562.7,10.0,5906.43,Credit Card,3.0
+100199,Manoj Mehta,books,North,Jaipur,2025/02/10,1.0,405.2,0.0,405.2,Debit Card,4.0
+100824,  aarav patel  ,Books,Nort,Lucknow,09/04/2024,2.0,582.38,15.0,990.05,Net Banking,
+100160,SNEHA GUPTA,Toy,South,Chennai,21-May-2025,1.0,1867.65,0.0,1867.65,NetBanking,3.0
+100603,Shreya Gupta,,west,Surat,14/05/2024,1.0,1046.48,0.0,1046.48,COD,
+100378,,Sports,NORTH,Lucknow,22-Dec-2024,1.0,7876.65,5.0,7482.82,UPI,
+100172,Rahul Reddy,ELECTRONICS,west,Ahmedabad,04/09/2024,2.0,1777.37,5.0,,cod,5.0
+100784,Aarav Nair,Home & Kitchen,Wast,Ahmedabad,12/06/2025,1.0,12596.74,0.0,12596.74,CC,4.0
+100025,Riya Patel,Home & Kitchen,south,Chennai,04-19-2024,1.0,8772.45,15.0,7456.58,Credit Card,5.0
+101016,Divya Reddy,BEAUTY,Wast,Surat,03-30-2025,1.0,571.97,15.0,486.17,Cash On Delivery,5.0
+101137,Pooja Nair,Sports,East,Bhubaneswar,2025/05/15,1.0,6180.27,0.0,6180.27,DC,5.0
+100300,Rahul Choudhary,Home&Kitchen,Wast,Surat,01-16-2025,2.0,,,,credit card,5.0
+100415,  Priya Bose  ,BEAUTY,East,Kolkata,18-May-2025,2.0,1632.77,0.0,3265.54,Credit Card,4.0
+101134,Kavita Verma,ELECTRONICS,East,Kolkata,04-08-2025,2.0,37442.59,0.0,74885.18,cod,4.0
+100576,Manoj Singh,Sports,Nort,Jaipur,2025-01-30,1.0,5290.02,0.0,,upi,3.0
+100390,Sneha Mehta,electronics,north,Jaipur,04-01-2024,1.0,35348.64,25.0,26511.48,upi,
+100694,Kavita Choudhary,sports,south,Bengaluru,28/05/2024,1.0,3742.6,0.0,3742.6,Upi,3.0
+100542,vikram patel,Sports,East,Bhubaneswar,04-Jan-2024,5.0,6097.74,0.0,30488.7,DC,4.0
+100787,Neha Sharma,books,South,Chennai,04-24-2025,1.0,1074.36,0.0,1074.36,Upi,4.0
+100304,Rahul Singh,Home&Kitchen,north,Chandigarh,10-03-2024,1.0,2989.42,0.0,2989.42,Debit Card,4.0
+100610,Priya Gupta,Toy,West,Surat,20-Feb-2025,1.0,2772.25,0.0,2772.25,Debit Card,2.0
+100443,Shreya Nair,Toys,north,Chandigarh,02/07/2024,2.0,1742.27,0.0,3484.54,Debit Card,4.0
+100257,Amit Choudhary,Books,south,Chennai,2024-02-06,1.0,99.57,10.0,89.61,upi,2.0
+100224,Kavita Singh,Beauty,south,Kochi,21/12/2024,1.0,2205.92,5.0,2095.62,NetBanking,4.0
+100101,MEENA IYER,Toy,West,Pune,03-Apr-2024,5.0,764.84,0.0,3824.2,Upi,5.0
+100532,  Sanjay Choudhary  ,Beauty,west,Ahmedabad,2024/08/02,5.0,1826.05,,9130.25,Upi,3.0
+100588,ANITA REDDY,beauty,Wast,Ahmedabad,2024/04/01,2.0,2215.29,5.0,4209.05,credit card,
+100360,  Pooja Mehta  ,Home&Kitchen,SOUTH,Chennai,18-Feb-2025,1.0,3278.37,15.0,2786.61,cod,4.0
+101034,Manoj Reddy,books,Nort,Chandigarh,2024-08-07,1.0,236.02,15.0,200.62,credit card,3.0
+101169,Kavita Choudhary,Beauty,west,Mumbai,14/04/2024,1.0,1796.7,20.0,1437.36,NetBanking,4.0
+100581,Pooja Singh,Toy,East,Kolkata,2025/02/21,1.0,1805.77,15.0,1534.9,net banking,5.0
+101188,Aarav Singh,toys,west,Pune,16/02/2025,2.0,2573.42,5.0,4889.5,cod,
+100171,Rohan Singh,Sport,Wast,Ahmedabad,29/02/2024,1.0,2084.78,5.0,1980.54,net banking,5.0
+100351,Rohan Rao,home & kitchen,South,Hyderabad,2025/06/21,1.0,13370.51,0.0,13370.51,Upi,4.0
+101017,Manoj Singh,electronics,Nort,Jaipur,2024/04/12,1.0,6125.55,0.0,6125.55,cod,5.0
+100245,Rahul Singh,ELECTRONICS,north,Delhi,06-30-2024,1.0,50591.67,10.0,45532.5,DC,3.0
+100512,Rohan Malhotra,electronics,north,Lucknow,2024-10-29,1.0,27013.98,0.0,27013.98,Cash On Delivery,5.0
+100534,Pooja Mehta,Sport,East,Kolkata,2024/10/11,2.0,7161.82,0.0,14323.64,Credit_Card,4.0
+100774,SNEHA PATEL,Electronics,west,Surat,2024-04-28,2.0,34434.46,10.0,61982.03,Cash on Delivery,5.0
+100301,Meena Verma,sports,SOUTH,Chennai,06-13-2024,1.0,386.97,0.0,386.97,Net Banking,5.0
+101022,  Pooja Mehta  ,Toy,Wast,Pune,13/12/2024,1.0,1481.21,20.0,1184.97,Net Banking,5.0
+100938,  Kavita Sharma  ,Toys,NORTH,Chandigarh,21-Mar-2025,1.0,197.22,0.0,197.22,net banking,5.0
+100898,Shreya Verma,beauty,East,Patna,02-09-2025,1.0,2285.15,20.0,1828.12,CC,4.0
+100636,Sneha Verma,Toy,North,Delhi,2025/03/26,1.0,1214.37,0.0,1214.37,Cash On Delivery,4.0
+100917,Rohan Rao,Books,EAST,Bhubaneswar,2024/03/23,2.0,626.68,20.0,1002.69,upi,5.0
+100981,Karan Bose,BOOKS,South,Bengaluru,03-22-2024,1.0,952.53,0.0,952.53,net banking,1.0
+101029,Priya Rao,Home & Kitchen,Nort,Jaipur,2024-05-23,1.0,6818.54,0.0,6818.54,cod,5.0
+100547,Karan Mehta,Electronics,West,Ahmedabad,16-Apr-2025,1.0,6788.87,0.0,6788.87,net banking,5.0
+100048,Anita Nair,Books,south,Chennai,02-13-2024,1.0,243.29,20.0,194.63,upi,4.0
+100467,RAHUL CHOUDHARY,sports,SOUTH,Kochi,07/02/2025,3.0,6494.16,5.0,18508.36,CC,5.0
+100686,Sneha Mehta,sports,east,Kolkata,29/07/2024,1.0,3738.19,20.0,2990.55,UPI,
+100977,Anita Bose,Electronics,south,Chennai,08-25-2024,1.0,45756.18,10.0,41180.56,Net Banking,5.0
+100134,Rahul Patel,toys,Wast,Ahmedabad,2024-09-05,4.0,2564.33,10.0,9231.59,Cash On Delivery,3.0
+101143,  Manoj Joshi  ,Sports,South,Bengaluru,2024-06-21,2.0,2783.19,20.0,4453.1,Upi,4.0
+101132,Shreya Malhotra,BEAUTY,SOUTH,Kochi,2025-05-01,1.0,2984.99,5.0,2835.74,Debit Card,5.0
+101093,Priya Joshi,Home & Kitchen,West,Pune,2024-12-26,1.0,6237.28,0.0,6237.28,debit card,4.0
+101146,Rahul Patel,Books,East,Guwahati,2025-06-12,1.0,748.07,0.0,748.07,DC,
+100193,Riya Mehta,Beauty,East,Kolkata,2025/03/06,2.0,692.75,0.0,1385.5,DC,
+101176,Pooja Choudhary,Home and Kitchen,Wast,Mumbai,17-Jun-2025,2.0,12967.43,10.0,23341.37,UPI,
+100343,AARAV KAPOOR,Sports,north,Chandigarh,13-Jul-2024,1.0,3846.38,0.0,3846.38,NetBanking,5.0
+100403,riya sharma,Beauty,East,Guwahati,2025-02-05,1.0,2506.27,10.0,2255.64,Debit Card,4.0
+100030,Karan Bose,Clothing,West,Pune,09/09/2024,4.0,384.37,0.0,1537.48,COD,3.0
+100003,priya choudhary,Beauty,east,Kolkata,2024/12/13,1.0,1385.9,5.0,1316.6,net banking,2.0
+100213,riya nair,Sport,West,Ahmedabad,06/10/2024,1.0,4332.02,,4332.02,Upi,3.0
+100317,shreya reddy,Toys,south,Chennai,2024-07-30,2.0,409.41,0.0,818.82,upi,
+100136,Sanjay Sharma,Sport,west,Surat,03-19-2025,5.0,7764.56,0.0,38822.8,cod,5.0
+100714,SANJAY VERMA,Books,EAST,Guwahati,17/05/2024,1.0,,10.0,673.94,,1.0
+100544,sanjay rao,Home & Kitchen,Nort,Jaipur,12-01-2024,1.0,,5.0,8386.68,COD,5.0
+100518,  anita sharma  ,Sports,,Bengaluru,2025/02/01,2.0,3138.54,0.0,6277.08,net banking,5.0
+100907,Manoj Rao,Sport,East,Guwahati,2024-07-18,1.0,5888.32,0.0,5888.32,NetBanking,
+100771,Rohan Kapoor,ELECTRONICS,west,Pune,06-16-2024,1.0,27193.91,5.0,25834.21,Net Banking,4.0
+100519,Suresh Joshi,Home&Kitchen,west,Mumbai,2024/08/19,1.0,13049.9,5.0,12397.4,Debit Card,2.0
+101158,Sanjay Rao,books,EAST,Patna,21-Jun-2024,4.0,368.86,20.0,1180.35,net banking,4.0
+100077,Rahul Bose,beauty,EAST,Guwahati,2025/03/05,1.0,834.81,0.0,834.81,Cash on Delivery,5.0
+100022,Arjun Iyer,Clothing,Nort,Chandigarh,09-04-2024,3.0,3859.02,5.0,10998.21,NetBanking,
+100287,Vikram Nair,Beauty,West,Mumbai,2024/09/06,1.0,1707.76,0.0,1707.76,,4.0
+100881,Riya Bose,ELECTRONICS,EAST,Bhubaneswar,2024-05-27,1.0,6785.99,0.0,6785.99,CC,4.0
+101102,Meena Patel,CLOTHING,North,Delhi,2024/02/04,1.0,2944.17,0.0,2944.17,NetBanking,4.0
+101052,pooja singh,electronics,EAST,Guwahati,10/04/2024,2.0,54694.13,5.0,103918.85,credit card,3.0
+100463,RAHUL MALHOTRA,Toys,east,Patna,02-Jan-2025,1.0,2410.62,0.0,2410.62,NetBanking,4.0
+100541,pooja reddy,Cloths,south,Kochi,23/06/2024,1.0,3840.79,5.0,3648.75,debit card,4.0
+100624,sneha singh,Toys,South,,18-Apr-2024,1.0,765.76,0.0,765.76,CC,5.0
+100657,Karan Gupta,Sports,north,Delhi,2024/06/30,1.0,292.11,20.0,233.69,CC,5.0
+101042,Karan Gupta,Sports,West,Pune,17-Aug-2024,1.0,5883.03,0.0,5883.03,Credit_Card,5.0
+100932,ROHAN NAIR,Cloths,,Mumbai,2024-02-22,1.0,1335.24,0.0,1335.24,Debit Card,3.0
+100420,Shreya Mehta,BEAUTY,EAST,Patna,04-05-2024,2.0,760.82,5.0,1445.56,DC,4.0
+100835,Karan Nair,Home and Kitchen,West,Surat,2024-05-21,1.0,13932.15,30.0,9752.5,COD,4.0
+100016,KARAN VERMA,Sports,west,Surat,07-Apr-2025,1.0,6856.54,0.0,6856.54,Cash On Delivery,4.0
+100412,Pooja Iyer,Home&Kitchen,SOUTH,Chennai,2025-01-26,5.0,12776.01,0.0,63880.05,DC,4.0
+100673,Divya Rao,Sports,north,Delhi,2025/04/09,2.0,3148.31,0.0,6296.62,Upi,4.0
+100140,Sanjay Gupta,sports,NORTH,Lucknow,30/01/2024,2.0,7412.67,0.0,14825.34,Upi,2.0
+101087,Shreya Iyer,Clothing,South,Bengaluru,2024/05/01,1.0,1935.79,5.0,1839.0,Credit_Card,4.0
+100587,shreya gupta,toys,east,Bhubaneswar,01-21-2025,2.0,2075.81,0.0,4151.62,debit card,5.0
+100437,Rahul Mehta,Books,north,Jaipur,02-10-2024,1.0,1033.73,0.0,1033.73,net banking,4.0
+100916,Arjun Verma,Sport,south,Hyderabad,26-Nov-2024,1.0,,30.0,4983.23,net banking,4.0
+100357,  Vikram Choudhary  ,CLOTHING,South,Kochi,29/05/2024,1.0,1279.01,0.0,1279.01,NetBanking,4.0
+100960,Anita Joshi,ELECTRONICS,Wast,Pune,01-02-2025,1.0,49717.98,5.0,47232.08,upi,4.0
+100481,  Sneha Nair  ,Books,SOUTH,Kochi,17/08/2024,2.0,396.65,0.0,793.3,Credit_Card,4.0
+100369,Aarav Nair,Sport,WEST,Pune,01-19-2024,2.0,5186.15,0.0,10372.3,Debit Card,
+100990,Anita Patel,Home and Kitchen,EAST,Patna,2024/06/15,1.0,257362.5,5.0,4889.89,Upi,5.0
+100830,KARAN NAIR,Cloths,SOUTH,Chennai,2025/06/01,1.0,3907.36,,3516.62,Credit Card,4.0
+100152,  Arjun Mehta  ,Sport,East,Guwahati,2025/04/24,1.0,5149.41,0.0,5149.41,debit card,5.0
+100207,meena reddy,Sports,west,Surat,06-08-2024,2.0,3357.87,10.0,6044.17,debit card,4.0
+100883,Divya Rao,books,SOUTH,Chennai,08-Oct-2024,1.0,183.07,0.0,183.07,credit card,3.0
+100903,Meena Nair,CLOTHING,Wast,Ahmedabad,2024/03/28,2.0,739.48,0.0,1478.96,CC,5.0
+100080,DIVYA MEHTA,Clothing,west,Surat,01-24-2025,1.0,3745.57,0.0,3745.57,COD,5.0
+101064,Manoj Malhotra,Sports,West,Ahmedabad,16-Mar-2025,2.0,1267.29,0.0,2534.58,COD,4.0
+100852,Sneha Mehta,Toys,North,Lucknow,2025/06/16,1.0,1122.54,5.0,1066.41,net banking,5.0
+100018,  Sanjay Malhotra  ,Beauty,east,Kolkata,2024-06-29,2.0,1278.52,0.0,2557.04,Debit Card,3.0
+100792,Neha Gupta,Home & Kitchen,EAST,Bhubaneswar,09/01/2024,2.0,14605.56,15.0,24829.45,DC,5.0
+100875,Kavita Verma,Sports,EAST,Patna,07-04-2024,1.0,4082.04,0.0,4082.04,Credit Card,3.0
+100548,Meena Iyer,CLOTHING,east,Kolkata,08/06/2024,1.0,3361.53,5.0,3193.45,UPI,4.0
+100113,SURESH NAIR,CLOTHING,Nort,Jaipur,28-Mar-2025,1.0,728.67,15.0,619.37,cod,2.0
+100775,SNEHA RAO,sports,EAST,Guwahati,31/12/2024,1.0,1827.43,5.0,1736.06,Upi,1.0
+100099,Suresh Iyer,Books,east,Kolkata,2024-05-26,1.0,1178.21,0.0,1178.21,Upi,5.0
+101105,Meena Singh,sports,south,Kochi,02-08-2024,1.0,7007.88,0.0,7007.88,Credit_Card,4.0
+100721,,CLOTHING,South,Kochi  ,06-10-2024,1.0,2358.01,,2004.31,Upi,5.0
+100102,Suresh Nair,Clothing,EAST,Kolkata,2024/05/14,1.0,2654.71,,2654.71,UPI,4.0
+101075,Rohan Iyer,Home&Kitchen,East,Bhubaneswar,2024/02/09,1.0,2019.97,15.0,1716.97,COD,4.0
+100781,Shreya Sharma,books,SOUTH,Chennai,08/06/2025,1.0,930.66,0.0,930.66,NetBanking,4.0
+100325,Divya Bose,Sports,WEST,Surat,10-18-2024,2.0,2701.73,5.0,5133.29,UPI,4.0
+101163,Amit Patel,sports,EAST,Guwahati,2024-08-07,1.0,5757.35,0.0,5757.35,UPI,3.0
+100050,Pooja Verma,Toys,NORTH,Lucknow,2024-03-21,1.0,3248.11,5.0,3085.7,net banking,3.0
+100131,Pooja Joshi,BOOKS,NORTH,Lucknow,13-Apr-2024,1.0,1120.13,,1120.13,Debit Card,5.0
+100272,Vikram Patel,Home&Kitchen,NORTH,Lucknow,03-24-2025,2.0,2745.01,0.0,5490.02,upi,
+100754,Meena Patel,Toys,Wast,Mumbai,2025/04/04,2.0,244.95,20.0,391.92,DC,3.0
+100987,Divya Iyer,home & kitchen,Wast,Mumbai,2024-01-23,3.0,13193.12,0.0,39579.36,Upi,4.0
+101195,aarav iyer,clothing,south,Hyderabad,2024-05-18,2.0,1100.68,0.0,2201.36,net banking,5.0
+100754,MEENA PATEL,Toys,Wast,Mumbai,2025/04/04,2.0,244.95,20.0,391.92,DC,3.0
+100649,Manoj Joshi,CLOTHING,NORTH,Lucknow,17-Jan-2025,1.0,327.69,,311.31,net banking,2.0
+100158,RAHUL KAPOOR,Home&Kitchen,east,Patna,2024-05-24,2.0,10184.04,20.0,16294.46,CC,3.0
+100851,Meena Bose,Sport,SOUTH,Bengaluru,2025-05-20,1.0,3912.12,0.0,3912.12,Cash On Delivery,4.0
+100020,  Kavita Patel  ,toys,east,Kolkata,03-30-2024,2.0,660.25,0.0,1320.5,NetBanking,4.0
+100434,  Aarav Singh  ,Sport,EAST,Bhubaneswar,2024-04-13,3.0,7767.57,25.0,17477.03,,2.0
+100350,ROHAN REDDY,Toys,West,Surat,02-20-2025,2.0,904.35,15.0,1537.4,Upi,5.0
+100407,Priya Choudhary,,east,Patna,09/09/2024,1.0,1406.67,0.0,1406.67,DC,3.0
+100618,Kavita Mehta,Cloths,NORTH,Lucknow,2024-06-18,1.0,682.29,0.0,682.29,Net Banking,5.0
+100376,Amit Iyer,home & kitchen,north,Delhi,2024-05-16,2.0,3851.53,5.0,7317.91,CC,3.0
+100913,Riya Gupta,clothing,South,Kochi,01-28-2025,1.0,2218.75,15.0,1885.94,NetBanking,5.0
+101078,Neha Singh,Sport,north,Delhi,2025/04/11,2.0,5904.7,0.0,11809.4,Credit_Card,
+100495,anita malhotra,home & kitchen,EAST,Bhubaneswar,2025/01/15,2.0,773.52,0.0,1547.04,debit card,5.0
+100885,Kavita Kapoor,Clothing,west,Mumbai,08-26-2024,1.0,1166.64,0.0,1166.64,UPI,4.0
+100529,aarav singh,Home&Kitchen,SOUTH,Bengaluru,09-Jan-2025,1.0,3715.53,0.0,3715.53,DC,2.0
+100560,vikram choudhary,books,North,Delhi,20-Feb-2025,1.0,278.69,0.0,278.69,Debit Card,
+100485,Aarav Gupta,Home & Kitchen,NORTH,Lucknow,06-Jun-2025,1.0,2303.14,0.0,2303.14,CC,5.0
+100405,Rohan Joshi,Home & Kitchen,South,Kochi,2024-09-22,2.0,9109.56,0.0,18219.12,upi,4.0
+100894,Kavita Choudhary,Toys,NORTH,Jaipur,08-23-2024,2.0,3172.94,25.0,4759.41,upi,5.0
+100525,Vikram Gupta,Clothing,Wast,Pune,28-Jan-2024,2.0,3579.44,5.0,6800.94,Credit_Card,4.0
+100566,Sanjay Verma,clothing,West,Ahmedabad,2024/10/24,1.0,939.83,0.0,939.83,UPI,4.0
+100023,  Aarav Mehta  ,,east,Bhubaneswar  ,2024/05/23,2.0,2358.38,,4716.76,UPI,4.0
+100623,Meena Iyer,Toys,West,Ahmedabad,02-03-2024,1.0,548.73,0.0,548.73,Credit_Card,5.0
+100188,  SHREYA NAIR  ,Sport,South,Chennai,13-Jul-2024,2.0,3281.06,0.0,6562.12,upi,3.0
+101043,rahul malhotra,,East,Patna,2025/01/27,2.0,3319.62,0.0,6639.24,cod,4.0
+100307,Karan Sharma,Sports,East,Patna,08-20-2024,5.0,4369.89,25.0,16387.09,Upi,2.0
+101168,Anita Reddy,sports,Wast,Pune,07/10/2024,1.0,4896.29,0.0,4896.29,Upi,5.0
+101074,shreya nair,Toy,Wast,Ahmedabad,2025/04/23,1.0,2629.49,15.0,2235.07,debit card,1.0
+100007,Manoj Rao,toys,WEST,Surat,06/02/2025,1.0,1241.51,0.0,1241.51,credit card,3.0
+101046,  Rohan Nair  ,Sports,SOUTH,Chennai,10/09/2024,1.0,3537.58,0.0,3537.58,NetBanking,4.0
+100909,KARAN JOSHI,BEAUTY,East,Guwahati,06/04/2024,2.0,2317.96,0.0,4635.92,Credit Card,4.0
+101089,Rohan Kapoor,Home and Kitchen,Nort,Jaipur,03-03-2025,1.0,4469.69,15.0,3799.24,UPI,5.0
+100215,  Kavita Verma  ,Home&Kitchen,west,Pune,05-29-2025,1.0,8405.36,0.0,8405.36,UPI,2.0
+100109,SNEHA SINGH,toys,Wast,Surat,11-01-2024,2.0,2320.63,0.0,4641.26,cod,5.0
+100219,Suresh Malhotra,sports,West,Pune,03-23-2024,1.0,2862.82,0.0,2862.82,Debit Card,5.0
+100386,Riya Reddy,ELECTRONICS,EAST,Patna,07/03/2025,1.0,14131.6,10.0,12718.44,UPI,4.0
+101061,RIYA REDDY,BOOKS,west,Mumbai,29/08/2024,1.0,181.57,0.0,181.57,CC,4.0
+100203,Riya Singh,books,Wast,Mumbai,2025/05/01,4.0,1180.59,0.0,4722.36,debit card,3.0
+100797,Pooja Choudhary,Books,south,Hyderabad,08/03/2025,2.0,632.12,0.0,1264.24,Upi,5.0
+100986,  Neha Reddy  ,toys,South,Kochi,2024-09-03,1.0,941.57,0.0,941.57,cod,4.0
+100027,VIKRAM JOSHI,books,West,Pune,11-Nov-2024,1.0,191.97,0.0,191.97,Credit Card,4.0
+100230,VIKRAM GUPTA,toys,NORTH,Chandigarh,07-Sep-2024,1.0,2317.69,0.0,2317.69,DC,3.0
+100802,Riya Malhotra,BEAUTY,north,Delhi,06/10/2024,2.0,754.76,0.0,1509.52,Cash On Delivery,5.0
+100052,Suresh Rao,BEAUTY,east,Guwahati,12-08-2024,2.0,2805.77,0.0,5611.54,Debit Card,1.0
+100695,Meena Singh,clothing,west,Ahmedabad,10-19-2024,3.0,2848.92,0.0,8546.76,COD,
+100668,Riya Rao,sports,North,Delhi,2025-02-13,1.0,4801.88,0.0,4801.88,debit card,4.0
+101090,Vikram Joshi,electronics,South,Bengaluru,2024/05/14,2.0,34971.55,0.0,69943.1,Net Banking,4.0
+100074,Riya Singh,BEAUTY,WEST,Pune,2024/12/09,1.0,2596.09,5.0,2466.29,Upi,5.0
+100522,Karan Singh,clothing,North,Lucknow,2025-01-31,1.0,387.9,15.0,329.72,upi,4.0
+100046,Amit Reddy,beauty,south,Bengaluru,15-May-2025,1.0,2065.21,0.0,2065.21,upi,5.0
+100196,Arjun Patel,Sport,west,Ahmedabad,07-01-2024,1.0,7495.97,0.0,7495.97,Credit Card,4.0
+100593,Kavita Choudhary,beauty,south,Bengaluru,2024-02-07,1.0,1455.09,0.0,1455.09,debit card,4.0
+100726,MEENA MALHOTRA,Cloths,EAST,Patna,05-21-2025,4.0,3124.62,0.0,12498.48,Credit_Card,5.0
+100730,Anita Mehta,toys,NORTH,Chandigarh,21-Jan-2024,1.0,2289.75,0.0,2289.75,Cash On Delivery,4.0
+100126,Priya Reddy,ELECTRONICS,NORTH,Lucknow,20-Apr-2025,1.0,4899.35,0.0,4899.35,Debit Card,5.0
+101178,rahul bose,Sports,North,Lucknow,03-29-2024,2.0,4984.2,0.0,9968.4,Credit Card,5.0
+100456,  priya kapoor  ,BOOKS,South,Hyderabad,01-02-2024,2.0,597.21,0.0,1194.42,Debit Card,
+100064,  vikram rao  ,Toy,south,Hyderabad,2024/02/27,1.0,1904.57,15.0,1618.88,credit card,
+100379,MANOJ BOSE,sports,south,Bengaluru,12-Sep-2024,1.0,931.7,,791.94,Cash On Delivery,4.0
+100955,RAHUL IYER,CLOTHING,SOUTH,Chennai,2024/08/28,2.0,2272.25,0.0,4544.5,upi,5.0
+101039,  Amit Sharma  ,Sport,SOUTH,Kochi,2024/12/22,1.0,,0.0,1068.65,cod,5.0
+100970,Arjun Kapoor,BEAUTY,SOUTH,Hyderabad,25-Aug-2024,1.0,442.58,5.0,420.45,upi,4.0
+101155,Divya Nair,BOOKS,West,Ahmedabad  ,2024-08-27,1.0,928.39,0.0,928.39,Cash on Delivery,3.0
+100679,  NEHA VERMA  ,Electronic,NORTH,Delhi,11-27-2024,1.0,37614.81,0.0,37614.81,NetBanking,4.0
+100615,Rahul Choudhary,Books,East,,28/08/2024,5.0,1025.07,0.0,5125.35,net banking,5.0
+100333,PRIYA KAPOOR,Toys,North,Chandigarh,12-06-2024,2.0,2369.47,25.0,3554.2,,4.0
+100596,SURESH BOSE,clothing,WEST,Surat,27-Feb-2025,1.0,867.92,0.0,867.92,Cash on Delivery,4.0
+101054,PRIYA MALHOTRA,toys,EAST,Kolkata,10/10/2024,1.0,1107.85,0.0,1107.85,,5.0
+100383,Kavita Iyer,Electronics,West,Ahmedabad,19-Jan-2025,1.0,30492.9,0.0,30492.9,Net Banking,5.0
+100501,Rohan Sharma,home & kitchen,EAST,Patna,13/11/2024,3.0,7925.31,10.0,21398.34,Credit Card,2.0
+100062,Rohan Patel,Books,SOUTH,Kochi,25-Apr-2025,1.0,1036.1,0.0,1036.1,debit card,4.0
+100218,  Anita Patel  ,Cloths,Wast,Pune,29-Mar-2025,2.0,3327.74,0.0,6655.48,debit card,
+100808,NEHA IYER,books,south,Kochi,29/09/2024,,1004.16,15.0,853.54,DC,4.0
+100770,Rohan Joshi,Home and Kitchen,SOUTH,Kochi,17-Sep-2024,1.0,11936.71,0.0,11936.71,net banking,
+101021,Amit Patel,BEAUTY,Wast,Ahmedabad,04-19-2024,1.0,2936.32,0.0,2936.32,Debit Card,4.0
+100275,  Sanjay Sharma  ,Cloths,East,Patna,2024-04-21,1.0,,15.0,808.95,CC,4.0
+100777,Shreya Singh,BOOKS,EAST,Guwahati,2025/03/16,1.0,933.89,15.0,793.81,DC,4.0
+101099,,electronics,north,Lucknow,14-Oct-2024,2.0,36318.09,5.0,69004.37,debit card,5.0
+100914,neha bose,books,Wast,Surat,2025-04-13,2.0,649.85,0.0,1299.7,Credit_Card,5.0
+100472,rahul malhotra,home & kitchen,south,Hyderabad,2024-07-03,1.0,5803.59,0.0,5803.59,,3.0
+100515,manoj verma,Clothing,East,Bhubaneswar,2024-04-04,3.0,2136.27,0.0,6408.81,COD,2.0
+100722,Anita Reddy,Toy,West,Surat  ,11/08/2024,4.0,1733.12,5.0,6585.86,NetBanking,4.0
+100235,Suresh Verma,books,south,Kochi,05-06-2025,2.0,695.83,25.0,1043.75,CC,5.0
+100841,AMIT IYER,electronics,Nort,Lucknow,02/05/2024,4.0,55779.71,0.0,223118.84,COD,4.0
+100709,  SANJAY NAIR  ,Toys,EAST,Guwahati,06-04-2024,1.0,239.97,5.0,227.97,Cash On Delivery,5.0
+100759,Kavita Reddy,BEAUTY,SOUTH,Chennai,2024-06-10,2.0,1898.09,0.0,3796.18,debit card,5.0
+100721,,CLOTHING,South,Kochi,06-10-2024,1.0,2358.01,,2004.31,Upi,5.0
+100397,RIYA MEHTA,ELECTRONICS,east,Bhubaneswar,2025/03/30,2.0,41633.92,0.0,83267.84,cod,5.0
+100100,Priya Nair,Electronic,NORTH,Lucknow,08-10-2024,2.0,3977.51,10.0,7159.52,DC,3.0
+100813,  Riya Choudhary  ,Home and Kitchen,west,Mumbai,2024-08-13,1.0,1047.9,20.0,838.32,Debit Card,5.0
+100182,Rohan Verma,Toy,West,Mumbai,12/03/2024,1.0,1065.18,5.0,1011.92,Debit Card,5.0
+100332,Riya Mehta,Sport,EAST,Patna,20-Feb-2025,1.0,3539.72,15.0,3008.76,CC,4.0
+100862,Rohan Gupta,Electronic,Nort,Lucknow,09/09/2024,2.0,25987.29,20.0,41579.66,Credit_Card,4.0
+101128,ROHAN PATEL,Home & Kitchen,Wast,Mumbai,05-08-2025,1.0,,0.0,7422.05,Cash On Delivery,3.0
+100447,Manoj Nair,books,east,Kolkata,2024/01/26,1.0,252.91,0.0,252.91,NetBanking,4.0
+100141,Sanjay Verma,electronics,Nort,Jaipur,2024-07-20,2.0,7893.01,10.0,14207.42,DC,5.0
+100766,riya mehta,Books,SOUTH,Chennai,21/01/2024,1.0,931.96,15.0,792.17,Debit Card,5.0
+100258,sanjay mehta,clothing,north,Chandigarh,15-Jan-2024,2.0,2713.35,0.0,5426.7,credit card,5.0
+100138,AMIT NAIR,Clothing,SOUTH,Kochi,06-24-2024,5.0,2111.89,0.0,10559.45,upi,4.0
+101117,Priya Iyer,Home and Kitchen,East,Bhubaneswar,24/11/2024,1.0,4967.17,0.0,4967.17,upi,1.0
+100879,MANOJ MEHTA,Home&Kitchen,EAST,Bhubaneswar,2024/02/07,3.0,14838.35,0.0,44515.05,Debit Card,4.0
+101131,POOJA NAIR,Toy,East,Kolkata,2025/05/21,2.0,1530.97,0.0,3061.94,Net Banking,4.0
+100640,  AARAV MEHTA  ,CLOTHING,Wast,Mumbai,2024-06-15,1.0,898.92,0.0,898.92,cod,4.0
+101011,suresh choudhary,clothing,East,Patna,01-26-2025,2.0,560.81,0.0,1121.62,debit card,5.0
+100616,,Toys,east,Guwahati,2024-11-21,1.0,3122.87,10.0,2810.58,Credit Card,5.0
+101139,Riya Bose,Beauty,SOUTH,Bengaluru,10-25-2024,1.0,1374.5,20.0,,upi,
+100822,Sanjay Patel,Electronics,east,Guwahati,15/08/2024,2.0,26656.55,0.0,53313.1,debit card,5.0
+100040,Kavita Mehta,Sport,Wast,Surat  ,10/09/2024,2.0,7148.18,0.0,14296.36,DC,5.0
+101018,Rahul Malhotra,BOOKS,SOUTH,Chennai,12-30-2024,2.0,969.45,30.0,,Debit Card,5.0
+100923,Arjun Mehta,toys,NORTH,Jaipur,08-24-2024,1.0,2095.92,20.0,1676.74,DC,2.0
+100072,Suresh Singh,electronics,WEST,Pune,25-Oct-2024,2.0,51140.79,15.0,86939.34,NetBanking,5.0
+100706,Anita Iyer,Electronic,NORTH,Delhi,03/12/2024,1.0,22833.68,0.0,22833.68,Net Banking,4.0
+100539,  Sanjay Choudhary  ,BOOKS,south,Chennai,2025/05/01,2.0,174.55,5.0,331.64,upi,5.0
+100886,ARJUN IYER,Beauty,south,Bengaluru,2025-04-20,5.0,1453.58,30.0,5087.53,net banking,4.0
+100084,manoj iyer,BOOKS,NORTH,Lucknow,27/05/2025,2.0,521.04,5.0,989.98,Cash on Delivery,5.0
+100032,Sneha Nair,ELECTRONICS,SOUTH,Bengaluru,21-Oct-2024,1.0,29199.13,0.0,29199.13,UPI,4.0
+100308,Priya Reddy,Clothing,WEST,Ahmedabad,28-Jul-2024,1.0,2911.45,20.0,2329.16,Debit Card,
+100570,Sneha Gupta,home & kitchen,East,Patna,04-Sep-2024,1.0,6061.77,0.0,6061.77,net banking,
+100918,  Manoj Iyer  ,BOOKS,East,Kolkata,18/03/2024,1.0,789.12,0.0,789.12,Upi,1.0
+100527,Anita Malhotra,Beauty,East,Bhubaneswar,2024-09-06,1.0,985.89,0.0,985.89,Upi,3.0
+101114,Manoj Bose,Electronic,Wast,Mumbai,07/04/2025,1.0,43984.38,0.0,43984.38,Credit Card,4.0
+100191,Vikram Sharma,Cloths,east,Guwahati,07-23-2024,2.0,3044.35,10.0,5479.83,credit card,5.0
+100590,Arjun Kapoor,BEAUTY,South,Hyderabad,17-Oct-2024,1.0,2788.15,5.0,2648.74,Credit Card,4.0
+101113,Sneha Choudhary,Home&Kitchen,east,Guwahati,12-17-2024,1.0,6162.02,0.0,6162.02,Credit Card,4.0
+100655,Riya Sharma,Electronic,west,Mumbai,24/06/2024,2.0,-57525.06,0.0,115050.12,cod,5.0
+100368,Manoj Verma,toys,WEST,Mumbai,05-18-2024,2.0,902.71,0.0,1805.42,NetBanking,3.0
+100277,PRIYA REDDY,toys,South,Bengaluru,2024-05-22,2.0,838.06,20.0,1340.9,Cash on Delivery,3.0
+100491,Riya Malhotra,Sports,north,Delhi,25-Mar-2024,1.0,7998.17,15.0,6798.44,Cash on Delivery,4.0
+100810,Sanjay Rao,Clothing,South,,2024-05-27,1.0,3096.75,0.0,3096.75,COD,5.0
+100602,Sneha Gupta,Sports,Nort,Jaipur,06-11-2024,4.0,5213.87,0.0,20855.48,Cash On Delivery,3.0
+100070,,electronics,EAST,Guwahati,2024-05-07,1.0,20658.49,5.0,19625.57,Cash On Delivery,
+100617,Vikram Verma,electronics,south,Hyderabad,2024/07/10,1.0,31571.82,,31571.82,cod,3.0
+100559,pooja reddy,Beauty,north,Jaipur,05/05/2024,1.0,522.91,0.0,522.91,,4.0
+100858,KARAN VERMA,toys,EAST,Bhubaneswar,2024-04-29,2.0,244.54,0.0,489.08,debit card,4.0
+100453,Priya Singh,Sport,South,Hyderabad,13/01/2024,1.0,6157.98,10.0,5542.18,Debit Card,5.0
+101120,Aarav Verma,Home&Kitchen,East,Patna,2024/10/26,1.0,3763.0,0.0,3763.0,debit card,4.0
+100530,divya verma,sports,West,Pune,30/06/2024,5.0,6145.56,0.0,30727.8,Cash On Delivery,2.0
+100628,  manoj bose  ,Beauty,west,Surat,08-Oct-2024,1.0,1449.12,15.0,1231.75,debit card,4.0
+100801,VIKRAM REDDY,Sport,north,Chandigarh,28-Apr-2024,1.0,231.22,0.0,231.22,net banking,3.0
+100132,MEENA GUPTA,Books,South,Bengaluru,10-10-2024,1.0,107.05,10.0,96.34,Cash on Delivery,
+100222,Amit Singh,Home & Kitchen,south,Kochi,2025/03/06,1.0,4357.27,0.0,4357.27,DC,3.0
+100874,SANJAY REDDY,Beauty,NORTH,Delhi,2024/08/30,1.0,204.47,0.0,204.47,Credit Card,5.0
+100267,Arjun Iyer,Sports,NORTH,Delhi,01/11/2024,2.0,6662.67,0.0,13325.34,Credit_Card,2.0
+101004,rohan singh,Home & Kitchen,SOUTH,,10-20-2024,1.0,11495.17,0.0,11495.17,Debit Card,5.0
+100081,Manoj Reddy,BOOKS,South,Hyderabad,17/02/2024,2.0,559.89,5.0,1063.79,cod,4.0
+100666,Vikram Choudhary,Clothing,East,Patna,11-30-2024,4.0,1077.32,0.0,4309.28,Cash on Delivery,5.0
+101047,Shreya Rao,Sport,West,Pune,04/03/2025,3.0,4972.78,5.0,14172.42,UPI,3.0
+100115,Arjun Patel,Toy,south,Hyderabad,2024-06-18,2.0,199.19,15.0,338.62,net banking,4.0
+100993,Riya Rao,BEAUTY,South,Hyderabad,12-21-2024,3.0,782.88,0.0,2348.64,Upi,5.0
+100504,Sanjay Rao,Books,east,Patna,05-15-2025,2.0,895.5,5.0,1701.45,Cash on Delivery,5.0
+100920,sneha sharma,toys,North,Delhi,29/01/2024,1.0,1458.12,0.0,1458.12,net banking,4.0
+100208,Kavita Nair,Beauty,east,Kolkata,27-Jan-2025,1.0,2830.46,20.0,2264.37,DC,4.0
+100344,  Vikram Sharma  ,Toys,SOUTH,Bengaluru,08/01/2024,1.0,1201.39,0.0,1201.39,Cash on Delivery,4.0
+100329,manoj patel,Electronics,Wast,Ahmedabad,2024/09/15,1.0,5409.31,0.0,5409.31,Net Banking,5.0
+101085,Aarav Patel,CLOTHING,East,Guwahati,2024-11-18,2.0,1559.11,15.0,2650.49,debit card,3.0
+100014,Sneha Gupta,BEAUTY,east,Bhubaneswar,2024/02/18,1.0,2318.5,5.0,2202.57,net banking,4.0
+100450,,Toy,West,Surat,02-Apr-2025,2.0,1470.14,0.0,2940.28,Net Banking,5.0
+100425,Shreya Kapoor,books,west,Mumbai,2024-04-06,1.0,703.99,0.0,703.99,Cash on Delivery,5.0
+101126,Rahul Joshi,toys,WEST,Pune,2024/07/22,1.0,1347.59,0.0,1347.59,UPI,4.0
+100571,vikram malhotra,Home&Kitchen,Wast,Pune,19/12/2024,1.0,433.89,10.0,390.5,net banking,5.0
+101097,Meena Iyer,Home & Kitchen,South,Hyderabad,24/03/2024,1.0,10920.53,0.0,10920.53,UPI,5.0
+100757,Rahul Singh,Toy,South,Kochi,2025-03-14,1.0,993.23,0.0,993.23,net banking,5.0
+100436,Rahul Mehta,ELECTRONICS,west,Surat,2025/01/17,1.0,34952.76,10.0,31457.48,Cash on Delivery,5.0
+100704,Sneha Iyer,CLOTHING,Nort,Delhi,21/12/2024,1.0,583.56,30.0,408.49,debit card,5.0
+100474,  RIYA MEHTA  ,clothing,NORTH,Delhi,2025-05-18,1.0,3735.55,0.0,3735.55,net banking,5.0
+101194,Manoj Malhotra,toys,WEST,Ahmedabad,2024/06/09,2.0,2151.08,5.0,4087.05,net banking,5.0
+100997,rohan rao,clothing,south,Kochi,31-May-2024,1.0,714.77,0.0,714.77,CC,4.0
+101041,Aarav Malhotra,Sports,EAST,Bhubaneswar,02-Feb-2025,1.0,2913.39,0.0,2913.39,Cash On Delivery,5.0
+100625,Shreya Iyer,BEAUTY,Wast,Ahmedabad,2025-04-16,1.0,,5.0,205.05,Upi,4.0
+100006,Riya Gupta,Books,south,Chennai,2025-05-13,1.0,147.23,5.0,139.87,cod,
+100478,Kavita Mehta,Beauty,Nort,Chandigarh,2025/03/09,2.0,199.12,10.0,358.42,CC,5.0
+100846,Rahul Kapoor,Home&Kitchen,north,Jaipur,2025-05-20,3.0,9517.86,10.0,25698.22,credit card,3.0
+100367,Neha Joshi,BEAUTY,SOUTH,Kochi,23/05/2024,1.0,838.71,25.0,629.03,Net Banking,4.0
+101197,Pooja Bose,Beauty,SOUTH,Hyderabad,24-Feb-2025,1.0,653.21,20.0,522.57,CC,5.0
+100594,Meena Kapoor,BOOKS,south,Bengaluru,2024/03/06,1.0,618.54,0.0,618.54,net banking,5.0
+101066,Aarav Iyer,Home and Kitchen,West,Pune,2024-11-02,2.0,7292.36,10.0,13126.25,debit card,4.0
+100375,Karan Sharma,Beauty,SOUTH,Chennai,2024-09-28,1.0,1789.67,10.0,1610.7,net banking,
+100676,RAHUL REDDY,books,north,Delhi,23-Apr-2024,1.0,940.96,10.0,846.86,Debit Card,4.0
+100569,amit choudhary,BEAUTY,North,Chandigarh,2024-01-17,2.0,2067.1,0.0,4134.2,debit card,5.0
+100026,SURESH SHARMA,sports,East,Patna,16/03/2024,1.0,5811.81,5.0,5521.22,Credit_Card,5.0
+100780,Amit Sharma,BOOKS,south,Kochi,2024/05/12,2.0,1154.94,30.0,1616.92,Cash on Delivery,
+100454,Aarav Mehta,electronics,South,Kochi,16/07/2024,5.0,55856.01,0.0,279280.05,net banking,4.0
+101180,,BEAUTY,South,Kochi,2024/06/02,1.0,1333.7,0.0,1333.7,Credit Card,4.0
+100483,Riya Reddy,Toy,north,Jaipur,09-28-2024,1.0,1328.97,0.0,1328.97,debit card,5.0
+101161,Neha Mehta,Toy,East,Patna,02-25-2024,1.0,1631.65,0.0,1631.65,Cash On Delivery,3.0
+100631,Anita Reddy,Sport,east,Bhubaneswar,2024/07/19,1.0,6338.14,0.0,6338.14,Cash on Delivery,4.0
+101185,Shreya Kapoor,Electronics,EAST,Patna,04-Feb-2025,1.0,10908.34,,9817.51,Upi,5.0
+101027,Pooja Verma,toys,east,Guwahati,2024-04-26,2.0,2289.28,0.0,4578.56,Upi,5.0
+101045,Sneha Singh,Home & Kitchen,east,Bhubaneswar,2024-08-27,1.0,5729.15,0.0,5729.15,DC,3.0
+100194,DIVYA VERMA,Electronics,North,Jaipur,2024-12-05,2.0,23562.96,20.0,37700.74,COD,4.0
+100664,Priya Sharma,Sports,SOUTH,Chennai,2025-05-16,1.0,1450.64,10.0,1305.58,Cash On Delivery,4.0
+100232,  Sanjay Kapoor  ,beauty,EAST,Guwahati,28/03/2024,1.0,157.32,0.0,157.32,Credit Card,5.0
+101160,Sanjay Singh,Home & Kitchen,WEST,Surat,22/08/2024,1.0,1715.08,0.0,1715.08,Debit Card,4.0
+100606,shreya choudhary,home & kitchen,WEST,Surat,04-30-2025,1.0,2222.62,20.0,1778.1,NetBanking,4.0
+101013,SANJAY REDDY,Home and Kitchen,north,Chandigarh,26-Jan-2025,5.0,10615.3,0.0,53076.5,UPI,4.0
+100028,karan kapoor,Clothing,east,Guwahati,2024/04/04,1.0,1520.49,0.0,1520.49,CC,3.0
+101019,Karan Rao,beauty,south,Chennai,28-Dec-2024,3.0,1566.7,5.0,4465.1,credit card,5.0
+100574,SANJAY MEHTA,Beauty,Wast,Ahmedabad,13/04/2025,1.0,664.42,0.0,664.42,upi,3.0
+101148,  Karan Bose  ,Books,Wast,Surat,2025-04-21,2.0,502.38,0.0,1004.76,cod,5.0
+100378,,Sports,NORTH,Lucknow,22-Dec-2024,1.0,7876.65,5.0,7482.82,UPI,
+100850,Arjun Malhotra,beauty,east,Patna,09/03/2025,1.0,1680.45,0.0,1680.45,net banking,5.0
+100288,Suresh Singh,Toys,EAST,Bhubaneswar,06-06-2025,1.0,-467.04,10.0,420.34,upi,4.0
+100816,Arjun Iyer,Home & Kitchen,north,Jaipur,2025/02/27,1.0,4584.57,10.0,4126.11,debit card,4.0
+100796,Neha Patel,Cloths,WEST,Mumbai,2025-04-30,2.0,1786.29,20.0,2858.06,Net Banking,4.0
+100718,Aarav Sharma,home & kitchen,South,Chennai,2024-10-04,1.0,1859.42,0.0,1859.42,Credit_Card,3.0
+100703,Manoj Kapoor,Sports,north,Lucknow,17-Mar-2024,2.0,4886.28,0.0,9772.56,debit card,3.0
+100638,sanjay singh,Cloths,East,Guwahati,05-12-2025,1.0,1993.62,0.0,1993.62,credit card,4.0
+100579,  Neha Nair  ,home & kitchen,NORTH,Lucknow,2024/01/18,1.0,9290.14,5.0,8825.63,Credit_Card,4.0
+101098,  Priya Choudhary  ,Home&Kitchen,EAST,Bhubaneswar,19/05/2025,1.0,989.59,30.0,692.71,DC,5.0
+100643,Sanjay Choudhary,BEAUTY,SOUTH,Chennai,11-29-2024,1.0,2961.42,25.0,2221.06,NetBanking,4.0
+101053,Kavita Malhotra,Home & Kitchen,EAST,Guwahati,01-27-2024,1.0,9647.43,0.0,9647.43,Credit_Card,5.0
+100947,Aarav Kapoor,,South,Bengaluru,2025/06/01,2.0,4390.4,5.0,8341.76,upi,4.0
+100078,Rohan Singh,Electronics,SOUTH,Bengaluru,14-Sep-2024,1.0,11520.54,5.0,10944.51,UPI,4.0
+100565,Sanjay Kapoor,Sport,WEST,,23-Aug-2024,1.0,2148.64,0.0,2148.64,Net Banking,
+100998,Amit Malhotra,Home and Kitchen,north,Jaipur,2024/01/04,5.0,12786.38,0.0,63931.9,net banking,4.0
+100645,  NEHA JOSHI  ,Electronics,East,Patna,05-17-2025,1.0,59828.54,5.0,56837.11,Upi,
+100562,AARAV MALHOTRA,ELECTRONICS,North,Chandigarh,2024/10/04,1.0,38430.23,5.0,36508.72,Upi,1.0
+100015,Priya Bose,Clothing,North,Lucknow  ,28/10/2024,1.0,414.03,0.0,414.03,Debit Card,4.0
+100736,manoj kapoor,sports,south,Kochi,19-Sep-2024,1.0,4459.22,0.0,4459.22,DC,5.0
+100954,Sanjay Malhotra,ELECTRONICS,NORTH,Chandigarh,2024/04/21,2.0,36008.73,0.0,72017.46,COD,5.0
+100283,Pooja Malhotra,toys,north,Delhi,02-Aug-2024,1.0,578.98,0.0,578.98,Credit Card,3.0
+100076,Arjun Rao,electronics,East,Bhubaneswar,2025-06-22,1.0,48351.72,10.0,43516.55,Cash on Delivery,
+100945,,Electronics,EAST,Guwahati,21/03/2024,2.0,32549.25,0.0,65098.5,net banking,2.0
+100499,Pooja Bose,Sport,North,,07-27-2024,1.0,2242.79,0.0,2242.79,NetBanking,4.0
+100476,  Rohan Bose  ,home & kitchen,Nort,Jaipur,06-Feb-2024,2.0,11549.76,0.0,23099.52,Net Banking,3.0
+100580,Sneha Malhotra,ELECTRONICS,Wast,Surat,2024/06/17,2.0,53368.77,0.0,106737.54,Upi,4.0
+100767,Pooja Joshi,ELECTRONICS,North,Chandigarh,01-08-2025,1.0,1558.06,30.0,1090.64,CC,5.0
+100494,Suresh Bose,ELECTRONICS,East,Bhubaneswar,14-Sep-2024,2.0,12617.65,0.0,25235.3,net banking,2.0
+100669,Shreya Iyer,Sports,West,Mumbai,2025-02-09,2.0,7136.55,5.0,13559.44,upi,4.0
+100285,anita gupta,Sport,South,Kochi,08/08/2024,3.0,5138.56,20.0,12332.54,COD,4.0
+101110,Suresh Sharma,Toys,west,Surat,22-Jun-2025,1.0,898.87,0.0,898.87,CC,5.0
+100037,KARAN PATEL,Home and Kitchen,north,Lucknow,2024/07/19,1.0,12162.12,,9121.59,UPI,4.0
+100578,divya kapoor,Home&Kitchen,East,Patna,2024-09-21,1.0,10077.47,10.0,9069.72,Debit Card,3.0
+100700,Amit Gupta,BEAUTY,Nort,Lucknow,11-Mar-2025,1.0,102.39,0.0,102.39,Net Banking,3.0
+100612,Arjun Bose,Home & Kitchen,south,Bengaluru,2024/10/01,2.0,13254.75,15.0,22533.08,Debit Card,5.0
+100488,Sanjay Joshi,CLOTHING,Wast,Pune,07/02/2024,1.0,549.85,0.0,549.85,Net Banking,3.0
+100951,Vikram Singh,BOOKS,,Bhubaneswar,2024/06/05,1.0,107.09,5.0,101.74,Cash on Delivery,3.0
+100105,Neha Mehta,clothing,North,Delhi,09-13-2024,1.0,796.15,0.0,796.15,upi,4.0
+101006,Rohan Gupta,books,Nort,Delhi,30/12/2024,1.0,849.21,5.0,806.75,,4.0
+100653,Sneha Joshi,,South,Hyderabad,2024/02/16,5.0,365.56,0.0,1827.8,Cash on Delivery,5.0
+100125,Priya Singh,,WEST,Ahmedabad,11/05/2024,1.0,38798.94,5.0,36858.99,Credit_Card,5.0
+100837,Sanjay Reddy,sports,East,Guwahati,02/03/2025,2.0,2828.5,5.0,5374.15,credit card,
+100384,Priya Joshi,Cloths,west,Ahmedabad,13-Apr-2025,1.0,414.3,25.0,310.73,Net Banking,5.0
+100161,Arjun Gupta,Books,Wast,Surat,06-02-2025,1.0,144.23,0.0,144.23,credit card,4.0
+100828,Riya Nair,BEAUTY,north,,24-Feb-2024,1.0,,10.0,2600.52,COD,
+100489,Arjun Reddy,BEAUTY,Nort,Delhi,2024/12/23,2.0,2817.45,0.0,5634.9,DC,4.0
+100558,Karan Patel,toys,WEST,Mumbai,14-Jan-2025,1.0,1556.21,0.0,1556.21,Debit Card,5.0
+100373,SHREYA SINGH,BEAUTY,North,Jaipur,2024-08-26,2.0,1629.63,15.0,2770.37,debit card,5.0
+100441,,home & kitchen,west,Ahmedabad,10/05/2024,1.0,13914.72,5.0,13218.98,Net Banking,
+100572,Anita Singh,Electronics,North,Delhi,2025-03-08,1.0,33394.49,5.0,31724.77,Cash on Delivery,3.0
+100720,sneha iyer,CLOTHING,West,Mumbai,28-Feb-2025,1.0,3623.53,20.0,2898.82,Debit Card,3.0
+101141,Vikram Mehta,ELECTRONICS,west,Surat,14-Sep-2024,1.0,30752.12,0.0,30752.12,upi,4.0
+100374,Arjun Reddy,Sports,Wast,Pune,15-Jun-2024,1.0,2445.27,0.0,-2445.27,NetBanking,4.0
+100598,Aarav Singh,Books,north,Delhi,24/09/2024,2.0,518.82,30.0,726.35,COD,3.0
+100536,Priya Verma,Home and Kitchen,EAST,Kolkata,07-Jul-2024,1.0,6370.31,0.0,6370.31,cod,4.0
+100118,Shreya Choudhary,electronics,east,Patna,29/06/2024,1.0,42766.27,,40627.96,COD,4.0
+100637,Pooja Patel,Electronics,SOUTH,Kochi,2024-03-07,3.0,34080.62,0.0,102241.86,credit card,5.0
+100984,Aarav Singh,Toy,Nort,Delhi,03-10-2025,1.0,943.48,0.0,943.48,DC,5.0
+100975,Sanjay Singh,Books,EAST,,2024/06/12,1.0,44593.5,0.0,891.87,CC,5.0
+100583,POOJA MALHOTRA,Home and Kitchen,Nort,Jaipur,03-May-2024,1.0,8653.96,5.0,8221.26,COD,4.0
+100939,Aarav Rao,CLOTHING,NORTH,Jaipur,2024/04/27,1.0,2531.86,5.0,2405.27,CC,4.0
+101130,Riya Choudhary,Books,west,Surat,08/02/2025,2.0,554.38,0.0,1108.76,cod,4.0
+100646,sanjay reddy,BOOKS,East,Bhubaneswar,2024/11/26,3.0,162.42,5.0,462.9,Credit Card,3.0
+100127,Vikram Joshi,Sports,North,Jaipur,01/07/2024,2.0,3964.07,15.0,6738.92,UPI,4.0
+100659,Anita Reddy,Electronics,north,Chandigarh,2024-05-18,1.0,20246.61,5.0,19234.28,UPI,3.0
+100821,Pooja Sharma,Electronic,SOUTH,Kochi,19/10/2024,1.0,26279.74,0.0,26279.74,credit card,1.0
+100758,RIYA SINGH,,east,Kolkata,09-12-2024,1.0,1245.02,0.0,1245.02,DC,4.0
+100399,KAVITA JOSHI,Home & Kitchen,north,Lucknow,05-06-2025,1.0,8618.74,5.0,8187.8,upi,5.0
+100174,Sanjay Choudhary,home & kitchen,South,Kochi,2025/01/31,5.0,9130.68,0.0,45653.4,COD,4.0
+100320,Suresh Kapoor,Beauty,Wast,Pune,05-18-2025,1.0,785.45,0.0,785.45,Credit Card,3.0
+100996,Kavita Gupta,Toy,EAST,Kolkata,2024/11/28,1.0,2797.88,15.0,2378.2,NetBanking,5.0
+100469,Kavita Choudhary,Sports,west,Mumbai,2024/03/28,1.0,4359.35,5.0,4141.38,debit card,1.0
+100756,Priya Rao,Toy,SOUTH,Kochi,03-16-2025,3.0,1903.47,15.0,4853.85,,4.0
+101174,Sanjay Singh,Clothing,SOUTH,Kochi,2024-04-06,,1699.99,0.0,1699.99,upi,5.0
+100597,anita choudhary,books,EAST,Patna,03-Feb-2025,1.0,838.22,0.0,838.22,Cash on Delivery,
+100079,meena iyer,Cloths,North,Chandigarh,08/09/2024,2.0,3126.52,0.0,6253.04,UPI,5.0
+100533,Manoj Malhotra,ELECTRONICS,WEST,Ahmedabad,2024-04-12,1.0,33982.45,10.0,30584.2,NetBanking,5.0
+100742,  Aarav Kapoor  ,BEAUTY,North,Delhi,21-Jul-2024,1.0,1610.23,15.0,1368.7,CC,3.0
+100457,Meena Nair,Electronics,Nort,Chandigarh,16-Sep-2024,1.0,29280.29,0.0,29280.29,Debit Card,
+100290,Divya Patel,toys,east,Patna,06-19-2025,1.0,3257.14,5.0,3094.28,Cash on Delivery,
+100370,Suresh Bose,beauty,north,Lucknow,09/10/2024,2.0,2567.89,0.0,5135.78,cod,5.0
+100968,KAVITA REDDY,Home&Kitchen,south,Bengaluru,2024/12/04,1.0,14292.57,0.0,14292.57,DC,4.0
+100477,Pooja Singh,Beauty,South,Hyderabad,16-May-2025,2.0,2983.38,0.0,5966.76,net banking,5.0
+100942,Suresh Verma,Books,South,Kochi,2024-03-13,2.0,820.49,15.0,1394.83,Upi,4.0
+101065,Kavita Joshi,sports,west,Pune,01-10-2024,1.0,7651.98,0.0,7651.98,Upi,3.0
+100861,suresh rao,BEAUTY,North,Chandigarh,05-Mar-2024,1.0,1295.7,25.0,971.78,debit card,1.0
+100473,RAHUL REDDY,Electronics,SOUTH,Hyderabad,2024/06/26,1.0,,10.0,2677.04,Upi,
+100197,Manoj Gupta,toys,NORTH,Delhi,2024-07-22,1.0,589.21,5.0,559.75,Cash On Delivery,4.0
+100185,Priya Iyer,Home and Kitchen,north,Jaipur,25-Oct-2024,2.0,10228.79,5.0,19434.7,Cash On Delivery,5.0
+100712,Arjun Malhotra,beauty,NORTH,Chandigarh,2024/05/06,1.0,2791.89,0.0,2791.89,Credit Card,3.0
+100421,Manoj Joshi,BEAUTY,WEST,Ahmedabad,01-12-2024,2.0,613.3,0.0,1226.6,Net Banking,2.0
+100451,Sanjay Verma,Home&Kitchen,north,Chandigarh,2024-10-13,1.0,523.1,0.0,523.1,COD,4.0
+100256,Manoj Verma,electronics,WEST,Mumbai,31-May-2024,1.0,7121.57,0.0,7121.57,Cash on Delivery,2.0
+100135,riya reddy,books,Nort,Jaipur,13-Apr-2025,1.0,905.39,5.0,860.12,Net Banking,5.0
+100832,pooja patel,Home and Kitchen,west,Mumbai,2025/04/09,2.0,1534.03,0.0,3068.06,upi,4.0
+100847,neha reddy,,south,Chennai,02-Nov-2024,1.0,2387.07,0.0,2387.07,UPI,4.0
+100973,Meena Reddy,toys,Wast,Mumbai,2024/04/15,1.0,237.8,0.0,237.8,Debit Card,4.0
+100838,Neha Bose,Electronic,NORTH,Jaipur,09-10-2024,2.0,57733.74,15.0,98147.36,upi,4.0
+100750,Kavita Verma,books,north,Delhi,10-11-2024,1.0,566.19,20.0,452.95,NetBanking,
+101153,Manoj Sharma,,SOUTH,Chennai,10-13-2024,1.0,2067.84,5.0,1964.45,UPI,3.0
+100049,Karan Verma,Electronics,EAST,Patna,2024/08/02,2.0,30082.17,25.0,45123.26,Cash On Delivery,4.0
+100927,Aarav Sharma,Sports,Nort,Delhi,03/06/2025,1.0,7966.22,10.0,7169.6,Upi,5.0
+100648,neha bose,home & kitchen,east,Bhubaneswar,30-May-2024,2.0,3812.96,0.0,7625.92,credit card,
+100526,vikram sharma,Books,east,Guwahati,23-May-2024,1.0,559.85,0.0,559.85,debit card,4.0
+100670,Aarav Malhotra,beauty,south,Bengaluru,2024/11/10,3.0,2155.94,0.0,6467.82,credit card,4.0
+100800,pooja mehta,clothing,WEST,Surat,16-Jun-2025,1.0,1361.29,0.0,1361.29,net banking,
+100462,Pooja Joshi,Books,Wast,Ahmedabad,01-20-2025,1.0,133.21,0.0,133.21,CC,3.0
+100627,vikram mehta,BEAUTY,South,Kochi,04-Jun-2024,4.0,256.76,30.0,718.93,upi,5.0
+100738,Vikram Reddy,Home&Kitchen,North,Jaipur,2024-10-24,2.0,6623.73,15.0,11260.34,net banking,5.0
+101068,Meena Rao,sports,EAST,Bhubaneswar,07/08/2024,1.0,3387.09,0.0,3387.09,Cash on Delivery,4.0
+100468,anita verma,Home&Kitchen,East,Kolkata,11-Oct-2024,5.0,10761.08,0.0,53805.4,net banking,4.0
+100033,Arjun Rao,Sports,East,Bhubaneswar,10-08-2024,2.0,368.57,20.0,589.71,Cash on Delivery,3.0
+100416,  Priya Iyer  ,Clothing,Nort,Chandigarh,10-Nov-2024,5.0,3946.8,20.0,15787.2,cod,4.0
+100247,Arjun Joshi,electronics,north,Chandigarh,03-24-2024,3.0,37750.61,30.0,79276.28,cod,2.0
+101035,anita reddy,Home&Kitchen,south,Chennai,04-21-2025,1.0,8699.6,5.0,8264.62,Upi,
+100961,  Amit Iyer  ,beauty,Nort,Chandigarh,01-Feb-2024,1.0,1697.8,10.0,1528.02,upi,5.0
+101109,Arjun Verma,Cloths,East,Guwahati,02-25-2024,2.0,3463.3,0.0,6926.6,CC,5.0
+100887,Amit Patel,books,west,Surat,2025-06-12,1.0,187.83,0.0,187.83,UPI,1.0
+100216,POOJA MEHTA,Home and Kitchen,west,,05-09-2025,3.0,1960.51,0.0,5881.53,net banking,4.0
+100669,Shreya Iyer,Sports,West,Mumbai,2025-02-09,2.0,7136.55,5.0,13559.44,upi,4.0
+101165,Amit Nair,Sport,south,Kochi,07/06/2024,1.0,2238.13,5.0,2126.22,Net Banking,4.0
+100543,Priya Kapoor,Home and Kitchen,South,Chennai,2024/04/19,1.0,7324.36,0.0,7324.36,NetBanking,4.0
+100493,meena malhotra,Home & Kitchen,west,Pune,2025/05/17,1.0,4857.82,0.0,4857.82,Net Banking,4.0
+100464,Rahul Rao,BOOKS,north,Chandigarh,24-Feb-2024,1.0,888.14,0.0,,debit card,5.0
+100391,Manoj Nair,,NORTH,Jaipur,05-02-2025,1.0,20931.54,0.0,20931.54,Net Banking,3.0
+100438,Suresh Rao,books,SOUTH,Hyderabad,07/06/2025,2.0,1166.37,0.0,2332.74,UPI,4.0
+100582,  Amit Malhotra  ,Cloths,East,Kolkata,2024/07/08,2.0,3637.95,25.0,5456.92,,
+100069,SNEHA MALHOTRA,Electronic,NORTH,Lucknow,16-Mar-2024,,25888.03,0.0,25888.03,upi,4.0
+100326,Rahul Iyer,books,North,Jaipur,2025-01-21,2.0,350.74,0.0,701.48,Debit Card,3.0
+100719,NEHA JOSHI,Toy,SOUTH,Chennai,2024/03/29,1.0,3346.26,0.0,3346.26,,4.0
+100465,Arjun Reddy,CLOTHING,east,Kolkata,05/04/2025,3.0,1091.17,0.0,3273.51,Cash on Delivery,2.0
+100553,suresh mehta,Beauty,west,Surat,2025/03/09,4.0,1865.11,0.0,7460.44,Credit Card,2.0
+100061,Sanjay Reddy,Sport,SOUTH,Bengaluru,2024/11/15,1.0,3270.32,0.0,3270.32,Cash On Delivery,5.0
+100418,Sneha Verma,Electronics,East,Bhubaneswar,2025/03/12,1.0,38745.21,10.0,34870.69,DC,4.0
+100841,AMIT IYER,electronics,Nort,Lucknow,02/05/2024,4.0,55779.71,0.0,223118.84,COD,4.0
+100685,RAHUL GUPTA,home & kitchen,SOUTH,Hyderabad,2024/03/02,2.0,11757.6,0.0,23515.2,Debit Card,4.0
+100538,Kavita Patel,Electronics,south,Hyderabad,23-Mar-2024,2.0,13081.87,0.0,26163.74,credit card,5.0
+100155,Riya Reddy,sports,Nort,Chandigarh,2025-02-04,1.0,5296.83,0.0,5296.83,net banking,4.0
+101000,Sanjay Malhotra,sports,East,Bhubaneswar,01-Mar-2025,1.0,347.04,5.0,329.69,CC,3.0
+100684,Vikram Sharma,Home and Kitchen,East,Kolkata,01-May-2024,1.0,9210.36,0.0,9210.36,NetBanking,5.0
+100082,Manoj Reddy,beauty,north,Lucknow,03-05-2025,2.0,2705.26,0.0,,cod,4.0
+100864,SURESH RAO,Sport,north,Delhi,2025/03/31,1.0,7445.65,0.0,7445.65,NetBanking,4.0
+100366,Anita Mehta,electronics,west,Mumbai  ,2024-12-09,3.0,48069.54,15.0,122577.33,Net Banking,4.0
+100611,riya mehta,Electronic,Nort,Chandigarh,2024-09-25,2.0,14679.89,15.0,24955.81,Upi,3.0
+100348,Aarav Nair,Home and Kitchen,north,Jaipur,10/09/2024,1.0,1401.08,0.0,1401.08,Credit Card,4.0
+100976,Aarav Malhotra,sports,SOUTH,Hyderabad  ,2024/10/22,2.0,4247.66,0.0,8495.32,Net Banking,3.0
+101128,ROHAN PATEL,Home & Kitchen,Wast,Mumbai,05-08-2025,1.0,,0.0,7422.05,Cash On Delivery,3.0
+100166,Rahul Choudhary,electronics,South,Chennai,13-Oct-2024,2.0,26732.63,15.0,45445.47,Credit_Card,4.0
+100992,Karan Gupta,CLOTHING,North,Delhi,2024/07/14,1.0,947.19,0.0,947.19,Upi,
+100958,Rahul Rao,BEAUTY,SOUTH,Bengaluru,2024-05-31,1.0,2414.31,15.0,2052.16,UPI,5.0
+100546,Rahul Sharma,Electronic,south,Hyderabad,11/06/2025,1.0,7419.81,0.0,7419.81,UPI,5.0
+100204,Amit Choudhary,home & kitchen,North,Jaipur,2025-03-16,1.0,4706.1,0.0,4706.1,UPI,5.0
+100930,Karan Joshi,beauty,South,Bengaluru,2024/03/31,1.0,2439.82,0.0,2439.82,Credit Card,4.0
+100605,  Amit Choudhary  ,Electronic,south,Bengaluru,2025-03-12,1.0,25504.97,10.0,22954.47,COD,5.0
+101127,Sneha Malhotra,Sports,Nort,Chandigarh,07-Jun-2024,1.0,3731.46,30.0,2612.02,net banking,4.0
+100186,Kavita Gupta,Beauty,east,Guwahati,2025-05-24,1.0,2951.91,0.0,2951.91,DC,5.0
+101011,suresh choudhary,clothing,East,Patna,01-26-2025,2.0,560.81,0.0,1121.62,debit card,5.0
+101057,Arjun Iyer,Sports,EAST,Bhubaneswar,2024/10/21,1.0,7917.63,20.0,6334.1,DC,4.0
+100009,,sports,,Lucknow,2024/12/27,2.0,6694.89,0.0,13389.78,credit card,5.0
+100010,meena singh,Home & Kitchen,NORTH,Jaipur,2024/05/09,1.0,12110.51,0.0,12110.51,UPI,3.0
+100967,Priya Kapoor,Electronic,NORTH,,08/04/2024,1.0,39873.26,20.0,31898.61,DC,5.0
+101150,meena bose,books,WEST,Pune,2024-01-10,1.0,152.39,0.0,152.39,net banking,4.0
+100630,Riya Verma,Books,Nort,Delhi,09-Oct-2024,1.0,807.13,0.0,807.13,net banking,2.0
+100789,Arjun Choudhary,beauty,west,Mumbai,2025-04-05,1.0,1704.28,0.0,1704.28,upi,4.0
+100555,  Pooja Singh  ,Books,East,Patna,2024/10/25,1.0,1001.22,0.0,1001.22,CC,5.0
+100289,Divya Sharma,Beauty,West,Mumbai,07-29-2024,2.0,1731.75,0.0,3463.5,cod,5.0
+100427,Rahul Joshi,Home & Kitchen,EAST,Guwahati  ,23-Sep-2024,1.0,7263.05,0.0,7263.05,Net Banking,2.0
+100561,PRIYA GUPTA,Books,North,Delhi,04-Dec-2024,3.0,265.24,20.0,636.58,Cash On Delivery,5.0
+100701,Karan Mehta,Home & Kitchen,East,Bhubaneswar,03-07-2024,1.0,5109.89,0.0,5109.89,Cash On Delivery,
+101172,  Rahul Reddy  ,Cloths,west,Surat,2025-05-16,2.0,1712.94,5.0,3254.59,credit card,3.0
+100544,sanjay rao,Home & Kitchen,Nort,Jaipur,12-01-2024,1.0,,5.0,8386.68,COD,5.0
+101156,Anita Choudhary,Electronics,West,Mumbai,12/12/2024,1.0,11458.47,0.0,11458.47,NetBanking,2.0
+100943,SHREYA SHARMA,sports,east,Patna,09-14-2024,1.0,5800.45,15.0,4930.38,,1.0
+100151,Meena Singh,Home&Kitchen,South,Chennai,03-13-2024,1.0,1194.07,0.0,1194.07,Credit Card,4.0
+100112,Manoj Malhotra,Clothing,SOUTH,Hyderabad,10-07-2024,2.0,2225.02,0.0,4450.04,Cash On Delivery,4.0
+100983,DIVYA SINGH,Home&Kitchen,EAST,Guwahati,11-27-2024,1.0,8964.67,0.0,8964.67,NetBanking,3.0
+100423,  Riya Nair  ,Cloths,NORTH,Jaipur,03/04/2025,1.0,2544.3,0.0,2544.3,NetBanking,2.0
+100995,Sneha Patel,Books,East,Patna,2024/10/16,4.0,1011.18,,4044.72,Upi,5.0
+101009,POOJA MEHTA,Home & Kitchen,South,Chennai,07-16-2024,5.0,638.55,0.0,3192.75,DC,4.0
+100461,Divya Choudhary,BOOKS,Wast,Surat,2025-04-06,4.0,683.33,0.0,2733.32,DC,4.0
+101116,  Rahul Verma  ,Books,SOUTH,Kochi,06-25-2024,1.0,1066.9,5.0,1013.56,Debit Card,4.0
+100000,VIKRAM CHOUDHARY,Books,NORTH,Delhi,2024/02/16,1.0,951.13,15.0,808.46,Debit Card,3.0
+100817,Pooja Rao,toys,East,Kolkata,19/04/2025,1.0,2064.58,0.0,2064.58,upi,5.0
+100978,PRIYA BOSE,Home&Kitchen,SOUTH,Bengaluru,2025/02/21,1.0,11249.69,0.0,11249.69,,5.0
+100908,suresh bose,BEAUTY,West,Ahmedabad,2024/12/28,1.0,1663.9,0.0,1663.9,Credit Card,3.0
+100969,  Kavita Joshi  ,Toy,South,Hyderabad,2025/02/04,2.0,1965.19,25.0,2947.78,Cash on Delivery,5.0
+100890,shreya reddy,clothing,EAST,Guwahati,08-08-2024,1.0,981.32,0.0,981.32,Upi,5.0
+100711,Anita Reddy,BOOKS,Nort,Delhi,24/03/2024,3.0,937.42,20.0,2249.81,credit card,5.0
+101022,  Pooja Mehta  ,Toy,Wast,Pune,13/12/2024,1.0,1481.21,20.0,1184.97,Net Banking,5.0
+100411,,Toy,east,Guwahati,2024/08/10,3.0,922.78,0.0,2768.34,Debit Card,5.0
+100322,  Kavita Iyer  ,Books,Wast,Pune,2024/12/18,2.0,321.26,5.0,610.39,Debit Card,
+100001,ARJUN NAIR,Beauty,North,Lucknow,11/01/2025,2.0,2929.3,10.0,5272.74,Debit Card,3.0
+100716,Anita Gupta,Books,East,Guwahati,2025-03-01,2.0,935.68,0.0,1871.36,cod,5.0
+100435,Rohan Singh,home & kitchen,East,Patna,2024-10-24,1.0,12776.88,5.0,12138.04,Cash on Delivery,4.0
+100452,Arjun Nair,Electronics,WEST,Pune,06-24-2024,2.0,7366.81,25.0,11050.22,Credit_Card,5.0
+100038,amit mehta,Toys,Wast,Mumbai,07-Apr-2024,1.0,1875.44,20.0,1500.35,Net Banking,2.0
+100183,karan malhotra,Books,Wast,Ahmedabad,08/06/2024,1.0,1019.71,5.0,968.72,DC,4.0
+100217,Sneha Kapoor,ELECTRONICS,North,Chandigarh,2024/11/24,1.0,24926.4,0.0,24926.4,CC,
+100697,Rahul Reddy,beauty,Wast,Mumbai,02-14-2025,2.0,264.77,0.0,529.54,upi,4.0
+100306,Neha Kapoor,Toys,West,Mumbai,2024-03-13,1.0,3069.22,0.0,3069.22,DC,2.0
+100982,Manoj Mehta,Home&Kitchen,South,Kochi,2024/10/04,1.0,7757.78,0.0,7757.78,Upi,4.0
+100549,neha choudhary,books,Wast,Mumbai,01/07/2024,2.0,1050.38,0.0,2100.76,UPI,4.0
+100313,,BOOKS,NORTH,Chandigarh,02-20-2024,2.0,878.34,25.0,1317.51,Credit Card,5.0
+100891,Rohan Patel,Toy,South,Bengaluru,28-Mar-2024,1.0,1033.68,20.0,826.94,Upi,2.0
+100331,Meena Kapoor,toys,South,Chennai,2025/04/29,2.0,352.11,5.0,669.01,DC,5.0
+100036,Karan Joshi,CLOTHING,east,Bhubaneswar,2024-10-22,1.0,1151.79,5.0,1094.2,Cash On Delivery,5.0
+100110,Arjun Verma,Electronic,north,Jaipur,11/10/2024,1.0,33624.95,5.0,31943.7,Cash On Delivery,4.0
+100769,Meena Bose,Books,South,Chennai,2025/03/03,1.0,968.3,0.0,968.3,Debit Card,5.0
+100880,Divya Nair,toys,West,Surat,18/06/2025,1.0,1207.05,5.0,1146.7,NetBanking,4.0
+100991,  Vikram Patel  ,sports,Wast,Surat,25/01/2024,1.0,3483.11,0.0,,debit card,
+100785,Karan Verma,beauty,North,Lucknow,2024-01-09,500.0,576.7,10.0,1038.06,Cash On Delivery,4.0
+100577,Manoj Sharma,Electronics,south,Kochi,05-08-2025,3.0,25301.07,25.0,56927.41,Upi,4.0
+101028,Karan Joshi,Clothing,EAST,Kolkata,06-Apr-2024,1.0,3443.01,0.0,3443.01,net banking,4.0
+100433,sneha reddy,clothing,East,Bhubaneswar,16/05/2025,4.0,3722.36,0.0,14889.44,Upi,5.0
+100163,Kavita Iyer,Home and Kitchen,SOUTH,Hyderabad,2024-03-01,2.0,1095.82,0.0,2191.64,cod,4.0
+100263,Anita Rao,toys,North,Delhi,16-Feb-2024,2.0,,0.0,1474.82,Cash on Delivery,
+100231,  Sanjay Verma  ,Beauty,EAST,Patna,08-25-2024,2.0,366.0,5.0,695.4,Cash On Delivery,5.0
+100302,Meena Singh,Books,south,Hyderabad,02-Mar-2025,2.0,278.89,0.0,557.78,DC,2.0
+100175,Arjun Mehta,Toy,South,Bengaluru,2025-03-15,1.0,2827.37,0.0,2827.37,Net Banking,4.0
+100812,Rahul Bose,Clothing,North,Lucknow,25/04/2025,1.0,1475.32,0.0,1475.32,NetBanking,5.0
+100149,Priya Patel,Toy,WEST,Pune,08-08-2024,5.0,2075.82,10.0,9341.19,Cash on Delivery,5.0
+101196,Amit Malhotra,sports,WEST,Ahmedabad,2024-01-30,1.0,6310.63,0.0,6310.63,Credit_Card,3.0
+100071,RIYA SINGH,electronics,south,Bengaluru,09-Jun-2024,1.0,55106.36,0.0,55106.36,Net Banking,4.0
+100168,Priya Bose,BOOKS,north,Jaipur,2024-09-24,3.0,463.14,0.0,1389.42,COD,5.0
+100455,SHREYA NAIR,CLOTHING,Wast,Ahmedabad,2024/08/28,1.0,842.95,30.0,590.06,Cash on Delivery,1.0
+100089,sneha gupta,Clothing,NORTH,Lucknow,2024/08/26,2.0,3698.24,0.0,7396.48,Cash on Delivery,
+100117,Sneha Joshi,beauty,NORTH,Chandigarh,07-16-2024,2.0,2986.85,0.0,5973.7,CC,5.0
+101071,neha iyer,sports,West,Ahmedabad,2024-10-18,1.0,5773.51,5.0,5484.83,Cash on Delivery,5.0
+100321,Pooja Kapoor,Sport,Nort,Delhi,2024-02-04,3.0,4634.84,0.0,13904.52,debit card,5.0
+100965,Suresh Verma,Home & Kitchen,Nort,Delhi,03-08-2024,2.0,3667.57,25.0,5501.36,Cash On Delivery,5.0
+100459,  Neha Joshi  ,Beauty,NORTH,Delhi,16-Aug-2024,4.0,1557.0,0.0,6228.0,Upi,4.0
+100109,SNEHA SINGH,toys,Wast,Surat,11-01-2024,2.0,2320.63,0.0,4641.26,cod,5.0
+100829,neha gupta,toys,South,Hyderabad,2025-02-12,1.0,3188.12,5.0,3028.71,Upi,3.0
+100910,Aarav Malhotra,clothing,EAST,Kolkata,29/06/2024,1.0,1495.87,5.0,1421.08,Upi,
+100241,  Arjun Gupta  ,Toy,East,Bhubaneswar,31-Mar-2025,2.0,2645.72,10.0,4762.3,NetBanking,4.0
+101014,MANOJ RAO,CLOTHING,east,Patna,2025-06-14,1.0,3310.05,5.0,3144.55,net banking,2.0
+100702,Neha Singh,Books,WEST,Ahmedabad,05-24-2025,5.0,442.63,25.0,1659.86,UPI,5.0
+100878,suresh rao,electronics,,Kolkata,03-01-2024,3.0,57603.04,10.0,155528.21,Credit Card,5.0
+100692,Karan Bose,BEAUTY,South,Bengaluru,02-15-2025,1.0,1408.77,0.0,1408.77,NetBanking,4.0
+100270,  Divya Nair  ,home & kitchen,West,Pune,11/12/2024,1.0,7924.39,5.0,7528.17,Credit Card,2.0
+100111,VIKRAM GUPTA,Electronics,south,Chennai,2024/07/13,2.0,44597.28,20.0,71355.65,Upi,4.0
+100595,SURESH REDDY,Toys,,Pune,09-11-2024,1.0,2647.92,15.0,2250.73,Credit_Card,5.0
+100516,sneha kapoor,Toys,WEST,Pune,2024-08-02,1.0,1500.97,0.0,1500.97,cod,4.0
+100226,Riya Bose,Sports,NORTH,Chandigarh,05-Jun-2024,1.0,6798.86,0.0,6798.86,net banking,5.0
+100496,Sanjay Choudhary,Toys,Wast,Ahmedabad,2024-08-05,3.0,464.97,10.0,1255.42,COD,3.0
+100498,Arjun Bose,BOOKS,Wast,Surat,12-24-2024,1.0,165.75,0.0,165.75,UPI,3.0
+100855,Pooja Bose,Electronic,North,Jaipur,30/01/2025,1.0,,0.0,15321.65,credit card,4.0
+101056,Karan Nair,sports,WEST,Surat,24-Apr-2024,1.0,3040.05,20.0,2432.04,Debit Card,4.0
+100195,riya joshi,Sport,Wast,Ahmedabad,2024-08-01,1.0,4948.18,0.0,4948.18,Credit Card,5.0
+100336,Pooja Malhotra,books,SOUTH,Chennai,01-30-2025,2.0,789.13,20.0,1262.61,COD,3.0
+100803,Arjun Reddy,Sports,Nort,Delhi,28/11/2024,2.0,4899.94,0.0,9799.88,NetBanking,3.0
+100896,Divya Nair,Beauty,south,Bengaluru,03/02/2024,1.0,1957.09,0.0,1957.09,Cash on Delivery,4.0
+100948,SNEHA JOSHI,Cloths,North,Jaipur,15-Jan-2024,2.0,1864.79,10.0,3356.62,net banking,
+100137,ANITA SHARMA,Books,Nort,Lucknow,2025-01-31,1.0,480.49,0.0,480.49,Upi,5.0
+101104,Anita Kapoor,home & kitchen,south,Chennai,2025/03/12,1.0,661.11,5.0,628.05,Debit Card,4.0
+100528,SANJAY REDDY,BEAUTY,west,Pune,01/09/2024,1.0,2629.1,0.0,2629.1,net banking,5.0
+100507,Suresh Malhotra,Electronics,North,Delhi,2024-08-14,2.0,21332.88,0.0,42665.76,NetBanking,3.0
+101026,Amit Singh,Sport,Wast,Mumbai,2024/06/01,1.0,4484.68,0.0,4484.68,Credit_Card,
+100393,Rahul Gupta,BOOKS,West,Surat,02-09-2024,1.0,1009.81,,908.83,credit card,5.0
+100382,Karan Gupta,Books,SOUTH,Chennai,2025-05-10,1.0,1012.38,0.0,,debit card,5.0
+100221,meena rao,ELECTRONICS,east,Kolkata,24/04/2024,1.0,27122.39,0.0,27122.39,Net Banking,
+101010,Priya Singh,Toy,SOUTH,Hyderabad,09-Mar-2024,5.0,1070.84,0.0,5354.2,debit card,4.0
+100677,Kavita Gupta,Beauty,east,Bhubaneswar,2025-06-10,3.0,1963.33,0.0,5889.99,Debit Card,5.0
+100799,Rahul Reddy,books,North,Chandigarh,2024-01-24,2.0,1056.27,25.0,1584.4,NetBanking,4.0
+100328,Manoj Verma,Toys,East,Bhubaneswar,03-Oct-2024,5.0,1612.84,0.0,8064.2,Cash on Delivery,4.0
+100012,  Divya Sharma  ,Home&Kitchen,North,Lucknow,2024-09-30,2.0,10636.45,0.0,21272.9,upi,3.0
+100921,Manoj Joshi,Home & Kitchen,Wast,Ahmedabad,25/07/2024,1.0,3977.09,5.0,3778.24,DC,4.0
+100083,Pooja Gupta,Electronics,WEST,Pune,2024-07-15,1.0,10720.28,20.0,,DC,4.0
+100206,  Amit Sharma  ,Electronics,EAST,Bhubaneswar,2025/02/03,1.0,51338.09,10.0,46204.28,,4.0
+100103,meena rao,BOOKS,East,Guwahati,2025-05-25,2.0,735.4,5.0,1397.26,,
+100309,Anita Rao,Books,east,Bhubaneswar,25/01/2024,1.0,1021.06,0.0,1021.06,UPI,5.0
+100956,Anita Verma,BEAUTY,South,Kochi,2024-04-19,1.0,,0.0,2992.2,Cash on Delivery,5.0
+100734,Pooja Joshi,Sports,south,Bengaluru,12-May-2025,2.0,7995.39,0.0,15990.78,Upi,1.0
+101100,Suresh Kapoor,CLOTHING,EAST,Bhubaneswar,04-19-2025,2.0,1142.9,0.0,2285.8,Cash on Delivery,4.0
+100180,AMIT JOSHI,electronics,East,Kolkata,2024-11-08,1.0,1734.44,30.0,1214.11,DC,3.0
+100888,PRIYA RAO,Books,South,Bengaluru,2024/03/12,1.0,203.85,0.0,203.85,Debit Card,5.0
+101170,amit mehta,Beauty,north,Jaipur,10-Mar-2024,1.0,244.24,15.0,207.6,Cash On Delivery,4.0
+100497,Amit Mehta,books,North,Chandigarh,18-Apr-2025,1.0,451.5,0.0,451.5,debit card,4.0
+100316,Pooja Malhotra,Beauty,north,Delhi,2024-04-15,1.0,1423.57,0.0,1423.57,CC,3.0
+100141,Sanjay Verma,electronics,Nort,Jaipur,2024-07-20,2.0,7893.01,10.0,14207.42,DC,5.0
+101007,Arjun Singh,Beauty,EAST,Kolkata,02-20-2025,1.0,1996.52,0.0,1996.52,DC,3.0
+100327,suresh nair,electronics,west,Pune,20-May-2025,1.0,7777.77,0.0,7777.77,Cash on Delivery,4.0
+100660,Amit Verma,sports,South,Kochi,2024-05-21,2.0,3859.24,0.0,7718.48,CC,4.0
+100346,  Sneha Reddy  ,Electronics,North,Lucknow,02-Dec-2024,1.0,30629.01,15.0,26034.66,Upi,5.0
+100210,Rahul Singh,CLOTHING,east,Bhubaneswar,2024/11/06,2.0,1207.46,15.0,2052.68,COD,4.0
+100567,Amit Reddy,Books,NORTH,,20/10/2024,,807.76,0.0,3231.04,Cash on Delivery,5.0
+100142,Anita Malhotra,Sport,east,Bhubaneswar,25/07/2024,2.0,6950.56,,11815.95,DC,4.0
+100514,kavita rao,Clothing,north,Chandigarh,2024-05-28,1.0,968.61,0.0,-968.61,Cash on Delivery,5.0
+100362,  Karan Nair  ,toys,Nort,Delhi,11/10/2024,1.0,1523.66,15.0,1295.11,Cash On Delivery,5.0
+100004,divya malhotra,Home and Kitchen,SOUTH,Bengaluru,13-Jan-2025,1.0,12448.94,10.0,11204.05,Credit Card,
+100044,Rahul Kapoor,Cloths,Wast,Surat,22/06/2024,1.0,1026.81,10.0,924.13,Credit_Card,4.0
+100281,KAVITA BOSE,Electronics,South,Kochi,27-May-2025,1.0,48662.17,25.0,36496.63,UPI,4.0
+100202,Rohan Iyer,books,North,Jaipur,2025-02-21,2.0,423.55,15.0,720.04,COD,
+100871,  Manoj Malhotra  ,ELECTRONICS,NORTH,Jaipur,2024/12/22,2.0,14243.48,0.0,28486.96,debit card,
+100358,Arjun Rao,ELECTRONICS,East,Kolkata,2025-02-02,2.0,46883.78,0.0,93767.56,credit card,4.0
+100563,Suresh Nair,clothing,East,Bhubaneswar,2025/01/07,1.0,3844.94,10.0,3460.45,credit card,4.0
+100798,SHREYA VERMA,sports,North,Chandigarh,21/05/2024,2.0,2758.95,0.0,5517.9,DC,
+100371,Riya Mehta,BEAUTY,west,Surat,28/01/2024,1.0,986.82,10.0,888.14,Upi,3.0
+100925,Rahul Sharma,Electronic,South,Hyderabad,31-May-2024,1.0,24687.05,0.0,24687.05,NetBanking,1.0
+100915,  Vikram Mehta  ,sports,Nort,Chandigarh,11-14-2024,1.0,2680.28,25.0,2010.21,CC,5.0
+100459,  Neha Joshi  ,Beauty,NORTH,Delhi,16-Aug-2024,4.0,1557.0,0.0,6228.0,Upi,4.0
+100237,Rohan Gupta,ELECTRONICS,Nort,Jaipur,06-11-2025,1.0,,0.0,41597.52,debit card,5.0
+100957,Vikram Joshi,Clothing,West,Ahmedabad,08/03/2024,3.0,1573.75,5.0,4485.19,Debit Card,4.0
+100683,Meena Nair,electronics,EAST,Patna,2025/03/16,3.0,52341.87,0.0,157025.61,cod,5.0
+100273,Amit Reddy,Cloths,SOUTH,Bengaluru,2024/09/14,1.0,520.1,5.0,494.1,Net Banking,3.0
+101036,Vikram Reddy,Home & Kitchen,west,Ahmedabad,2024-02-26,1.0,6930.59,5.0,6584.06,Credit_Card,5.0
+100632,Amit Singh,books,west,Surat,13/11/2024,1.0,329.58,0.0,329.58,Upi,5.0
+100194,divya verma,Electronics,North,Jaipur,2024-12-05,2.0,23562.96,20.0,37700.74,COD,4.0
+100513,Sneha Gupta,,NORTH,Chandigarh,2024/08/20,,54040.02,0.0,270200.1,Credit_Card,4.0
+100614,Rohan Mehta,beauty,NORTH,Jaipur,2024/09/30,1.0,1015.72,25.0,761.79,Debit Card,5.0
+100431,rahul iyer,books,WEST,Ahmedabad,2024/05/12,1.0,345.17,0.0,345.17,UPI,3.0
+100674,Rahul Singh,sports,West,Surat,22-Jan-2025,5.0,1994.8,10.0,8976.6,Cash on Delivery,1.0
+100793,Amit Sharma,Toy,South,Bengaluru,2024/09/17,2.0,1177.69,0.0,2355.38,credit card,4.0
+100209,Shreya Patel,Home&Kitchen,east,Guwahati,02-24-2024,1.0,12727.88,0.0,12727.88,upi,4.0
+100162,Suresh Nair,CLOTHING,EAST,Patna,05/04/2025,1.0,2209.52,0.0,2209.52,Upi,4.0
+100635,Kavita Reddy,Home&Kitchen,north,Jaipur,22/12/2024,1.0,11267.29,0.0,11267.29,credit card,4.0
+101020,aarav mehta,electronics,SOUTH,Kochi,19/01/2024,1.0,15273.94,10.0,13746.55,net banking,4.0
+100952,Shreya Mehta,Sport,West,Pune,2025/06/22,1.0,7193.53,20.0,5754.82,Net Banking,
+100087,Amit Bose,Sports,WEST,Surat,2024-12-10,2.0,4788.41,0.0,9576.82,Upi,4.0
+100345,  Amit Mehta  ,toys,north,Delhi,2024/08/24,1.0,1387.06,10.0,1248.35,upi,
+101030,Aarav Mehta,sports,south,Hyderabad,2024-04-02,1.0,613.65,5.0,582.97,,4.0
+100717,PRIYA NAIR,Toy,Nort,Chandigarh,12/03/2025,1.0,40135.5,0.0,802.71,upi,4.0
+100190,Meena Reddy,Cloths,east,Guwahati,12-14-2024,2.0,2038.26,15.0,3465.04,cod,4.0
+100752,Meena Sharma,sports,south,Kochi,05-21-2025,2.0,1780.89,0.0,3561.78,Cash on Delivery,4.0
+100178,priya singh,beauty,north,,07-May-2024,2.0,1019.74,5.0,1937.51,Net Banking,3.0
+100768,Rahul Joshi,ELECTRONICS,west,Pune,2024-02-12,3.0,2817378.5,0.0,169042.71,net banking,4.0
+100556,Shreya Malhotra,Books,SOUTH,Hyderabad,04-01-2025,2.0,1145.5,0.0,2291.0,Debit Card,
+100876,Amit Reddy,Beauty,east,Kolkata,04-25-2024,1.0,653.57,0.0,653.57,Net Banking,4.0
+100392,Sanjay Kapoor,Home&Kitchen,West,Ahmedabad,17-Feb-2024,1.0,1977.64,30.0,1384.35,cod,3.0
+100681,  ARJUN IYER  ,toys,NORTH,Delhi,2025/04/21,1.0,1644.21,0.0,1644.21,Credit_Card,5.0
+101199,karan patel,toys,West,Surat,2024-08-22,1.0,1195.8,5.0,1136.01,upi,2.0
+100854,Divya Joshi,toys,Wast,Surat,21/07/2024,4.0,2187.23,0.0,8748.92,CC,5.0
+100744,Sneha Sharma,Home&Kitchen,West,Pune,2024-10-10,1.0,11652.98,0.0,11652.98,upi,2.0
+101031,RIYA VERMA,Sport,west,Surat,04-Apr-2024,1.0,1765.2,0.0,1765.2,Debit Card,2.0
+101189,RAHUL GUPTA,Electronics,Wast,Ahmedabad,2024/04/20,2.0,45559.74,5.0,86563.51,debit card,
+101048,Rahul Patel,beauty,South,,05-Jul-2024,1.0,1099.82,0.0,1099.82,COD,4.0
+100849,Meena Rao,clothing,NORTH,Lucknow,30-Mar-2025,1.0,2622.68,0.0,2622.68,UPI,5.0
+100511,POOJA MEHTA,Books,EAST,Bhubaneswar,03/01/2024,2.0,1143.71,0.0,2287.42,Cash on Delivery,4.0
+100946,SNEHA KAPOOR,clothing,SOUTH,,2024/11/09,4.0,2021.12,0.0,8084.48,credit card,5.0
+100439,Arjun Kapoor,Cloths,west,Pune,2024/04/04,3.0,2016.51,10.0,5444.58,Credit_Card,4.0
+100728,Anita Nair,Clothing,South,Bengaluru,30-May-2025,1.0,2088.83,0.0,2088.83,Debit Card,5.0
+100471,Arjun Malhotra,Toys,east,Patna,28/02/2024,1.0,1067.59,0.0,1067.59,Credit Card,3.0
+100398,Riya Gupta,sports,WEST,Ahmedabad,17/12/2024,1.0,2599.79,5.0,2469.8,upi,4.0
+100944,AARAV MEHTA,Toys,Wast,Pune,31-May-2024,2.0,805.83,0.0,1611.66,Credit_Card,3.0
+100035,Anita Nair,books,South,Hyderabad,05-31-2024,2.0,899.42,0.0,1798.84,Cash On Delivery,
+100205,SNEHA PATEL,Electronics,east,Guwahati,2025-04-01,1.0,33228.32,0.0,33228.32,upi,3.0
+100608,Rahul Sharma,ELECTRONICS,,Ahmedabad,02-20-2024,1.0,12119.1,10.0,10907.19,UPI,3.0
+101129,,BEAUTY,South,Kochi,22-Jan-2025,1.0,1785.92,0.0,1785.92,UPI,
+100859,Sanjay Kapoor,Sport,Nort,Chandigarh,05-27-2025,1.0,4597.69,5.0,4367.81,credit card,4.0
+100043,Neha Joshi,beauty,NORTH,Chandigarh,07-Mar-2024,1.0,544.52,5.0,517.29,upi,5.0
+100261,VIKRAM VERMA,BOOKS,South,Chennai,10/02/2025,1.0,925.04,0.0,925.04,Cash on Delivery,4.0
+100865,  AARAV IYER  ,Sports,south,Chennai,12-24-2024,3.0,4280.71,5.0,12200.02,credit card,4.0
+100429,VIKRAM MALHOTRA,beauty,Nort,Lucknow,25-Aug-2024,2.0,1870.17,15.0,3179.29,net banking,5.0
+100228,Neha Patel,Toy,EAST,Kolkata,2024/07/31,1.0,3324.24,10.0,2991.82,NetBanking,5.0
+100724,Meena Gupta,Sport,north,Delhi,26/03/2024,1.0,4609.47,0.0,4609.47,Credit Card,2.0
+100005,Karan Kapoor,Home&Kitchen,East,Bhubaneswar,2024/07/10,2.0,13418.19,0.0,26836.38,upi,4.0
+100594,Meena Kapoor,BOOKS,south,Bengaluru,2024/03/06,1.0,618.54,0.0,618.54,net banking,5.0
+100840,Rohan Iyer,CLOTHING,north,Lucknow,2024-08-13,2.0,614.41,20.0,983.06,Cash On Delivery,4.0
+100647,MANOJ KAPOOR,Sport,south,Chennai,2025-01-15,2.0,4360.42,0.0,8720.84,upi,3.0
+101152,SANJAY CHOUDHARY,Electronics,south,Bengaluru,2025/01/28,2.0,4676.03,,9352.06,net banking,5.0
+100585,Riya Malhotra,Toys,west,Mumbai,2024/09/25,1.0,2261.01,0.0,2261.01,cod,4.0
+100727,  Amit Joshi  ,clothing,north,Lucknow,2025-06-02,2.0,2674.14,10.0,4813.45,DC,5.0
+100318,Neha Kapoor,beauty,WEST,Mumbai,09/04/2025,1.0,1875.44,0.0,1875.44,Cash On Delivery,
+100629,Kavita Joshi,toys,East,Guwahati,01/02/2025,1.0,1661.57,15.0,1412.33,Cash On Delivery,5.0
+101145,  Karan Mehta  ,Electronic,South,Kochi,17/02/2024,1.0,14213.91,0.0,14213.91,UPI,4.0
+100034,Sneha Choudhary,Beauty,EAST,Patna,05-Mar-2024,1.0,1706.7,5.0,1621.36,Upi,5.0
+100312,Arjun Reddy,BOOKS,NORTH,Delhi,2024/04/17,1.0,307.49,25.0,230.62,Cash on Delivery,5.0
+100318,Neha Kapoor,beauty,WEST,Mumbai,09/04/2025,1.0,1875.44,0.0,1875.44,Cash On Delivery,
+100075,Kavita Choudhary,Beauty,West,Pune,21-Feb-2024,3.0,345.03,0.0,1035.09,Upi,
+100173,Arjun Rao,Electronics,WEST,,03-28-2024,1.0,51546.26,,41237.01,debit card,4.0
+100094,MANOJ IYER,Books,South,Chennai,04-Jun-2025,1.0,155.88,15.0,132.5,UPI,5.0
+100051,Arjun Kapoor,beauty,west,Surat,08-Dec-2024,1.0,506.98,25.0,380.24,COD,5.0
+100551,RIYA MEHTA,Toys,South,Hyderabad,20-Jul-2024,1.0,,0.0,1842.26,cod,4.0
+100788,Anita Kapoor,electronics,Wast,Ahmedabad,2024-05-11,5.0,29584.68,0.0,147923.4,UPI,5.0
+101108,Amit Verma,toys,north,Chandigarh,15-May-2024,1.0,2270.9,20.0,1816.72,UPI,1.0
+100831,,Clothing,south,Hyderabad,2025-03-05,1.0,1081.42,15.0,919.21,Credit Card,4.0
+100825,Meena Mehta,Toys,west,Mumbai,02-13-2025,2.0,2677.11,15.0,4551.09,NetBanking,5.0
+100419,Sanjay Choudhary,Books,West,Pune,2024/06/29,1.0,239.08,15.0,203.22,net banking,4.0
+100747,KARAN CHOUDHARY,beauty,Nort,Delhi  ,20/06/2024,1.0,1796.93,0.0,1796.93,Upi,4.0
+100220,Kavita Joshi,home & kitchen,West,Surat,2025/03/22,2.0,9416.09,10.0,16948.96,Upi,
+100508,Manoj Sharma,books,East,Guwahati,28-May-2024,2.0,1076.72,0.0,2153.44,upi,
+100710,Neha Gupta,BOOKS,east,Guwahati,01/11/2024,1.0,526.25,0.0,526.25,Net Banking,
+100895,SHREYA MEHTA,Beauty,east,Kolkata,18/12/2024,3.0,1492.09,0.0,4476.27,Upi,4.0
+100607,Manoj Patel,BEAUTY,East,Guwahati,02/01/2024,1.0,1709.62,0.0,1709.62,Net Banking,4.0
+100387,Amit Reddy,beauty,south,Chennai,2024-05-12,4.0,178.83,,643.79,upi,5.0
+100093,Suresh Bose,clothing,East,Bhubaneswar,2025-02-23,2.0,3669.36,0.0,7338.72,Net Banking,1.0
+100751,suresh verma,,Wast,Pune,2024-09-02,2.0,931.56,20.0,1490.5,Debit Card,5.0
+100916,ARJUN VERMA,Sport,south,Hyderabad,26-Nov-2024,1.0,,30.0,4983.23,net banking,4.0
+100651,sneha nair,beauty,north,Jaipur,2024-07-16,,1823.45,5.0,1732.28,net banking,5.0
+100148,Kavita Rao,ELECTRONICS,SOUTH,Kochi,22/02/2025,5.0,48734.75,0.0,243673.75,Cash on Delivery,3.0
+100753,Divya Verma,toys,SOUTH,Chennai,05-25-2025,1.0,1049.52,5.0,997.04,NetBanking,
+100482,rahul mehta,Home&Kitchen,North,Chandigarh,2024/07/21,1.0,7637.18,0.0,7637.18,net banking,3.0
+100402,Anita Patel,BOOKS,east,Patna,2025/03/25,1.0,194.47,0.0,194.47,Debit Card,4.0
+100249,pooja patel,sports,Nort,Delhi,22/04/2025,2.0,1072.39,0.0,2144.78,Net Banking,4.0
+100340,Pooja Reddy,home & kitchen,SOUTH,Bengaluru,2025-03-23,1.0,4763.33,,4525.16,upi,2.0
+100959,meena malhotra,ELECTRONICS,Wast,Mumbai,02/01/2024,2.0,56183.29,15.0,95511.59,Cash On Delivery,4.0
+100200,KARAN NAIR,Sport,north,Lucknow,2024-01-05,1.0,3853.65,0.0,3853.65,UPI,
+101033,Rohan Iyer,BOOKS,Nort,Delhi,26/04/2024,2.0,609.54,,1036.22,NetBanking,3.0
+100091,Pooja Sharma,Beauty,,Guwahati,2024-02-27,2.0,2030.49,0.0,4060.98,Upi,5.0
+100732,  Kavita Gupta  ,Home&Kitchen,West,Ahmedabad,31-May-2025,4.0,7407.33,10.0,26666.39,,4.0
+100540,Manoj Kapoor,books,WEST,Ahmedabad,2024/09/09,2.0,1010.85,5.0,1920.62,upi,5.0
+100691,Vikram Malhotra,Sport,West,Ahmedabad,2024/04/10,1.0,2553.99,10.0,2298.59,credit card,5.0
+100584,Suresh Nair,BOOKS,East,Kolkata,2024/11/13,1.0,416.7,0.0,416.7,Cash On Delivery,5.0
+100442,Sanjay Choudhary,Books,east,Patna,08/04/2025,1.0,264.81,5.0,251.57,cod,2.0
+100609,Rahul Singh,beauty,EAST,Bhubaneswar,2024/11/06,1.0,2548.78,10.0,2293.9,Upi,4.0
+100186,Kavita Gupta,Beauty,east,Guwahati,2025-05-24,1.0,2951.91,0.0,2951.91,DC,5.0
+100280,Vikram Sharma,home & kitchen,North,Lucknow,09/09/2024,1.0,853.79,,853.79,Cash On Delivery,5.0
+100410,vikram choudhary,ELECTRONICS,North,Jaipur,2024/06/15,1.0,38158.39,5.0,36250.47,Upi,5.0
+100950,vikram rao,Home & Kitchen,south,Hyderabad,2025/04/29,1.0,822.58,15.0,699.19,CC,5.0
+101070,Meena Iyer,Cloths,WEST,Ahmedabad,23-Jun-2025,1.0,358.89,0.0,358.89,UPI,5.0
+100568,kavita kapoor,sports,east,Kolkata,16-Apr-2025,1.0,395.31,0.0,395.31,Debit Card,5.0
+100935,Divya Joshi,books,EAST,Kolkata,2024-04-12,1.0,593.14,5.0,563.48,Upi,4.0
+100694,Kavita Choudhary,sports,south,Bengaluru,28/05/2024,1.0,3742.6,0.0,3742.6,Upi,3.0
+101193,Rohan Sharma,Toy,south,Hyderabad,27/02/2025,1.0,1207.58,30.0,845.31,net banking,2.0
+100687,Rahul Malhotra,Books,west,Mumbai,04-17-2025,4.0,1035.14,0.0,4140.56,debit card,2.0
+100335,Amit Singh,Beauty,EAST,Kolkata,2025-02-01,2.0,724.94,0.0,1449.88,Credit_Card,3.0
+100642,Rahul Rao,ELECTRONICS,Wast,Pune,03-Nov-2024,1.0,8921.24,30.0,6244.87,net banking,5.0
+100314,  Karan Choudhary  ,books,East,Kolkata,2024-06-11,1.0,1137.66,10.0,1023.89,Credit_Card,4.0
+100782,Neha Mehta,ELECTRONICS,SOUTH,Chennai  ,2025/03/30,1.0,46274.53,15.0,39333.35,UPI,4.0
+100943,SHREYA SHARMA,sports,east,Patna,09-14-2024,1.0,5800.45,15.0,4930.38,,1.0
+101190,Kavita Singh,home & kitchen,south,Bengaluru,12-17-2024,1.0,13938.95,0.0,13938.95,NetBanking,5.0
+101187,Sanjay Mehta,beauty,WEST,Mumbai,02/07/2024,1.0,2619.36,0.0,2619.36,Cash On Delivery,2.0
+100506,Vikram Joshi,CLOTHING,SOUTH,Kochi,09-20-2024,2.0,,5.0,2090.38,Cash on Delivery,3.0
+101082,Aarav Sharma,BEAUTY,East,Bhubaneswar,2024/10/08,1.0,1942.47,0.0,1942.47,net banking,5.0
+100133,meena iyer,Home&Kitchen,WEST,Ahmedabad,2024-12-08,1.0,9381.29,10.0,8443.16,credit card,
+100092,vikram malhotra,Books,North,,2025/04/06,1.0,130.93,0.0,130.93,UPI,3.0
+100834,Shreya Kapoor,clothing,SOUTH,Chennai,09-16-2024,1.0,3079.85,0.0,3079.85,NetBanking,4.0
+100592,Manoj Sharma,clothing,east,Patna,2024/11/23,2.0,2118.96,20.0,3390.34,cod,5.0
+100399,KAVITA JOSHI,Home & Kitchen,north,Lucknow,05-06-2025,1.0,8618.74,5.0,8187.8,upi,5.0
+101073,Divya Patel,Sport,WEST,Surat,2024-08-11,1.0,,0.0,7289.99,Credit Card,5.0
+100394,Aarav Patel,beauty,Wast,Mumbai,21/05/2025,1.0,2658.31,0.0,2658.31,Debit Card,4.0
+101079,  Riya Mehta  ,Home & Kitchen,West,Mumbai,2024/02/16,1.0,7053.09,0.0,7053.09,net banking,4.0
+101181,sanjay patel,Books,WEST,Ahmedabad,10/12/2024,1.0,535.06,20.0,428.05,Net Banking,4.0
+100575,Sneha Nair,beauty,south,Kochi,29-Jun-2024,1.0,1408.16,10.0,1267.34,Cash On Delivery,5.0
+100573,Kavita Mehta,BOOKS,Wast,Mumbai,2025-04-08,,1118.73,15.0,950.92,debit card,2.0
+101144,Neha Choudhary,Home&Kitchen,south,Bengaluru,19/03/2024,1.0,13435.48,5.0,12763.71,Net Banking,4.0
+100278,Rahul Nair,home & kitchen,west,Surat,07/08/2024,1.0,1789.56,5.0,1700.08,Credit Card,5.0
+100735,pooja kapoor,BEAUTY,South,Chennai,02-03-2024,1.0,1838.89,20.0,1471.11,Cash on Delivery,
+101067,Riya Bose,toys,East,Bhubaneswar,08-23-2024,1.0,304.32,15.0,258.67,cod,5.0
+100279,Karan Gupta,sports,,Hyderabad,03-06-2024,2.0,6083.32,0.0,12166.64,CC,
+100639,Neha Iyer,home & kitchen,NORTH,Lucknow,04/03/2024,1.0,4263.64,0.0,4263.64,Upi,1.0
+100337,Arjun Verma,Beauty,north,Chandigarh,27/05/2024,1.0,2872.54,0.0,2872.54,DC,4.0
+100227,Pooja Bose,electronics,East,,26/04/2025,1.0,59520.75,5.0,56544.71,cod,4.0
+100698,Sneha Verma,ELECTRONICS,NORTH,Jaipur,05-26-2024,5.0,11621.9,0.0,58109.5,Debit Card,5.0
+100008,,home & kitchen,SOUTH,Chennai,31/10/2024,1.0,2122.84,0.0,2122.84,NetBanking,4.0
+100085,Anita Reddy,clothing,EAST,Patna,05-20-2025,1.0,2073.67,30.0,1451.57,net banking,5.0
+101080,Shreya Kapoor,Electronics,SOUTH,Kochi,05-20-2025,2.0,31065.76,0.0,62131.52,Credit_Card,5.0
+100937,sneha sharma,home & kitchen,north,Lucknow,04-10-2024,4.0,1253.3,5.0,4762.54,Cash On Delivery,3.0
+100068,Sneha Bose,beauty,WEST,Surat,2024/02/03,1.0,1216.76,0.0,1216.76,Upi,4.0
+101136,POOJA BOSE,Home&Kitchen,East,Guwahati,14/01/2024,3.0,11349.86,0.0,34049.58,NetBanking,5.0
+100096,NEHA KAPOOR,Home&Kitchen,North,Lucknow,2024-09-03,2.0,10532.19,0.0,21064.38,Cash On Delivery,3.0
+100341,Divya Sharma,books,west,Mumbai,15-Jan-2025,2.0,628.72,10.0,1131.7,NetBanking,5.0
+100121,  Shreya Malhotra  ,CLOTHING,South,Hyderabad,18/06/2025,1.0,1958.51,0.0,1958.51,DC,5.0
+100156,  Karan Nair  ,beauty,EAST,Bhubaneswar,02-02-2024,2.0,550.78,0.0,1101.56,UPI,5.0
+101081,Anita Kapoor,beauty,SOUTH,Kochi,2025-02-22,1.0,434.29,0.0,434.29,UPI,4.0
+100979,  Aarav Gupta  ,beauty,north,Delhi,09-Sep-2024,1.0,2765.74,15.0,2350.88,upi,3.0
+100024,Meena Patel,home & kitchen,East,Kolkata,2025/01/15,3.0,1626.59,0.0,4879.77,debit card,4.0
+100633,Vikram Patel,Sports,EAST,Guwahati,04-Feb-2024,1.0,3136.46,0.0,3136.46,Credit_Card,5.0
+100470,amit choudhary,Books,SOUTH,Bengaluru,2025/05/25,1.0,1120.36,0.0,1120.36,Credit_Card,4.0
+100557,POOJA BOSE,BOOKS,East,Patna,01-29-2024,1.0,1130.71,5.0,1074.17,NetBanking,4.0
+100723,Rahul Sharma,home & kitchen,EAST,Bhubaneswar,2024/05/26,2.0,752.19,0.0,1504.38,Cash on Delivery,4.0
+100293,Pooja Choudhary,Toys,South,Kochi,2024-01-15,1.0,3004.69,0.0,3004.69,Cash on Delivery,1.0
+100772,NEHA SINGH,Sport,south,Bengaluru,08-19-2024,1.0,4510.84,15.0,3834.21,debit card,
+100414,Karan Joshi,ELECTRONICS,south,Hyderabad,08-05-2024,1.0,32316.23,15.0,27468.8,Credit_Card,4.0
+101077,Anita Iyer,Clothing,east,Patna,06-11-2024,1.0,2726.89,10.0,2454.2,COD,4.0
+101177,Vikram Malhotra,Books,EAST,Kolkata,11/11/2024,1.0,364.79,0.0,364.79,Credit Card,5.0
+100164,Meena Sharma,,Wast,Surat,06-05-2024,1.0,-3274.18,0.0,3274.18,UPI,5.0
+100120,Arjun Malhotra,clothing,South,Hyderabad,2025/03/08,1.0,3959.79,15.0,3365.82,UPI,3.0
+100905,Sanjay Choudhary,CLOTHING,West,Surat,12-15-2024,500.0,946.83,0.0,946.83,DC,5.0
+100696,arjun iyer,Sports,South,Hyderabad,30-Sep-2024,1.0,966.87,10.0,870.18,upi,5.0
+100282,amit iyer,books,Nort,Jaipur,10/03/2025,4.0,642.53,0.0,2570.12,debit card,5.0
+100364,Sanjay Nair,BEAUTY,NORTH,Lucknow,2025/06/07,2.0,813.04,10.0,1463.47,credit card,4.0
+100746,Sanjay Gupta,books,NORTH,Delhi,04-10-2025,2.0,628.15,5.0,1193.48,CC,4.0
+100310,Priya Singh,Books,South,Bengaluru,2025/04/15,1.0,270.49,20.0,216.39,Upi,4.0
+100510,Sanjay Malhotra,Electronics,EAST,Kolkata,30-Apr-2025,2.0,3812.13,0.0,7624.26,UPI,5.0
+100179,Neha Iyer,ELECTRONICS,west,Surat,09-Mar-2024,1.0,42046.08,0.0,42046.08,DC,
+100911,  Kavita Sharma  ,Sports,north,Delhi,01-05-2025,2.0,2501.31,5.0,4752.49,Debit Card,4.0
+100809,Anita Kapoor,Beauty,South,Kochi,2024/10/15,2.0,187.61,0.0,375.22,net banking,2.0
+100820,Neha Joshi,Sport,East,Bhubaneswar,01-Mar-2025,1.0,503.5,0.0,503.5,debit card,5.0
+100069,Sneha Malhotra,Electronic,NORTH,Lucknow,16-Mar-2024,,25888.03,0.0,25888.03,upi,4.0
+100783,SURESH GUPTA,Toys,east,Guwahati,29/02/2024,1.0,1844.98,0.0,,cod,3.0
+100523,ARJUN VERMA,Electronics,South,Kochi,2024/05/06,2.0,26435.29,0.0,52870.58,Credit_Card,4.0
+101173,Karan Joshi,Sport,west,Surat  ,01-23-2025,4.0,5904.87,0.0,23619.48,upi,
+101032,SANJAY SHARMA,Home and Kitchen,west,Pune,2024/04/13,5.0,4239.51,20.0,16958.04,NetBanking,4.0
+100804,SURESH RAO,Clothing,south,Bengaluru,12/05/2024,4.0,1486.16,5.0,5647.41,credit card,4.0
+100815,  Divya Verma  ,books,Nort,Jaipur,2024-04-24,1.0,517.38,0.0,517.38,Debit Card,5.0
+100123,Arjun Joshi,BOOKS,Wast,Pune,04-07-2024,1.0,148.16,0.0,148.16,upi,4.0
+100863,SHREYA BOSE,Cloths,north,Jaipur,19-Jan-2025,1.0,3905.44,30.0,2733.81,NetBanking,5.0
+100058,riya reddy,Home & Kitchen,,Kochi,2025-05-09,1.0,12405.03,0.0,12405.03,Credit Card,3.0
+101162,Divya Gupta,Home&Kitchen,SOUTH,Hyderabad,20-Apr-2024,2.0,3691.21,20.0,5905.94,Net Banking,4.0
+100363,MANOJ PATEL,Sport,South,Chennai,2024/12/12,1.0,7867.3,0.0,7867.3,Net Banking,
+100140,Sanjay Gupta,sports,NORTH,Lucknow,30/01/2024,2.0,7412.67,0.0,14825.34,Upi,2.0
+100265,Amit Patel,beauty,West,Pune,2024/07/31,2.0,2929.23,0.0,5858.46,CC,4.0
+100833,Meena Patel,Toys,Nort,Delhi,18/04/2025,1.0,820.91,0.0,820.91,Cash on Delivery,4.0
+101095,Suresh Patel,Toy,NORTH,Delhi,26-Apr-2024,1.0,2550.83,10.0,2295.75,Cash On Delivery,5.0
+100248,Arjun Verma,Books,NORTH,Lucknow,14-Sep-2024,,250.94,0.0,501.88,cod,5.0
+100380,ARJUN JOSHI,Books,south,Chennai,09-16-2024,1.0,966.36,25.0,724.77,cod,4.0
+100604,Shreya Mehta,Beauty,NORTH,Lucknow,2025-05-13,1.0,,0.0,135.21,UPI,4.0
+101123,,Sports,East,Bhubaneswar,28/10/2024,1.0,6571.2,0.0,6571.2,Cash on Delivery,4.0
+101133,Amit Malhotra,Home & Kitchen,Nort,Jaipur,13/12/2024,1.0,12955.01,0.0,12955.01,NetBanking,1.0
+100550,Rohan Sharma,Cloths,WEST,Surat,2024/03/27,1.0,486.41,0.0,486.41,Credit_Card,
+100147,,Books,South,Bengaluru,2024-05-28,1.0,305.54,0.0,305.54,NetBanking,5.0
+100251,  Neha Rao  ,Toy,west,Ahmedabad,2024-12-18,1.0,3498.06,0.0,3498.06,UPI,5.0
+100980,Rohan Verma,books,SOUTH,Bengaluru,2024-05-02,1.0,507.78,10.0,457.0,UPI,4.0
+101154,MEENA JOSHI,Beauty,Nort,Chandigarh,12-28-2024,2.0,2057.29,25.0,3085.94,COD,4.0
+100212,Neha Malhotra,Cloths,south,Kochi,2024/06/26,2.0,3778.07,10.0,6800.53,DC,4.0
+100440,riya patel,CLOTHING,EAST,Bhubaneswar,28/02/2025,1.0,3480.38,15.0,2958.32,upi,5.0
+101069,Anita Iyer,toys,South,Kochi,11-08-2024,1.0,2431.24,25.0,1823.43,NetBanking,4.0
+100564,  Karan Reddy  ,Sports,North,Delhi,01/01/2024,1.0,296.7,0.0,296.7,Net Banking,4.0
+100330,meena mehta,beauty,south,Hyderabad,2024/09/23,5.0,247.42,0.0,1237.1,cod,4.0
+100432,Karan Kapoor,toys,south,Bengaluru,2024-11-24,3.0,2911.79,0.0,8735.37,credit card,1.0
+100276,Anita Rao,Books,Nort,Lucknow,2024-07-03,1.0,496.2,0.0,496.2,Cash On Delivery,5.0
+101111,Sneha Verma,Sports,WEST,Ahmedabad,09/07/2024,2.0,1901.56,10.0,3422.81,DC,3.0
+101103,Karan Choudhary,CLOTHING,South,Bengaluru,2024/09/19,1.0,1171.93,0.0,1171.93,Debit Card,4.0
+101008,  manoj rao  ,Home and Kitchen,NORTH,Delhi,24/02/2024,2.0,10060.01,0.0,20120.02,Cash on Delivery,2.0
+100291,Neha Choudhary,books,north,Delhi,2024/01/29,3.0,531.13,5.0,1513.72,COD,1.0
+100901,Meena Malhotra,Books,NORTH,Chandigarh,2024-08-30,1.0,1034.47,25.0,775.85,debit card,4.0
+100448,riya singh,Electronic,West,Mumbai,14/06/2024,1.0,17858.73,5.0,16965.79,DC,5.0
+100385,RAHUL CHOUDHARY,Toy,south,Kochi,2024/01/28,2.0,1013.0,10.0,1823.4,Credit_Card,5.0
+101050,Neha Reddy,Electronics,Wast,Mumbai,02-Feb-2024,2.0,21191.51,0.0,42383.02,Cash on Delivery,4.0
+100524,Sneha Iyer,sports,west,Pune,25-May-2025,1.0,7914.92,15.0,6727.68,UPI,4.0
+101088,Aarav Sharma,Home&Kitchen,EAST,,01-20-2025,1.0,3469.01,20.0,2775.21,Credit_Card,4.0
+100303,Shreya Verma,Toys,West,Surat,2024/11/30,1.0,1696.79,0.0,1696.79,NetBanking,3.0
+100487,Vikram Choudhary,home & kitchen,South,Chennai,2024-03-03,,10871.4,,10327.83,Credit Card,5.0
+101072,Pooja Sharma,Toy,South,Chennai,09/06/2025,1.0,1527.79,0.0,1527.79,upi,5.0
+101163,Amit Patel,sports,EAST,Guwahati,2024-08-07,1.0,5757.35,0.0,5757.35,UPI,3.0
+100940,  Neha Malhotra  ,Clothing,EAST,Kolkata,2024/08/02,1.0,3911.94,10.0,3520.75,net banking,2.0
+100972,Anita Mehta,beauty,SOUTH,Kochi,29/01/2025,1.0,1812.56,10.0,1631.3,Cash on Delivery,5.0
+100067,Sanjay Rao,Sports,south,Kochi,2025-02-24,1.0,4381.33,15.0,3724.13,NetBanking,4.0
+100019,karan bose,Toys,south,Kochi,01-13-2024,1.0,2569.9,0.0,2569.9,Cash On Delivery,4.0
+100877,Vikram Verma,Sports,north,Chandigarh,21/04/2025,2.0,910.83,0.0,1821.66,Credit Card,4.0
+100324,Priya Joshi,BEAUTY,North,Jaipur,2024/03/07,1.0,2842.51,10.0,2558.26,Cash On Delivery,3.0
+100260,Meena Reddy,electronics,east,Guwahati,2024/06/25,2.0,24577.17,0.0,49154.34,Net Banking,4.0
+100130,amit iyer,Sport,Nort,Jaipur,19/06/2024,1.0,5120.49,0.0,5120.49,Cash on Delivery,1.0
+100409,  Kavita Choudhary  ,Toys,North,Chandigarh,31-Jan-2025,1.0,2059.44,25.0,1544.58,NetBanking,3.0
+100400,Riya Iyer,Electronic,EAST,Bhubaneswar,25/06/2024,1.0,37204.62,0.0,,Debit Card,5.0
+100077,RAHUL BOSE,beauty,EAST,Guwahati  ,2025/03/05,1.0,834.81,0.0,834.81,Cash on Delivery,5.0
+100054,Riya Malhotra,electronics,,Lucknow,2025-02-10,1.0,32550.02,15.0,27667.52,Cash On Delivery,4.0
+100963,Sneha Gupta,Home & Kitchen,SOUTH,Bengaluru,2024/02/06,1.0,12635.72,0.0,12635.72,UPI,1.0
+100931,NEHA JOSHI,Beauty,Wast,Ahmedabad,02-07-2024,2.0,334.24,5.0,635.06,debit card,5.0
+101166,Shreya Joshi,Toy,south,Bengaluru,2024-02-19,1.0,824.88,15.0,701.15,Upi,2.0
+100150,Vikram Malhotra,Toy,EAST,Guwahati,2024-07-04,3.0,1464.44,0.0,4393.32,,4.0
+101106,Riya Kapoor,Cloths,North,Delhi,2024-02-27,2.0,1070.64,20.0,1713.02,Upi,4.0
+100672,Arjun Mehta,Toy,West,Pune,2025-04-03,1.0,1202.42,0.0,1202.42,Upi,5.0
+100933,VIKRAM MEHTA,Toy,South,Chennai,04-22-2025,1.0,492.91,15.0,418.97,Credit Card,3.0
+101049,Shreya Bose,CLOTHING,South,Kochi,2024-03-21,1.0,2309.35,5.0,2193.88,Cash on Delivery,2.0
+101002,KAVITA SINGH,Home & Kitchen,East,Patna,04-08-2025,1.0,4956.73,0.0,4956.73,Upi,3.0
+100106,Arjun Kapoor,Beauty,EAST,Kolkata,2024-03-23,1.0,1871.86,0.0,1871.86,net banking,4.0
+100743,Shreya Singh,Sport,east,Patna,26/03/2024,2.0,4123.36,10.0,7422.05,,5.0
+100749,Anita Rao,clothing,North,Chandigarh,08-26-2024,2.0,434.33,0.0,868.66,Cash on Delivery,4.0
+100755,,Home and Kitchen,NORTH,Jaipur,10/02/2024,1.0,10440.97,0.0,10440.97,net banking,5.0
+100811,Aarav Malhotra,Sports,Wast,Mumbai  ,05-13-2024,1.0,2519.17,0.0,2519.17,Credit Card,4.0
+100661,Kavita Joshi,electronics,SOUTH,Bengaluru,05-17-2025,2.0,49442.39,10.0,88996.3,Net Banking,5.0
+100255,divya singh,Electronic,East,Patna,2025-02-08,2.0,30238.56,0.0,60477.12,DC,5.0
+100934,Suresh Joshi,CLOTHING,West,Pune,04-May-2024,,2573.38,10.0,4632.08,Credit Card,2.0
+100869,Shreya Bose,Clothing,EAST,,2025-03-18,2.0,2055.76,0.0,4111.52,cod,4.0
+101149,  Sneha Verma  ,books,SOUTH,Hyderabad,28/06/2024,2.0,787.88,0.0,1575.76,Debit Card,3.0
+100892,anita kapoor,beauty,north,Lucknow,2025/03/14,1.0,1738.93,0.0,1738.93,UPI,3.0
+100873,SURESH SINGH,clothing,Nort,Jaipur,2025/03/23,1.0,3666.77,5.0,3483.43,Cash on Delivery,4.0
+100613,KAVITA KAPOOR,Toy,south,Hyderabad,2025-01-12,2.0,1909.06,20.0,3054.5,credit card,3.0
+100388,Karan Patel,books,SOUTH,Bengaluru,07/03/2024,1.0,918.14,0.0,918.14,Cash On Delivery,5.0
+100936,Vikram Bose,Home&Kitchen,WEST,Pune,2024-02-16,1.0,6850.44,5.0,6507.92,credit card,5.0
+100406,Priya Gupta,electronics,Wast,Pune,27-Oct-2024,3.0,29673.11,0.0,89019.33,DC,
+100794,Divya Gupta,Clothing,Nort,Delhi,03-16-2024,1.0,1949.21,0.0,1949.21,cod,4.0
+100715,ANITA REDDY,beauty,South,Chennai,2024-07-10,1.0,913.71,0.0,913.71,Credit Card,5.0
+101023,  Rohan Kapoor  ,Home and Kitchen,EAST,Patna,16-Jun-2025,1.0,10558.85,15.0,8975.02,Credit_Card,4.0
+101096,  Vikram Malhotra  ,BEAUTY,South,Bengaluru,14-Dec-2024,1.0,2383.93,,2264.73,DC,4.0
+100246,Neha Verma,books,South,Chennai,2025-05-25,5.0,528.46,0.0,2642.3,Debit Card,4.0
+100145,Sneha Joshi,Toy,South,Chennai,04-28-2025,2.0,946.16,0.0,1892.32,Cash on Delivery,5.0
+101157,  Divya Malhotra  ,Electronic,North,Lucknow,2024/01/11,1.0,55898.25,0.0,55898.25,Cash on Delivery,4.0
+101140,Amit Sharma,Cloths,South,Bengaluru,2024/06/27,1.0,1408.69,0.0,1408.69,COD,5.0
+100622,  Pooja Reddy  ,Electronic,West,Surat,24/11/2024,5.0,46568.13,0.0,232840.65,cod,5.0
+100474,  RIYA MEHTA  ,clothing,NORTH,Delhi,2025-05-18,1.0,3735.55,0.0,3735.55,net banking,5.0
+100460,Suresh Joshi,BOOKS,east,Guwahati,2024/08/11,1.0,1045.34,0.0,1045.34,net banking,4.0
+100486,Vikram Gupta,beauty,SOUTH,Kochi,22/05/2025,1.0,1794.07,20.0,1435.26,debit card,5.0
+101179,  karan rao  ,Toy,North,Delhi,2024-01-07,1.0,3495.63,0.0,3495.63,credit card,4.0
+100090,Shreya Singh,BOOKS,south,Chennai,24-Jan-2024,1.0,1067.0,15.0,906.95,Credit_Card,
+100492,Meena Reddy,BEAUTY,WEST,Ahmedabad,2024/11/11,1.0,2774.84,0.0,2774.84,cod,
+100170,Anita Sharma,Clothing,East,Bhubaneswar,23/03/2024,1.0,334.26,0.0,334.26,cod,5.0
+100056,sneha choudhary,books,east,Bhubaneswar,21/06/2025,1.0,598.74,0.0,598.74,UPI,5.0
+100404,Rahul Singh,Clothing,South,Kochi,2025-05-17,1.0,2147.02,20.0,1717.62,COD,4.0
+100599,Vikram Reddy,clothing,WEST,Ahmedabad,17/04/2025,1.0,3332.74,0.0,3332.74,Cash On Delivery,5.0
+101015,Sneha Patel,CLOTHING,WEST,Pune,2025-02-11,1.0,2348.92,0.0,2348.92,Upi,5.0
+100097,Shreya Kapoor,ELECTRONICS,South,Hyderabad,18-Apr-2024,2.0,31015.06,5.0,58928.61,debit card,5.0
+100826,ARJUN PATEL,electronics,North,Lucknow,2024/03/30,3.0,48405.41,0.0,145216.23,Net Banking,4.0
+100479,Rohan Malhotra,Electronic,NORTH,Chandigarh,2024/11/21,1.0,7226.17,0.0,7226.17,NetBanking,2.0
+100323,sanjay malhotra,books,west,Ahmedabad,2025-04-11,1.0,482.04,0.0,482.04,Credit_Card,4.0
+101115,  Sanjay Bose  ,Home&Kitchen,West,Surat,30-Sep-2024,1.0,9092.57,20.0,7274.06,Upi,5.0
+100098,Neha Mehta,Sport,West,Surat,09-Jan-2024,2.0,1410.66,0.0,2821.32,credit card,5.0
+100424,Suresh Malhotra,Cloths,EAST,,2024-10-23,2.0,3270.18,0.0,6540.36,Debit Card,
+100296,Aarav Gupta,Electronics,west,Ahmedabad,03-Mar-2025,4.0,32884.54,25.0,98653.62,DC,3.0
+100737,Neha Reddy,BOOKS,north,Lucknow,2024/02/04,1.0,211.07,0.0,211.07,COD,1.0
+101171,Manoj Iyer,Sport,south,Bengaluru,10/05/2025,2.0,7659.45,15.0,13021.06,Credit_Card,5.0
+100902,MANOJ RAO,books,SOUTH,Kochi,02-10-2025,4.0,979.89,10.0,3527.6,debit card,5.0
+100601,  Amit Nair  ,,EAST,Patna,14/03/2025,2.0,1458.38,0.0,2916.76,Debit Card,3.0
+100999,Vikram Bose,electronics,SOUTH,Hyderabad,2024-05-26,1.0,29516.73,15.0,25089.22,Upi,5.0
+100395,RIYA SHARMA,CLOTHING,North,Delhi,2025-01-19,1.0,1580.44,0.0,1580.44,Credit_Card,5.0
+100426,  Divya Choudhary  ,toys,east,Guwahati,2025-04-15,1.0,2578.14,25.0,1933.6,Cash on Delivery,4.0
+101124,Meena Gupta,clothing,west,Surat,26-Jan-2025,1.0,2529.77,0.0,2529.77,Debit Card,4.0
+101038,Rahul Iyer,Home&Kitchen,West,Surat,20/01/2024,1.0,4735.91,0.0,4735.91,upi,3.0
+100252,PRIYA SINGH,Sport,north,Jaipur,04-06-2024,1.0,7817.98,0.0,7817.98,DC,2.0
+100238,ARJUN NAIR,home & kitchen,west,Surat,04-02-2025,1.0,9231.37,20.0,7385.1,Debit Card,4.0
+100844,Amit Verma,home & kitchen,north,Chandigarh,05-27-2024,1.0,6346.16,0.0,6346.16,CC,4.0
+100845,Anita Gupta,Clothing,Nort,Chandigarh,21-Apr-2024,1.0,959.37,0.0,959.37,upi,5.0
+100554,  Manoj Sharma  ,beauty,West,Ahmedabad,19-Jun-2025,2.0,2777.58,0.0,5555.16,Upi,4.0
+100545,sneha choudhary,beauty,SOUTH,Bengaluru,01-23-2025,1.0,2391.71,0.0,2391.71,cod,5.0
+100250,Priya Mehta,BOOKS,North,Delhi,2025/03/06,1.0,706.96,5.0,671.61,credit card,
+100739,Arjun Singh,CLOTHING,North,Jaipur,22/11/2024,2.0,1804.06,0.0,3608.12,Credit_Card,4.0
+100964,Karan Reddy,Sports,Nort,Chandigarh,10-Jan-2024,2.0,4187.91,0.0,8375.82,CC,5.0
+100198,PRIYA KAPOOR,Electronic,Wast,Surat,12-Sep-2024,1.0,57361.56,0.0,57361.56,net banking,5.0
+100897,Arjun Patel,BEAUTY,NORTH,Lucknow,2024/07/31,1.0,2555.82,,2172.45,net banking,4.0
+100764,SNEHA IYER,BEAUTY,WEST,Pune,15-Feb-2025,1.0,120.55,0.0,120.55,Net Banking,2.0
+100989,  Vikram Choudhary  ,beauty,SOUTH,Bengaluru,11-Jan-2024,2.0,2923.63,5.0,5554.9,net banking,4.0
+101040,Meena Reddy,Home & Kitchen,SOUTH,Chennai,2024/07/02,1.0,14172.9,10.0,12755.61,net banking,
+100243,  Anita Malhotra  ,Toy,WEST,Mumbai,2024-06-05,1.0,2112.97,0.0,-2112.97,NetBanking,5.0
+100066,Aarav Verma,Sports,WEST,Mumbai,11-28-2024,2.0,6455.8,5.0,12266.02,net banking,3.0
+101191,Vikram Gupta,Electronics,EAST,Guwahati,2024-07-15,1.0,39209.41,0.0,39209.41,cod,
+100933,vikram mehta,Toy,South,Chennai,04-22-2025,1.0,492.91,15.0,418.97,Credit Card,3.0
+100359,Riya Nair,books,NORTH,Delhi,2025/03/26,1.0,103.74,30.0,72.62,Upi,2.0
+100095,ARJUN NAIR,Sports,Nort,Delhi,2024/05/08,2.0,646.41,20.0,1034.26,cod,5.0
+100280,Vikram Sharma,home & kitchen,North,Lucknow,09/09/2024,1.0,853.79,,853.79,Cash On Delivery,5.0
+101187,Sanjay Mehta,beauty,WEST,Mumbai,02/07/2024,1.0,2619.36,0.0,2619.36,Cash On Delivery,2.0
+100521,Karan Verma,home & kitchen,west,Surat,04-Jun-2024,2.0,1182.69,,2010.57,UPI,3.0
+100974,Amit Malhotra,toys,EAST,Patna,28-Sep-2024,2.0,1729.87,20.0,2767.79,upi,3.0
+100665,Amit Iyer,Electronic,EAST,Patna,2025-03-19,1.0,33613.84,0.0,33613.84,Upi,5.0
+100361,Anita Patel,clothing,NORTH,Chandigarh,18-Feb-2024,1.0,3064.18,0.0,3064.18,Debit Card,3.0
+100484,Manoj Sharma,Sport,east,Patna,2024-09-25,4.0,2202.43,10.0,7928.75,UPI,5.0
+100311,SANJAY SINGH,Electronics,North,Chandigarh,02/11/2024,1.0,27533.44,25.0,20650.08,Credit_Card,4.0
+100842,Priya Joshi,BOOKS,West,Ahmedabad,2024/01/06,1.0,867.66,0.0,867.66,upi,3.0
+100413,POOJA MEHTA,Sports,WEST,Surat,03/06/2024,1.0,2250.4,30.0,1575.28,Upi,
+100031,Suresh Iyer,electronics,WEST,Ahmedabad,2025-02-26,1.0,29969.51,20.0,23975.61,UPI,5.0
+100765,ARJUN MEHTA,Toy,Nort,Delhi,11/04/2024,2.0,1370.61,0.0,2741.22,NetBanking,5.0
+100458,Rahul Iyer,BOOKS,East,Kolkata,10-22-2024,1.0,391.66,0.0,391.66,CC,
+100339,Divya Patel,Toy,East,Guwahati,2025-01-17,1.0,1348.24,0.0,1348.24,Upi,4.0
+100286,Rohan Verma,Toy,SOUTH,Hyderabad,2024/07/26,1.0,1253.03,5.0,1190.38,upi,5.0
+100063,  Meena Choudhary  ,BOOKS,WEST,Pune,05-07-2024,1.0,727.93,0.0,727.93,credit card,4.0
+100949,Shreya Malhotra,Electronic,East,Patna,12-Feb-2025,2.0,29492.98,15.0,50138.07,CC,4.0
+100139,Amit Iyer,Home&Kitchen,north,Chandigarh,12-Jun-2025,1.0,11946.5,5.0,11349.18,net banking,5.0
+100848,Karan Singh,BOOKS,North,Chandigarh,03-08-2025,1.0,570.02,5.0,541.52,DC,5.0
+101025,  Sneha Kapoor  ,CLOTHING,Nort,Jaipur,12/06/2024,1.0,2027.97,0.0,2027.97,CC,3.0
+100900,meena bose,toys,Nort,Lucknow,09-22-2024,2.0,3331.17,0.0,6662.34,credit card,5.0
+100731,Riya Patel,Electronic,West,Ahmedabad,18-Feb-2024,2.0,22135.58,5.0,42057.6,Upi,4.0
+100264,suresh reddy,books,south,Chennai,05-10-2025,2.0,250.07,0.0,500.14,Debit Card,5.0
+100274,shreya gupta,BEAUTY,north,Jaipur,2024-08-11,1.0,2070.63,0.0,2070.63,net banking,4.0
+101094,Sneha Mehta,ELECTRONICS,South,Kochi,03/04/2025,1.0,52966.92,0.0,52966.92,Cash on Delivery,4.0
+100444,Arjun Bose,Books,East,Guwahati,20-Jan-2024,1.0,1030.12,15.0,875.6,COD,
+100039,SNEHA MEHTA,clothing,West,Ahmedabad,29-Mar-2024,5.0,1909.86,20.0,7639.44,Net Banking,5.0
+101122,Sneha Bose,books,,Patna,2024/09/21,1.0,1178.25,0.0,1178.25,debit card,3.0
+100021,Anita Verma,Electronics,west,,2024/07/24,1.0,38371.53,0.0,,Credit Card,3.0
+100705,Karan Verma,electronics,Nort,Jaipur,2024/12/28,2.0,59098.22,0.0,118196.44,credit card,5.0
+100517,Vikram Malhotra,Sports,East,Guwahati,16/06/2025,1.0,1745.32,0.0,1745.32,CC,5.0
+100354,aarav bose,Sports,EAST,Guwahati,2024/12/28,2.0,3342.46,5.0,6350.67,Credit Card,3.0
+100297,Meena Kapoor,beauty,WEST,Mumbai,2025/04/07,2.0,1823.39,0.0,3646.78,debit card,3.0
+101076,Manoj Joshi,home & kitchen,Nort,Jaipur,2024-01-04,1.0,,0.0,4268.99,debit card,3.0
+100839,divya choudhary,Electronic,WEST,Ahmedabad,03-Mar-2025,1.0,42710.81,10.0,38439.73,Credit Card,
+100924,  AMIT BOSE  ,Sport,South,Hyderabad,2024-12-10,1.0,3717.21,,3717.21,Cash On Delivery,5.0
+100122,Riya Gupta,BEAUTY,EAST,Bhubaneswar,06-14-2024,1.0,1357.96,0.0,1357.96,COD,
+101091,Anita Singh,Toys,east,Bhubaneswar,01-03-2025,1.0,553.93,0.0,553.93,net banking,
+100417,Neha Bose,Toys,West,Ahmedabad,2025/03/07,1.0,,5.0,1163.61,Upi,4.0
+100966,Anita Joshi,Toys,SOUTH,Bengaluru,10-27-2024,1.0,3088.54,,2625.26,CC,2.0
+100157,Vikram Iyer,toys,west,Ahmedabad,2024/10/30,1.0,2775.81,0.0,2775.81,NetBanking,
+101118,anita bose,Sport,EAST,Bhubaneswar,06-15-2024,1.0,6842.81,0.0,6842.81,cod,3.0
+101063,sanjay verma,Toy,north,Lucknow,05-09-2025,2.0,3389.27,0.0,6778.54,Cash on Delivery,5.0
+100189,Sneha Choudhary,Cloths,East,Bhubaneswar,03-Jun-2025,2.0,1038.31,20.0,1661.3,Debit Card,4.0
+100589,rahul nair,Clothing,West,Ahmedabad,2025-04-02,2.0,1854.6,10.0,3338.28,Credit Card,4.0
+100760,Priya Verma,Home & Kitchen,south,Bengaluru,2024/02/29,,12939.36,5.0,12292.39,COD,3.0
+101062,Manoj Malhotra,sports,north,Delhi,05-13-2025,1.0,5312.83,30.0,3718.98,Debit Card,5.0
+100242,Arjun Rao,Beauty,south,Chennai,08-Dec-2024,1.0,1423.71,5.0,1352.52,Net Banking,4.0
+100884,meena bose,Clothing,east,Kolkata,2024-11-17,2.0,2125.89,0.0,4251.78,DC,5.0
+100620,Arjun Verma,BOOKS,south,Kochi,04-30-2024,1.0,1019.29,10.0,917.36,NetBanking,5.0
+100650,Arjun Patel,BEAUTY,Wast,Mumbai,13/09/2024,2.0,1810.39,5.0,3439.74,Debit Card,5.0
+100503,Amit Kapoor,Books,North,Chandigarh,2024-09-04,1.0,717.77,10.0,645.99,Net Banking,4.0
+100922,SNEHA GUPTA,clothing,west,Mumbai,06-27-2024,1.0,1838.01,0.0,1838.01,Credit Card,4.0
+100159,DIVYA CHOUDHARY,sports,EAST,Guwahati,01/03/2025,1.0,4584.93,5.0,4355.68,NetBanking,
+100882,Sanjay Bose,Electronic,north,Jaipur,06-19-2025,4.0,9885.52,0.0,39542.08,credit card,3.0
+100537,  Rohan Gupta  ,BOOKS,east,Bhubaneswar,02-27-2024,1.0,679.93,20.0,543.94,net banking,3.0
+100240,Divya Reddy,books,east,Patna,2024-06-19,3.0,367.87,20.0,882.89,UPI,
+100013,Suresh Joshi,Toy,South,Chennai,11-03-2024,2.0,533.68,0.0,1067.36,COD,5.0
+100475,Shreya Rao,Beauty,Nort,Jaipur,06-18-2024,2.0,2317.79,20.0,3708.46,COD,4.0
+101183,pooja choudhary,Home&Kitchen,East,Patna,04-11-2025,1.0,2350.03,5.0,2232.53,cod,
+100928,Manoj Rao,Cloths,north,Jaipur,2025-01-01,5.0,2563.51,5.0,12176.67,Cash on Delivery,5.0
+100795,  neha gupta  ,ELECTRONICS,east,Kolkata,03-18-2025,1.0,45098.95,10.0,40589.06,Upi,5.0
+100355,Vikram Iyer,Clothing,EAST,Patna,13/04/2024,1.0,3304.36,20.0,-2643.49,net banking,3.0
+101058,Rahul Gupta,Beauty,Wast,Mumbai,28/03/2024,3.0,1560.89,0.0,4682.67,Credit Card,4.0
+100334,Riya Sharma,books,South,Chennai,2024/01/25,2.0,567.02,0.0,1134.04,UPI,4.0
+100688,Vikram Reddy,Electronics,East,Patna,2024-03-26,1.0,6388.38,0.0,6388.38,Net Banking,
+100184,rahul gupta,Toy,EAST,Bhubaneswar,10-Apr-2024,1.0,3077.53,5.0,2923.65,NetBanking,4.0
+100823,AMIT CHOUDHARY,clothing,north,Jaipur,2024-11-05,1.0,525.07,0.0,525.07,credit card,5.0
+101167,Pooja Gupta,Electronics,NORTH,Delhi,09-15-2024,2.0,16600.11,10.0,29880.2,CC,5.0
+101001,ARJUN GUPTA,home & kitchen,north,Delhi,09-05-2024,1.0,,0.0,6082.62,cod,5.0
+100187,suresh gupta,sports,west,Ahmedabad,2024-01-07,1.0,4257.79,0.0,4257.79,COD,5.0
+100941,Manoj Choudhary,BEAUTY,EAST,,21-Feb-2025,1.0,598.42,,508.66,Cash On Delivery,4.0
+100284,KAVITA REDDY,Toy,Wast,Mumbai,2024/12/26,1.0,3051.58,0.0,3051.58,Net Banking,4.0
+100899,Arjun Reddy,Electronics,west,Ahmedabad,2024-09-16,1.0,15627.14,0.0,15627.14,COD,5.0
+100165,riya choudhary,,South,Chennai,01/03/2024,1.0,100.36,0.0,100.36,net banking,4.0
+100347,Divya Patel,BEAUTY,Nort,Jaipur,23/06/2025,3.0,2680.36,10.0,7236.97,DC,4.0
+100298,Rohan Iyer,books,east,,12-10-2024,1.0,991.87,5.0,942.28,Credit_Card,5.0
+100535,Sneha Kapoor,Books,south,Chennai,27/10/2024,3.0,462.09,5.0,1316.96,DC,
+100229,Manoj Reddy,Home and Kitchen,south,Bengaluru,05/08/2024,1.0,10852.78,20.0,8682.22,upi,4.0
+100041,rahul iyer,Home&Kitchen,NORTH,Lucknow,19/06/2024,1.0,9992.59,0.0,9992.59,debit card,5.0
+100868,Sneha Nair,beauty,WEST,Mumbai,08-Jan-2025,2.0,2457.43,0.0,4914.86,Upi,4.0
+100748,anita rao,Beauty,EAST,Bhubaneswar,19/07/2024,1.0,2112.73,0.0,2112.73,net banking,5.0
+100457,Meena Nair,Electronics,Nort,Chandigarh,16-Sep-2024,1.0,29280.29,0.0,29280.29,Debit Card,
+100446,Rahul Bose,Toys,north,Delhi,2024/03/12,1.0,624.49,5.0,593.27,Cash On Delivery,4.0
+100349,Anita Patel,BOOKS,East,Bhubaneswar  ,2024/09/23,1.0,724.55,15.0,615.87,COD,3.0
+100045,aarav verma,Sport,Nort,Delhi,06-08-2025,1.0,1322.4,0.0,1322.4,NetBanking,3.0
+100151,Meena Singh,Home&Kitchen,South,Chennai,03-13-2024,1.0,1194.07,0.0,1194.07,Credit Card,4.0
+100051,Arjun Kapoor,beauty,west,Surat,08-Dec-2024,1.0,506.98,25.0,380.24,COD,5.0
+100108,Pooja Verma,BEAUTY,SOUTH,Kochi,2024-07-08,1.0,1474.98,5.0,1401.23,NetBanking,5.0
+100029,Aarav Patel,Books,South,Chennai,11-13-2024,1.0,1117.56,0.0,1117.56,debit card,5.0
+100181,Sanjay Iyer,Home&Kitchen,Wast,Mumbai,2024-11-11,2.0,13480.07,0.0,26960.14,Debit Card,5.0
+100621,  MEENA NAIR  ,clothing,East,Kolkata,2025/06/17,1.0,2444.76,0.0,2444.76,net banking,5.0
+100634,Pooja Rao,home & kitchen,SOUTH,Bengaluru,2024-09-07,2.0,4948.39,20.0,7917.42,Credit Card,4.0
+100104,Sanjay Iyer,Clothing,north,Delhi,2025-05-08,1.0,849.22,0.0,849.22,Cash On Delivery,3.0
+100060,MANOJ REDDY,beauty,North,Lucknow,2024/08/19,1.0,260.65,0.0,260.65,Debit Card,5.0
+100658,rahul singh,sports,West,Surat,03-02-2024,1.0,7764.39,5.0,7376.17,Cash on Delivery,4.0
+101107,Divya Singh,toys,South,Chennai,06/05/2025,1.0,1190.98,0.0,1190.98,COD,4.0
+100490,Rohan Patel,BEAUTY,East,Patna,11-Sep-2024,2.0,1804.14,0.0,3608.28,net banking,3.0
+100315,Sneha Rao,Toy,west,Ahmedabad,10-21-2024,4.0,3161.39,10.0,11381.0,Credit Card,4.0
+100381,Kavita Iyer,Electronic,East,Bhubaneswar,22-Apr-2025,1.0,46556.3,5.0,44228.48,Net Banking,5.0
+100422,Shreya Sharma,beauty,West,Ahmedabad,13/01/2024,1.0,259.31,0.0,259.31,CC,3.0
+101132,Shreya Malhotra,BEAUTY,SOUTH,Kochi,2025-05-01,1.0,2984.99,5.0,2835.74,Debit Card,5.0
+100445,Neha Malhotra,Beauty,South,Chennai  ,29/08/2024,1.0,1987.3,20.0,1589.84,Debit Card,4.0
+100663,Sanjay Verma,Toy,south,Chennai,02-23-2024,1.0,372.28,0.0,372.28,net banking,4.0
+101024,  Meena Reddy  ,ELECTRONICS,west,Surat,20/08/2024,4.0,7723.27,15.0,26259.12,COD,5.0
+100779,Rohan Choudhary,Books,north,Delhi,22-Jan-2025,2.0,645.71,5.0,,Net Banking,4.0
+100626,KARAN BOSE,clothing,north,Chandigarh,10/02/2025,1.0,2507.89,20.0,2006.31,Credit Card,5.0
+101112,Sneha Bose,Toy,Wast,Ahmedabad,2025/01/06,1.0,296.93,10.0,267.24,Cash on Delivery,5.0
+101101,  Suresh Verma  ,Home&Kitchen,West,Pune,2025-06-13,2.0,3702.92,0.0,7405.84,Upi,4.0
+100268,Manoj Bose,Books,EAST,Bhubaneswar,04/06/2024,1.0,761.32,0.0,761.32,credit card,5.0
+100929,PRIYA VERMA,BEAUTY,Nort,Jaipur,30-Apr-2025,2.0,469.42,0.0,938.84,debit card,
+101147,Manoj Choudhary,clothing,SOUTH,Hyderabad,19-Jun-2025,1.0,-764.92,5.0,726.67,upi,5.0
+101119,Shreya Mehta,toys,North,Lucknow,11-28-2024,1.0,3150.7,20.0,2520.56,cod,5.0
+100011,Karan Patel,Toys,NORTH,Delhi,2025/01/03,1.0,819.69,10.0,737.72,NetBanking,5.0
+100114,Rohan Nair,Beauty,NORTH,Delhi,29-Jan-2025,1.0,913.77,0.0,913.77,UPI,5.0
+100843,karan sharma,Electronic,NORTH,Lucknow,01-13-2024,2.0,34396.28,5.0,65352.93,Cash On Delivery,5.0
+100352,Rahul Gupta,Cloths,east,Patna,06-21-2025,3.0,2543.31,0.0,7629.93,Debit Card,4.0
+100123,ARJUN JOSHI,BOOKS,Wast,Pune,04-07-2024,1.0,148.16,0.0,148.16,upi,4.0
+100773,Rohan Iyer,Electronics,West,Pune  ,05-05-2025,1.0,34511.33,10.0,31060.2,Upi,5.0
+100690,Sneha Iyer,Cloths,North,Jaipur,25/08/2024,1.0,2801.27,5.0,2661.21,debit card,
+100790,aarav malhotra,Toys,South,Kochi,2024/10/03,1.0,2827.01,20.0,2261.61,Upi,4.0
+100531,Kavita Kapoor,Home and Kitchen,SOUTH,Bengaluru  ,07-Feb-2025,2.0,8963.57,0.0,17927.14,Credit Card,1.0
+100867,Sneha Nair,home & kitchen,SOUTH,Chennai,18-Mar-2024,1.0,10632.13,0.0,,upi,5.0
+100169,Riya Joshi,ELECTRONICS,NORTH,Lucknow,09-05-2024,1.0,10301.56,0.0,10301.56,upi,
+100239,Sanjay Bose,Books,south,Bengaluru,2025/04/06,1.0,698.55,5.0,663.62,NetBanking,4.0
+101184,Pooja Rao,Toys,North,Delhi,21-May-2024,1.0,1616.52,10.0,1454.87,Credit_Card,4.0
+100073,Arjun Reddy,clothing,NORTH,Lucknow,14/10/2024,2.0,1366.18,0.0,2732.36,cod,5.0
+101086,Sanjay Singh,BEAUTY,south,Bengaluru,2024-06-23,1.0,2115.61,30.0,1480.93,Credit_Card,4.0
+100761,Priya Verma,books,west,Pune,05-Aug-2024,1.0,681.06,15.0,578.9,COD,
+100740,Sneha Mehta,Books,south,Chennai,13/02/2024,1.0,1138.5,0.0,1138.5,DC,4.0
+100750,Kavita Verma,books,north,Delhi,10-11-2024,1.0,566.19,20.0,452.95,NetBanking,
+100741,,Home&Kitchen,West,Pune,11-May-2024,1.0,5399.98,20.0,,Debit Card,4.0
+100830,KARAN NAIR,Cloths,SOUTH,Chennai,2025/06/01,1.0,3907.36,,3516.62,Credit Card,4.0
+100047,aarav gupta,Electronics,East,Bhubaneswar,09-Jan-2025,2.0,13186.88,10.0,23736.38,Credit Card,5.0
+100762,SANJAY IYER,Toy,Nort,Delhi,01-May-2025,1.0,2902.4,5.0,2757.28,cod,4.0
+100591,Amit Malhotra,electronics,NORTH,Chandigarh,2024-02-27,1.0,50680.73,0.0,50680.73,Upi,4.0
+100807,Shreya Joshi,BOOKS,Nort,Chandigarh,2024/02/27,1.0,758.34,5.0,720.42,Upi,2.0
+101083,manoj patel,books,west,Mumbai,2025-01-10,1.0,670.76,0.0,670.76,net banking,5.0
+100505,Rahul Sharma,Clothing,East,Kolkata,26-Nov-2024,2.0,3417.08,0.0,6834.16,Cash On Delivery,5.0
+101044,Sanjay Reddy,Sport,west,Pune,13-Jun-2025,2.0,4294.3,25.0,6441.45,Cash On Delivery,4.0
+100652,Meena Reddy,Sports,NORTH,Lucknow,2025-01-19,1.0,5401.3,0.0,5401.3,upi,4.0
+100192,Kavita Joshi,clothing,East,Guwahati,10-Apr-2025,3.0,687.08,15.0,1752.05,COD,3.0
+100244,  Arjun Malhotra  ,home & kitchen,North,Chandigarh,01-22-2024,1.0,12936.43,0.0,12936.43,cod,5.0
+100059,Rahul Patel,Toys,east,Kolkata,2025-05-12,1.0,1103.81,0.0,1103.81,Cash On Delivery,1.0
+100176,Anita Iyer,Toy,SOUTH,Kochi,2025-02-01,1.0,1214.08,0.0,1214.08,Net Banking,1.0
+100449,Anita Singh,Home&Kitchen,WEST,Pune,20-Jul-2024,1.0,1808.27,0.0,1808.27,upi,4.0
+100055,Manoj Iyer,ELECTRONICS,south,Hyderabad,11-21-2024,1.0,23389.77,5.0,22220.28,debit card,5.0
+100919,Divya Malhotra,Clothing,Nort,Chandigarh,02-Oct-2024,2.0,2161.27,10.0,3890.29,cod,5.0
+100887,Amit Patel,books,west,Surat,2025-06-12,1.0,187.83,0.0,187.83,UPI,1.0
+101092,Amit Kapoor,electronics,Nort,Delhi,2024-03-05,2.0,20452.8,10.0,36815.04,debit card,
+101192,Shreya Singh,home & kitchen,EAST,Patna,07-29-2024,4.0,13290.57,0.0,53162.28,Upi,5.0
+100046,Amit Reddy,beauty,south,Bengaluru,15-May-2025,1.0,2065.21,0.0,2065.21,upi,5.0
+101059,  Karan Iyer  ,Home&Kitchen,West,Ahmedabad,2024/08/24,1.0,9950.49,0.0,9950.49,Net Banking,5.0
+100641,AMIT MALHOTRA,Home and Kitchen,west,Pune,2024/06/26,1.0,3482.98,25.0,2612.24,Cash on Delivery,3.0

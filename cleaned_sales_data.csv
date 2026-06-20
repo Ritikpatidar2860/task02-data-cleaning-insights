@@ -1,0 +1,1200 @@
+OrderID,CustomerName,Category,Region,City,OrderDate,Quantity,UnitPrice,DiscountPercent,Revenue,PaymentMethod,CustomerRating,HasRating,UnitPrice_outlier,Quantity_outlier,Revenue_outlier
+100564,Karan Reddy,Sports,North,Delhi,2024-01-01,1,296.7,0.0,296.7,Net Banking,4,True,False,False,False
+100959,Meena Malhotra,Electronics,West,Mumbai,2024-01-02,2,56183.29,15.0,95511.59,Cash on Delivery,4,True,False,False,False
+100456,Priya Kapoor,Books,South,Hyderabad,2024-01-02,2,597.21,0.0,1194.42,Debit Card,,False,False,False,False
+100607,Manoj Patel,Beauty,East,Guwahati,2024-01-02,1,1709.62,0.0,1709.62,Net Banking,4,True,False,False,False
+100511,Pooja Mehta,Books,East,Bhubaneswar,2024-01-03,2,1143.71,0.0,2287.42,Cash on Delivery,4,True,False,False,True
+101076,Manoj Joshi,Home & Kitchen,North,Jaipur,2024-01-04,1,4268.99,0.0,4268.99,Debit Card,3,True,False,False,False
+100266,Pooja Rao,Toys,West,Mumbai,2024-01-04,1,2347.85,10.0,2113.06,Cash on Delivery,5,True,False,False,False
+100542,Vikram Patel,Sports,East,Bhubaneswar,2024-01-04,5,6097.74,0.0,30488.7,Debit Card,4,True,False,True,True
+100998,Amit Malhotra,Home & Kitchen,North,Jaipur,2024-01-04,5,12786.38,0.0,63931.9,Net Banking,4,True,False,True,True
+100200,Karan Nair,Sports,North,Lucknow,2024-01-05,1,3853.65,0.0,3853.65,UPI,,False,False,False,False
+100119,Aarav Iyer,Books,North,Lucknow,2024-01-06,1,677.12,0.0,677.12,Net Banking,5,True,False,False,False
+100842,Priya Joshi,Books,West,Ahmedabad,2024-01-06,1,867.66,0.0,867.66,UPI,3,True,False,False,False
+101179,Karan Rao,Toys,North,Delhi,2024-01-07,1,3495.63,0.0,3495.63,Credit Card,4,True,False,False,False
+100187,Suresh Gupta,Sports,West,Ahmedabad,2024-01-07,1,4257.79,0.0,4257.79,Cash on Delivery,5,True,False,False,False
+100344,Vikram Sharma,Toys,South,Bengaluru,2024-01-08,1,1201.39,0.0,1201.39,Cash on Delivery,4,True,False,False,False
+100785,Karan Verma,Beauty,North,Lucknow,2024-01-09,1,576.7,10.0,519.03,Cash on Delivery,4,True,False,True,False
+100098,Neha Mehta,Sports,West,Surat,2024-01-09,2,1410.66,0.0,2821.32,Credit Card,5,True,False,False,False
+100792,Neha Gupta,Home & Kitchen,East,Bhubaneswar,2024-01-09,2,14605.56,15.0,24829.45,Debit Card,5,True,False,False,False
+101150,Meena Bose,Books,West,Pune,2024-01-10,1,152.39,0.0,152.39,Net Banking,4,True,False,False,False
+101060,Divya Reddy,Electronics,North,Chandigarh,2024-01-10,1,39179.08,0.0,39179.08,Cash on Delivery,1,True,False,False,False
+101065,Kavita Joshi,Sports,West,Pune,2024-01-10,1,7651.98,0.0,7651.98,UPI,3,True,False,False,False
+100964,Karan Reddy,Sports,North,Chandigarh,2024-01-10,2,4187.91,0.0,8375.82,Credit Card,5,True,False,False,False
+100989,Vikram Choudhary,Beauty,South,Bengaluru,2024-01-11,2,2923.63,5.0,5554.9,Net Banking,4,True,False,False,True
+101157,Divya Malhotra,Electronics,North,Lucknow,2024-01-11,1,55898.25,0.0,55898.25,Cash on Delivery,4,True,False,False,False
+100421,Manoj Joshi,Beauty,West,Ahmedabad,2024-01-12,2,613.3,0.0,1226.6,Net Banking,2,True,False,False,False
+100843,Karan Sharma,Electronics,North,Lucknow,2024-01-13,2,34396.28,5.0,65352.93,Cash on Delivery,5,True,False,False,False
+100019,Karan Bose,Toys,South,Kochi,2024-01-13,1,2569.9,0.0,2569.9,Cash on Delivery,4,True,False,False,False
+100453,Priya Singh,Sports,South,Hyderabad,2024-01-13,1,6157.98,10.0,5542.18,Debit Card,5,True,False,False,False
+100422,Shreya Sharma,Beauty,West,Ahmedabad,2024-01-13,1,259.31,0.0,259.31,Credit Card,3,True,False,False,False
+101136,Pooja Bose,Home & Kitchen,East,Guwahati,2024-01-14,3,11349.86,0.0,34049.58,Net Banking,5,True,False,False,True
+100948,Sneha Joshi,Clothing,North,Jaipur,2024-01-15,2,1864.79,10.0,3356.62,Net Banking,,False,False,False,False
+100293,Pooja Choudhary,Toys,South,Kochi,2024-01-15,1,3004.69,0.0,3004.69,Cash on Delivery,1,True,False,False,False
+100258,Sanjay Mehta,Clothing,North,Chandigarh,2024-01-15,2,2713.35,0.0,5426.7,Credit Card,5,True,False,False,False
+100569,Amit Choudhary,Beauty,North,Chandigarh,2024-01-17,2,2067.1,0.0,4134.2,Debit Card,5,True,False,False,False
+100042,Riya Mehta,Books,North,Delhi,2024-01-18,3,387.97,0.0,1163.91,Cash on Delivery,5,True,False,False,False
+100579,Neha Nair,Home & Kitchen,North,Lucknow,2024-01-18,1,9290.14,5.0,8825.63,Credit Card,4,True,False,False,False
+101020,Aarav Mehta,Electronics,South,Kochi,2024-01-19,1,15273.94,10.0,13746.55,Net Banking,4,True,False,False,False
+100369,Aarav Nair,Sports,West,Pune,2024-01-19,2,5186.15,0.0,10372.3,Debit Card,,False,False,False,False
+101038,Rahul Iyer,Home & Kitchen,West,Surat,2024-01-20,1,4735.91,0.0,4735.91,UPI,3,True,False,False,False
+100444,Arjun Bose,Books,East,Guwahati,2024-01-20,1,1030.12,15.0,875.6,Cash on Delivery,,False,False,False,False
+100730,Anita Mehta,Toys,North,Chandigarh,2024-01-21,1,2289.75,0.0,2289.75,Cash on Delivery,4,True,False,False,False
+100766,Riya Mehta,Books,South,Chennai,2024-01-21,1,931.96,15.0,792.17,Debit Card,5,True,False,False,False
+100853,Sanjay Joshi,Sports,East,Kolkata,2024-01-22,2,2407.24,5.0,4573.76,Debit Card,5,True,False,False,False
+100244,Arjun Malhotra,Home & Kitchen,North,Chandigarh,2024-01-22,1,12936.43,0.0,12936.43,Cash on Delivery,5,True,False,False,False
+100987,Divya Iyer,Home & Kitchen,West,Mumbai,2024-01-23,3,13193.12,0.0,39579.36,UPI,4,True,False,False,True
+100090,Shreya Singh,Books,South,Chennai,2024-01-24,1,1067.0,15.0,906.95,Credit Card,,False,False,False,False
+100799,Rahul Reddy,Books,North,Chandigarh,2024-01-24,2,1056.27,25.0,1584.4,Net Banking,4,True,False,False,False
+100991,Vikram Patel,Sports,West,Surat,2024-01-25,1,3483.11,0.0,3483.11,Debit Card,,False,False,False,False
+100309,Anita Rao,Books,East,Bhubaneswar,2024-01-25,1,1021.06,0.0,1021.06,UPI,5,True,False,False,False
+100334,Riya Sharma,Books,South,Chennai,2024-01-25,2,567.02,0.0,1134.04,UPI,4,True,False,False,False
+100447,Manoj Nair,Books,East,Kolkata,2024-01-26,1,252.91,0.0,252.91,Net Banking,4,True,False,False,False
+100143,Pooja Mehta,Unknown,North,Delhi,2024-01-27,1,2233.36,0.0,4466.72,Net Banking,4,True,False,False,False
+101053,Kavita Malhotra,Home & Kitchen,East,Guwahati,2024-01-27,1,9647.43,0.0,9647.43,Credit Card,5,True,False,False,False
+100912,Shreya Kapoor,Beauty,South,Chennai,2024-01-28,1,2731.5,10.0,2458.35,Net Banking,,False,False,False,False
+100371,Riya Mehta,Beauty,West,Surat,2024-01-28,1,986.82,10.0,888.14,UPI,3,True,False,False,False
+100525,Vikram Gupta,Clothing,West,Pune,2024-01-28,2,3579.44,5.0,6800.94,Credit Card,4,True,False,False,False
+100385,Rahul Choudhary,Toys,South,Kochi,2024-01-28,2,1013.0,10.0,1823.4,Credit Card,5,True,False,False,False
+100065,Meena Choudhary,Books,East,Guwahati,2024-01-29,2,208.12,20.0,332.99,Credit Card,,False,False,False,False
+100557,Pooja Bose,Books,East,Patna,2024-01-29,1,1130.71,5.0,1074.17,Net Banking,4,True,False,False,False
+100291,Neha Choudhary,Books,North,Delhi,2024-01-29,3,531.13,5.0,1513.72,Cash on Delivery,1,True,False,False,False
+100920,Sneha Sharma,Toys,North,Delhi,2024-01-29,1,1458.12,0.0,1458.12,Net Banking,4,True,False,False,False
+100140,Sanjay Gupta,Sports,North,Lucknow,2024-01-30,2,7412.67,0.0,14825.34,UPI,2,True,False,False,True
+101196,Amit Malhotra,Sports,West,Ahmedabad,2024-01-30,1,6310.63,0.0,6310.63,Credit Card,3,True,False,False,False
+100961,Amit Iyer,Beauty,North,Chandigarh,2024-02-01,1,1697.8,10.0,1528.02,UPI,5,True,False,False,False
+100156,Karan Nair,Beauty,East,Bhubaneswar,2024-02-02,2,550.78,0.0,1101.56,UPI,5,True,False,False,False
+101050,Neha Reddy,Electronics,West,Mumbai,2024-02-02,2,21191.51,0.0,42383.02,Cash on Delivery,4,True,False,False,False
+100623,Meena Iyer,Toys,West,Ahmedabad,2024-02-03,1,548.73,0.0,548.73,Credit Card,5,True,False,False,False
+100068,Sneha Bose,Beauty,West,Surat,2024-02-03,1,1216.76,0.0,1216.76,UPI,4,True,False,False,False
+100896,Divya Nair,Beauty,South,Bengaluru,2024-02-03,1,1957.09,0.0,1957.09,Cash on Delivery,4,True,False,False,False
+100735,Pooja Kapoor,Beauty,South,Chennai,2024-02-03,1,1838.89,20.0,1471.11,Cash on Delivery,,False,False,False,False
+100713,Rahul Choudhary,Electronics,North,Jaipur,2024-02-03,1,7078.18,10.0,6370.36,Unknown,5,True,False,False,False
+100737,Neha Reddy,Books,North,Lucknow,2024-02-04,1,211.07,0.0,211.07,Cash on Delivery,1,True,False,False,False
+101102,Meena Patel,Clothing,North,Delhi,2024-02-04,1,2944.17,0.0,2944.17,Net Banking,4,True,False,False,False
+100633,Vikram Patel,Sports,East,Guwahati,2024-02-04,1,3136.46,0.0,3136.46,Credit Card,5,True,False,False,False
+100321,Pooja Kapoor,Sports,North,Delhi,2024-02-04,3,4634.84,0.0,13904.52,Debit Card,5,True,False,False,False
+100476,Rohan Bose,Home & Kitchen,North,Jaipur,2024-02-06,2,11549.76,0.0,23099.52,Net Banking,3,True,False,False,False
+100963,Sneha Gupta,Home & Kitchen,South,Bengaluru,2024-02-06,1,12635.72,0.0,12635.72,UPI,1,True,False,False,False
+100257,Amit Choudhary,Books,South,Chennai,2024-02-06,1,99.57,10.0,89.61,UPI,2,True,False,False,False
+100682,Unknown Customer,Toys,South,Chennai,2024-02-07,1,1652.34,0.0,1239.25,Net Banking,5,True,False,False,False
+100593,Kavita Choudhary,Beauty,South,Bengaluru,2024-02-07,1,1455.09,0.0,1455.09,Debit Card,4,True,False,False,False
+100488,Sanjay Joshi,Clothing,West,Pune,2024-02-07,1,549.85,0.0,549.85,Net Banking,3,True,False,False,False
+100931,Neha Joshi,Beauty,West,Ahmedabad,2024-02-07,2,334.24,5.0,635.06,Debit Card,5,True,False,False,False
+100879,Manoj Mehta,Home & Kitchen,East,Bhubaneswar,2024-02-07,3,14838.35,0.0,44515.05,Debit Card,4,True,False,False,True
+101105,Meena Singh,Sports,South,Kochi,2024-02-08,1,7007.88,0.0,7007.88,Credit Card,4,True,False,False,False
+100393,Rahul Gupta,Books,West,Surat,2024-02-09,1,1009.81,0.0,908.83,Credit Card,5,True,False,False,False
+101075,Rohan Iyer,Home & Kitchen,East,Bhubaneswar,2024-02-09,1,2019.97,15.0,1716.97,Cash on Delivery,4,True,False,False,False
+100755,Unknown Customer,Home & Kitchen,North,Jaipur,2024-02-10,1,10440.97,0.0,10440.97,Net Banking,5,True,False,False,False
+100437,Rahul Mehta,Books,North,Jaipur,2024-02-10,1,1033.73,0.0,1033.73,Net Banking,4,True,False,False,False
+100768,Rahul Joshi,Electronics,West,Pune,2024-02-12,3,2817378.5,0.0,169042.71,Net Banking,4,True,True,False,True
+100048,Anita Nair,Books,South,Chennai,2024-02-13,1,243.29,20.0,194.63,UPI,4,True,False,False,False
+100740,Sneha Mehta,Books,South,Chennai,2024-02-13,1,1138.5,0.0,1138.5,Debit Card,4,True,False,False,False
+100292,Vikram Malhotra,Toys,North,Chandigarh,2024-02-14,2,279.12,5.0,530.33,Net Banking,5,True,False,False,False
+100263,Anita Rao,Toys,North,Delhi,2024-02-16,2,737.41,0.0,1474.82,Cash on Delivery,,False,False,False,False
+100000,Vikram Choudhary,Books,North,Delhi,2024-02-16,1,951.13,15.0,808.46,Debit Card,3,True,False,False,False
+100936,Vikram Bose,Home & Kitchen,West,Pune,2024-02-16,1,6850.44,5.0,6507.92,Credit Card,5,True,False,False,False
+101079,Riya Mehta,Home & Kitchen,West,Mumbai,2024-02-16,1,7053.09,0.0,7053.09,Net Banking,4,True,False,False,False
+100653,Sneha Joshi,Unknown,South,Hyderabad,2024-02-16,1,365.56,0.0,1827.8,Cash on Delivery,5,True,False,False,False
+100392,Sanjay Kapoor,Home & Kitchen,West,Ahmedabad,2024-02-17,1,1977.64,30.0,1384.35,Cash on Delivery,3,True,False,False,False
+101145,Karan Mehta,Electronics,South,Kochi,2024-02-17,1,14213.91,0.0,14213.91,UPI,4,True,False,False,False
+100081,Manoj Reddy,Books,South,Hyderabad,2024-02-17,2,559.89,5.0,1063.79,Cash on Delivery,4,True,False,False,False
+100731,Riya Patel,Electronics,West,Ahmedabad,2024-02-18,2,22135.58,5.0,42057.6,UPI,4,True,False,False,False
+100014,Sneha Gupta,Beauty,East,Bhubaneswar,2024-02-18,1,2318.5,5.0,2202.57,Net Banking,4,True,False,False,False
+100818,Sanjay Choudhary,Toys,South,Bengaluru,2024-02-18,1,722.86,0.0,722.86,Debit Card,3,True,False,False,False
+100361,Anita Patel,Clothing,North,Chandigarh,2024-02-18,1,3064.18,0.0,3064.18,Debit Card,3,True,False,False,False
+101166,Shreya Joshi,Toys,South,Bengaluru,2024-02-19,1,824.88,15.0,701.15,UPI,2,True,False,False,False
+100313,Unknown Customer,Books,North,Chandigarh,2024-02-20,2,878.34,25.0,1317.51,Credit Card,5,True,False,False,False
+100608,Rahul Sharma,Electronics,Unknown,Ahmedabad,2024-02-20,1,12119.1,10.0,10907.19,UPI,3,True,False,False,False
+100075,Kavita Choudhary,Beauty,West,Pune,2024-02-21,3,345.03,0.0,1035.09,UPI,,False,False,False,False
+100932,Rohan Nair,Clothing,Unknown,Mumbai,2024-02-22,1,1335.24,0.0,1335.24,Debit Card,3,True,False,False,False
+100365,Shreya Nair,Clothing,East,Bhubaneswar,2024-02-22,1,1042.08,0.0,1042.08,UPI,4,True,False,False,False
+100663,Sanjay Verma,Toys,South,Chennai,2024-02-23,1,372.28,0.0,372.28,Net Banking,4,True,False,False,False
+101008,Manoj Rao,Home & Kitchen,North,Delhi,2024-02-24,2,10060.01,0.0,20120.02,Cash on Delivery,2,True,False,False,False
+100464,Rahul Rao,Books,North,Chandigarh,2024-02-24,1,888.14,0.0,888.14,Debit Card,5,True,False,False,False
+100209,Shreya Patel,Home & Kitchen,East,Guwahati,2024-02-24,1,12727.88,0.0,12727.88,UPI,4,True,False,False,False
+100828,Riya Nair,Beauty,North,Unknown,2024-02-24,1,2600.52,10.0,2600.52,Cash on Delivery,,False,False,False,False
+101161,Neha Mehta,Toys,East,Patna,2024-02-25,1,1631.65,0.0,1631.65,Cash on Delivery,3,True,False,False,False
+101109,Arjun Verma,Clothing,East,Guwahati,2024-02-25,2,3463.3,0.0,6926.6,Credit Card,5,True,False,False,False
+100729,Neha Patel,Books,East,Bhubaneswar,2024-02-26,1,136.0,0.0,136.0,Debit Card,3,True,False,False,False
+101036,Vikram Reddy,Home & Kitchen,West,Ahmedabad,2024-02-26,1,6930.59,5.0,6584.06,Credit Card,5,True,False,False,False
+100591,Amit Malhotra,Electronics,North,Chandigarh,2024-02-27,1,50680.73,0.0,50680.73,UPI,4,True,False,False,False
+100537,Rohan Gupta,Books,East,Bhubaneswar,2024-02-27,1,679.93,20.0,543.94,Net Banking,3,True,False,False,False
+100064,Vikram Rao,Toys,South,Hyderabad,2024-02-27,1,1904.57,15.0,1618.88,Credit Card,,False,False,False,False
+100807,Shreya Joshi,Books,North,Chandigarh,2024-02-27,1,758.34,5.0,720.42,UPI,2,True,False,False,False
+100091,Pooja Sharma,Beauty,Unknown,Guwahati,2024-02-27,2,2030.49,0.0,4060.98,UPI,5,True,False,False,False
+101106,Riya Kapoor,Clothing,North,Delhi,2024-02-27,2,1070.64,20.0,1713.02,UPI,4,True,False,False,False
+100471,Arjun Malhotra,Toys,East,Patna,2024-02-28,1,1067.59,0.0,1067.59,Credit Card,3,True,False,False,False
+100760,Priya Verma,Home & Kitchen,South,Bengaluru,2024-02-29,1,12939.36,5.0,12292.39,Cash on Delivery,3,True,False,False,False
+100783,Suresh Gupta,Toys,East,Guwahati,2024-02-29,1,1844.98,0.0,1844.98,Cash on Delivery,3,True,False,False,False
+100171,Rohan Singh,Sports,West,Ahmedabad,2024-02-29,1,2084.78,5.0,1980.54,Net Banking,5,True,False,False,False
+100878,Suresh Rao,Electronics,Unknown,Kolkata,2024-03-01,3,57603.04,10.0,155528.21,Credit Card,5,True,False,False,True
+100165,Riya Choudhary,Unknown,South,Chennai,2024-03-01,1,100.36,0.0,100.36,Net Banking,4,True,False,False,False
+100163,Kavita Iyer,Home & Kitchen,South,Hyderabad,2024-03-01,2,1095.82,0.0,2191.64,Cash on Delivery,4,True,False,False,False
+100658,Rahul Singh,Sports,West,Surat,2024-03-02,1,7764.39,5.0,7376.17,Cash on Delivery,4,True,False,False,False
+100146,Riya Reddy,Sports,North,Delhi,2024-03-02,1,2531.76,0.0,2531.76,Debit Card,5,True,False,False,False
+100685,Rahul Gupta,Home & Kitchen,South,Hyderabad,2024-03-02,2,11757.6,0.0,23515.2,Debit Card,4,True,False,False,False
+100745,Sanjay Nair,Sports,East,Bhubaneswar,2024-03-03,1,2765.76,0.0,2765.76,Debit Card,5,True,False,False,False
+100487,Vikram Choudhary,Home & Kitchen,South,Chennai,2024-03-03,1,10871.4,0.0,10327.83,Credit Card,5,True,False,False,False
+100639,Neha Iyer,Home & Kitchen,North,Lucknow,2024-03-04,1,4263.64,0.0,4263.64,UPI,1,True,False,False,False
+100034,Sneha Choudhary,Beauty,East,Patna,2024-03-05,1,1706.7,5.0,1621.36,UPI,5,True,False,False,False
+100861,Suresh Rao,Beauty,North,Chandigarh,2024-03-05,1,1295.7,25.0,971.78,Debit Card,1,True,False,False,False
+101198,Meena Choudhary,Home & Kitchen,South,Hyderabad,2024-03-05,4,5937.63,0.0,23750.52,Net Banking,4,True,False,True,False
+101092,Amit Kapoor,Electronics,North,Delhi,2024-03-05,2,20452.8,10.0,36815.04,Debit Card,,False,False,False,False
+100279,Karan Gupta,Sports,Unknown,Hyderabad,2024-03-06,2,6083.32,0.0,12166.64,Credit Card,,False,False,False,False
+100594,Meena Kapoor,Books,South,Bengaluru,2024-03-06,1,618.54,0.0,618.54,Net Banking,5,True,False,False,False
+100043,Neha Joshi,Beauty,North,Chandigarh,2024-03-07,1,544.52,5.0,517.29,UPI,5,True,False,False,False
+100324,Priya Joshi,Beauty,North,Jaipur,2024-03-07,1,2842.51,10.0,2558.26,Cash on Delivery,3,True,False,False,False
+100701,Karan Mehta,Home & Kitchen,East,Bhubaneswar,2024-03-07,1,5109.89,0.0,5109.89,Cash on Delivery,,False,False,False,False
+100637,Pooja Patel,Electronics,South,Kochi,2024-03-07,3,34080.62,0.0,102241.86,Credit Card,5,True,False,False,False
+100388,Karan Patel,Books,South,Bengaluru,2024-03-07,1,918.14,0.0,918.14,Cash on Delivery,5,True,False,False,False
+100957,Vikram Joshi,Clothing,West,Ahmedabad,2024-03-08,3,1573.75,5.0,4485.19,Debit Card,4,True,False,False,False
+100654,Vikram Joshi,Beauty,West,Pune,2024-03-08,1,589.07,0.0,589.07,Net Banking,5,True,False,False,False
+100965,Suresh Verma,Home & Kitchen,North,Delhi,2024-03-08,2,3667.57,25.0,5501.36,Cash on Delivery,5,True,False,False,False
+100179,Neha Iyer,Electronics,West,Surat,2024-03-09,1,42046.08,0.0,42046.08,Debit Card,,False,False,False,False
+101010,Priya Singh,Toys,South,Hyderabad,2024-03-09,5,1070.84,0.0,5354.2,Debit Card,4,True,False,True,False
+100223,Meena Patel,Books,South,Hyderabad,2024-03-10,1,795.14,20.0,636.11,Debit Card,4,True,False,False,False
+101170,Amit Mehta,Beauty,North,Jaipur,2024-03-10,1,244.24,15.0,207.6,Cash on Delivery,4,True,False,False,False
+100182,Rohan Verma,Toys,West,Mumbai,2024-03-12,1,1065.18,5.0,1011.92,Debit Card,5,True,False,False,False
+100446,Rahul Bose,Toys,North,Delhi,2024-03-12,1,624.49,5.0,593.27,Cash on Delivery,4,True,False,False,False
+100888,Priya Rao,Books,South,Bengaluru,2024-03-12,1,203.85,0.0,203.85,Debit Card,5,True,False,False,False
+100306,Neha Kapoor,Toys,West,Mumbai,2024-03-13,1,3069.22,0.0,3069.22,Debit Card,2,True,False,False,False
+100151,Meena Singh,Home & Kitchen,South,Chennai,2024-03-13,1,1194.07,0.0,1194.07,Credit Card,4,True,False,False,False
+100942,Suresh Verma,Books,South,Kochi,2024-03-13,2,820.49,15.0,1394.83,UPI,4,True,False,False,False
+100069,Sneha Malhotra,Electronics,North,Lucknow,2024-03-16,1,25888.03,0.0,25888.03,UPI,4,True,False,False,False
+100026,Suresh Sharma,Sports,East,Patna,2024-03-16,1,5811.81,5.0,5521.22,Credit Card,5,True,False,False,False
+100794,Divya Gupta,Clothing,North,Delhi,2024-03-16,1,1949.21,0.0,1949.21,Cash on Delivery,4,True,False,False,False
+100703,Manoj Kapoor,Sports,North,Lucknow,2024-03-17,2,4886.28,0.0,9772.56,Debit Card,3,True,False,False,False
+100918,Manoj Iyer,Books,East,Kolkata,2024-03-18,1,789.12,0.0,789.12,UPI,1,True,False,False,False
+100867,Sneha Nair,Home & Kitchen,South,Chennai,2024-03-18,1,10632.13,0.0,10632.13,UPI,5,True,False,False,False
+101144,Neha Choudhary,Home & Kitchen,South,Bengaluru,2024-03-19,1,13435.48,5.0,12763.71,Net Banking,4,True,False,False,False
+100259,Meena Bose,Home & Kitchen,East,Patna,2024-03-20,1,12382.24,15.0,10524.9,Credit Card,3,True,False,False,False
+100971,Meena Verma,Beauty,West,Ahmedabad,2024-03-20,1,923.62,0.0,923.62,Net Banking,3,True,False,False,False
+100945,Unknown Customer,Electronics,East,Guwahati,2024-03-21,2,32549.25,0.0,65098.5,Net Banking,2,True,False,False,False
+101049,Shreya Bose,Clothing,South,Kochi,2024-03-21,1,2309.35,5.0,2193.88,Cash on Delivery,2,True,False,False,False
+100050,Pooja Verma,Toys,North,Lucknow,2024-03-21,1,3248.11,5.0,3085.7,Net Banking,3,True,False,False,False
+100981,Karan Bose,Books,South,Bengaluru,2024-03-22,1,952.53,0.0,952.53,Net Banking,1,True,False,False,False
+100219,Suresh Malhotra,Sports,West,Pune,2024-03-23,1,2862.82,0.0,2862.82,Debit Card,5,True,False,False,False
+100170,Anita Sharma,Clothing,East,Bhubaneswar,2024-03-23,1,334.26,0.0,334.26,Cash on Delivery,5,True,False,False,False
+100917,Rohan Rao,Books,East,Bhubaneswar,2024-03-23,2,626.68,20.0,1002.69,UPI,5,True,False,False,False
+100538,Kavita Patel,Electronics,South,Hyderabad,2024-03-23,2,13081.87,0.0,26163.74,Credit Card,5,True,False,False,False
+100106,Arjun Kapoor,Beauty,East,Kolkata,2024-03-23,1,1871.86,0.0,1871.86,Net Banking,4,True,False,False,False
+101097,Meena Iyer,Home & Kitchen,South,Hyderabad,2024-03-24,1,10920.53,0.0,10920.53,UPI,5,True,False,False,False
+100711,Anita Reddy,Books,North,Delhi,2024-03-24,3,937.42,20.0,2249.81,Credit Card,5,True,False,False,True
+100247,Arjun Joshi,Electronics,North,Chandigarh,2024-03-24,3,37750.61,30.0,79276.28,Cash on Delivery,2,True,False,False,False
+100491,Riya Malhotra,Sports,North,Delhi,2024-03-25,1,7998.17,15.0,6798.44,Cash on Delivery,4,True,False,False,False
+100688,Vikram Reddy,Electronics,East,Patna,2024-03-26,1,6388.38,0.0,6388.38,Net Banking,,False,False,False,False
+100743,Shreya Singh,Sports,East,Patna,2024-03-26,2,4123.36,10.0,7422.05,Unknown,5,True,False,False,False
+100724,Meena Gupta,Sports,North,Delhi,2024-03-26,1,4609.47,0.0,4609.47,Credit Card,2,True,False,False,False
+100550,Rohan Sharma,Clothing,West,Surat,2024-03-27,1,486.41,0.0,486.41,Credit Card,,False,False,False,False
+100232,Sanjay Kapoor,Beauty,East,Guwahati,2024-03-28,1,157.32,0.0,157.32,Credit Card,5,True,False,False,False
+101125,Manoj Singh,Sports,South,Hyderabad,2024-03-28,3,1330.33,0.0,3990.99,Debit Card,5,True,False,False,False
+100469,Kavita Choudhary,Sports,West,Mumbai,2024-03-28,1,4359.35,5.0,4141.38,Debit Card,1,True,False,False,False
+100903,Meena Nair,Clothing,West,Ahmedabad,2024-03-28,2,739.48,0.0,1478.96,Credit Card,5,True,False,False,False
+100891,Rohan Patel,Toys,South,Bengaluru,2024-03-28,1,1033.68,20.0,826.94,UPI,2,True,False,False,False
+100173,Arjun Rao,Electronics,West,Unknown,2024-03-28,1,51546.26,0.0,41237.01,Debit Card,4,True,False,False,False
+101058,Rahul Gupta,Beauty,West,Mumbai,2024-03-28,3,1560.89,0.0,4682.67,Credit Card,4,True,False,False,False
+100719,Neha Joshi,Toys,South,Chennai,2024-03-29,1,3346.26,0.0,3346.26,Unknown,4,True,False,False,False
+101178,Rahul Bose,Sports,North,Lucknow,2024-03-29,2,4984.2,0.0,9968.4,Credit Card,5,True,False,False,False
+100039,Sneha Mehta,Clothing,West,Ahmedabad,2024-03-29,5,1909.86,20.0,7639.44,Net Banking,5,True,False,True,True
+100680,Divya Bose,Toys,West,Surat,2024-03-29,1,2152.56,0.0,2152.56,Net Banking,4,True,False,False,False
+101135,Riya Sharma,Beauty,East,Kolkata,2024-03-29,2,1578.97,0.0,3157.94,Net Banking,5,True,False,False,False
+100020,Kavita Patel,Toys,East,Kolkata,2024-03-30,2,660.25,0.0,1320.5,Net Banking,4,True,False,False,False
+100826,Arjun Patel,Electronics,North,Lucknow,2024-03-30,3,48405.41,0.0,145216.23,Net Banking,4,True,False,False,True
+100930,Karan Joshi,Beauty,South,Bengaluru,2024-03-31,1,2439.82,0.0,2439.82,Credit Card,4,True,False,False,False
+100906,Riya Sharma,Beauty,West,Ahmedabad,2024-03-31,1,1764.55,0.0,1764.55,Cash on Delivery,4,True,False,False,False
+100338,Priya Patel,Sports,North,Jaipur,2024-04-01,2,4329.25,10.0,7792.65,Cash on Delivery,3,True,False,False,False
+100689,Suresh Choudhary,Electronics,South,Chennai,2024-04-01,4,12932.05,10.0,46555.38,Debit Card,5,True,False,True,False
+100588,Anita Reddy,Beauty,West,Ahmedabad,2024-04-01,2,2215.29,5.0,4209.05,Credit Card,,False,False,False,False
+100390,Sneha Mehta,Electronics,North,Jaipur,2024-04-01,1,35348.64,25.0,26511.48,UPI,,False,False,False,False
+101030,Aarav Mehta,Sports,South,Hyderabad,2024-04-02,1,613.65,5.0,582.97,Unknown,4,True,False,False,False
+100101,Meena Iyer,Toys,West,Pune,2024-04-03,5,764.84,0.0,3824.2,UPI,5,True,False,True,False
+100028,Karan Kapoor,Clothing,East,Guwahati,2024-04-04,1,1520.49,0.0,1520.49,Credit Card,3,True,False,False,False
+100439,Arjun Kapoor,Clothing,West,Pune,2024-04-04,3,2016.51,10.0,5444.58,Credit Card,4,True,False,False,False
+101031,Riya Verma,Sports,West,Surat,2024-04-04,1,1765.2,0.0,1765.2,Debit Card,2,True,False,False,False
+100515,Manoj Verma,Clothing,East,Bhubaneswar,2024-04-04,3,2136.27,0.0,6408.81,Cash on Delivery,2,True,False,False,False
+100420,Shreya Mehta,Beauty,East,Patna,2024-04-05,2,760.82,5.0,1445.56,Debit Card,4,True,False,False,False
+100909,Karan Joshi,Beauty,East,Guwahati,2024-04-06,2,2317.96,0.0,4635.92,Credit Card,4,True,False,False,False
+101174,Sanjay Singh,Clothing,South,Kochi,2024-04-06,1,1699.99,0.0,1699.99,UPI,5,True,False,False,False
+100252,Priya Singh,Sports,North,Jaipur,2024-04-06,1,7817.98,0.0,7817.98,Debit Card,2,True,False,False,False
+101028,Karan Joshi,Clothing,East,Kolkata,2024-04-06,1,3443.01,0.0,3443.01,Net Banking,4,True,False,False,False
+100425,Shreya Kapoor,Books,West,Mumbai,2024-04-06,1,703.99,0.0,703.99,Cash on Delivery,5,True,False,False,False
+100123,Arjun Joshi,Books,West,Pune,2024-04-07,1,148.16,0.0,148.16,UPI,4,True,False,False,False
+100038,Amit Mehta,Toys,West,Mumbai,2024-04-07,1,1875.44,20.0,1500.35,Net Banking,2,True,False,False,False
+100889,Amit Verma,Electronics,South,Kochi,2024-04-07,2,22391.26,0.0,44782.52,Cash on Delivery,4,True,False,False,False
+100967,Priya Kapoor,Electronics,North,Unknown,2024-04-08,1,39873.26,20.0,31898.61,Debit Card,5,True,False,False,False
+100824,Aarav Patel,Books,North,Lucknow,2024-04-09,2,582.38,15.0,990.05,Net Banking,,False,False,False,False
+100819,Vikram Patel,Beauty,East,Guwahati,2024-04-09,4,1053.78,5.0,4215.11,Credit Card,4,True,False,True,False
+100691,Vikram Malhotra,Sports,West,Ahmedabad,2024-04-10,1,2553.99,10.0,2298.59,Credit Card,5,True,False,False,False
+101052,Pooja Singh,Electronics,East,Guwahati,2024-04-10,2,54694.13,5.0,103918.85,Credit Card,3,True,False,False,False
+100937,Sneha Sharma,Home & Kitchen,North,Lucknow,2024-04-10,4,1253.3,5.0,4762.54,Cash on Delivery,3,True,False,True,False
+100184,Rahul Gupta,Toys,East,Bhubaneswar,2024-04-10,1,3077.53,5.0,2923.65,Net Banking,4,True,False,False,False
+100765,Arjun Mehta,Toys,North,Delhi,2024-04-11,2,1370.61,0.0,2741.22,Net Banking,5,True,False,False,False
+100935,Divya Joshi,Books,East,Kolkata,2024-04-12,1,593.14,5.0,563.48,UPI,4,True,False,False,False
+100533,Manoj Malhotra,Electronics,West,Ahmedabad,2024-04-12,1,33982.45,10.0,30584.2,Net Banking,5,True,False,False,False
+101017,Manoj Singh,Electronics,North,Jaipur,2024-04-12,1,6125.55,0.0,6125.55,Cash on Delivery,5,True,False,False,False
+100434,Aarav Singh,Sports,East,Bhubaneswar,2024-04-13,3,7767.57,25.0,17477.03,Unknown,2,True,False,False,True
+101032,Sanjay Sharma,Home & Kitchen,West,Pune,2024-04-13,5,4239.51,20.0,16958.04,Net Banking,4,True,False,True,False
+100355,Vikram Iyer,Clothing,East,Patna,2024-04-13,1,3304.36,20.0,2643.49,Net Banking,3,True,False,False,False
+100131,Pooja Joshi,Books,North,Lucknow,2024-04-13,1,1120.13,0.0,1120.13,Debit Card,5,True,False,False,False
+101169,Kavita Choudhary,Beauty,West,Mumbai,2024-04-14,1,1796.7,20.0,1437.36,Net Banking,4,True,False,False,False
+100973,Meena Reddy,Toys,West,Mumbai,2024-04-15,1,237.8,0.0,237.8,Debit Card,4,True,False,False,False
+100316,Pooja Malhotra,Beauty,North,Delhi,2024-04-15,1,1423.57,0.0,1423.57,Credit Card,3,True,False,False,False
+100656,Karan Nair,Books,East,Bhubaneswar,2024-04-16,3,261.89,0.0,785.67,Credit Card,3,True,False,False,False
+100312,Arjun Reddy,Books,North,Delhi,2024-04-17,1,307.49,25.0,230.62,Cash on Delivery,5,True,False,False,False
+100097,Shreya Kapoor,Electronics,South,Hyderabad,2024-04-18,2,31015.06,5.0,58928.61,Debit Card,5,True,False,False,False
+100624,Sneha Singh,Toys,South,Unknown,2024-04-18,1,765.76,0.0,765.76,Credit Card,5,True,False,False,False
+101021,Amit Patel,Beauty,West,Ahmedabad,2024-04-19,1,2936.32,0.0,2936.32,Debit Card,4,True,False,False,False
+100025,Riya Patel,Home & Kitchen,South,Chennai,2024-04-19,1,8772.45,15.0,7456.58,Credit Card,5,True,False,False,False
+100956,Anita Verma,Beauty,South,Kochi,2024-04-19,1,2992.2,0.0,2992.2,Cash on Delivery,5,True,False,False,False
+100543,Priya Kapoor,Home & Kitchen,South,Chennai,2024-04-19,1,7324.36,0.0,7324.36,Net Banking,4,True,False,False,False
+100806,Pooja Gupta,Beauty,East,Kolkata,2024-04-19,1,2050.07,0.0,2050.07,Credit Card,,False,False,False,False
+101162,Divya Gupta,Home & Kitchen,South,Hyderabad,2024-04-20,2,3691.21,20.0,5905.94,Net Banking,4,True,False,False,False
+101189,Rahul Gupta,Electronics,West,Ahmedabad,2024-04-20,2,45559.74,5.0,86563.51,Debit Card,,False,False,False,False
+100845,Anita Gupta,Clothing,North,Chandigarh,2024-04-21,1,959.37,0.0,959.37,UPI,5,True,False,False,False
+100275,Sanjay Sharma,Clothing,East,Patna,2024-04-21,1,808.95,15.0,808.95,Credit Card,4,True,False,False,False
+100319,Amit Malhotra,Electronics,West,Pune,2024-04-21,1,14294.2,20.0,11435.36,Debit Card,,False,False,False,False
+100954,Sanjay Malhotra,Electronics,North,Chandigarh,2024-04-21,2,36008.73,0.0,72017.46,Cash on Delivery,5,True,False,False,False
+100676,Rahul Reddy,Books,North,Delhi,2024-04-23,1,940.96,10.0,846.86,Debit Card,4,True,False,False,False
+100815,Divya Verma,Books,North,Jaipur,2024-04-24,1,517.38,0.0,517.38,Debit Card,5,True,False,False,False
+100221,Meena Rao,Electronics,East,Kolkata,2024-04-24,1,27122.39,0.0,27122.39,Net Banking,,False,False,False,False
+101056,Karan Nair,Sports,West,Surat,2024-04-24,1,3040.05,20.0,2432.04,Debit Card,4,True,False,False,False
+100876,Amit Reddy,Beauty,East,Kolkata,2024-04-25,1,653.57,0.0,653.57,Net Banking,4,True,False,False,False
+101033,Rohan Iyer,Books,North,Delhi,2024-04-26,2,609.54,0.0,1036.22,Net Banking,3,True,False,False,False
+101027,Pooja Verma,Toys,East,Guwahati,2024-04-26,2,2289.28,0.0,4578.56,UPI,5,True,False,False,False
+100619,Neha Verma,Toys,East,Guwahati,2024-04-26,1,2450.95,20.0,1960.76,Debit Card,4,True,False,False,False
+101095,Suresh Patel,Toys,North,Delhi,2024-04-26,1,2550.83,10.0,2295.75,Cash on Delivery,5,True,False,False,False
+100953,Sanjay Iyer,Home & Kitchen,East,Guwahati,2024-04-26,1,9150.28,0.0,9150.28,UPI,2,True,False,False,False
+100939,Aarav Rao,Clothing,North,Jaipur,2024-04-27,1,2531.86,5.0,2405.27,Credit Card,4,True,False,False,False
+100774,Sneha Patel,Electronics,West,Surat,2024-04-28,2,34434.46,10.0,61982.03,Cash on Delivery,5,True,False,False,False
+100857,Anita Singh,Books,South,Bengaluru,2024-04-28,2,580.73,0.0,1161.46,UPI,4,True,False,False,False
+100801,Vikram Reddy,Sports,North,Chandigarh,2024-04-28,1,231.22,0.0,231.22,Net Banking,3,True,False,False,False
+100858,Karan Verma,Toys,East,Bhubaneswar,2024-04-29,2,244.54,0.0,489.08,Debit Card,4,True,False,False,False
+100620,Arjun Verma,Books,South,Kochi,2024-04-30,1,1019.29,10.0,917.36,Net Banking,5,True,False,False,False
+100684,Vikram Sharma,Home & Kitchen,East,Kolkata,2024-05-01,1,9210.36,0.0,9210.36,Net Banking,5,True,False,False,False
+101087,Shreya Iyer,Clothing,South,Bengaluru,2024-05-01,1,1935.79,5.0,1839.0,Credit Card,4,True,False,False,False
+100841,Amit Iyer,Electronics,North,Lucknow,2024-05-02,4,55779.71,0.0,223118.84,Cash on Delivery,4,True,False,True,True
+100980,Rohan Verma,Books,South,Bengaluru,2024-05-02,1,507.78,10.0,457.0,UPI,4,True,False,False,False
+100583,Pooja Malhotra,Home & Kitchen,North,Jaipur,2024-05-03,1,8653.96,5.0,8221.26,Cash on Delivery,4,True,False,False,False
+100934,Suresh Joshi,Clothing,West,Pune,2024-05-04,1,2573.38,10.0,4632.08,Credit Card,2,True,False,False,False
+100559,Pooja Reddy,Beauty,North,Jaipur,2024-05-05,1,522.91,0.0,522.91,Unknown,4,True,False,False,False
+100712,Arjun Malhotra,Beauty,North,Chandigarh,2024-05-06,1,2791.89,0.0,2791.89,Credit Card,3,True,False,False,False
+100523,Arjun Verma,Electronics,South,Kochi,2024-05-06,2,26435.29,0.0,52870.58,Credit Card,4,True,False,False,False
+100254,Unknown Customer,Beauty,South,Bengaluru,2024-05-07,1,2481.57,0.0,2481.57,Credit Card,5,True,False,False,False
+100178,Priya Singh,Beauty,North,Unknown,2024-05-07,2,1019.74,5.0,1937.51,Net Banking,3,True,False,False,False
+100063,Meena Choudhary,Books,West,Pune,2024-05-07,1,727.93,0.0,727.93,Credit Card,4,True,False,False,False
+100070,Unknown Customer,Electronics,East,Guwahati,2024-05-07,1,20658.49,5.0,19625.57,Cash on Delivery,,False,False,False,False
+100095,Arjun Nair,Sports,North,Delhi,2024-05-08,2,646.41,20.0,1034.26,Cash on Delivery,5,True,False,False,False
+100010,Meena Singh,Home & Kitchen,North,Jaipur,2024-05-09,1,12110.51,0.0,12110.51,UPI,3,True,False,False,False
+100441,Unknown Customer,Home & Kitchen,West,Ahmedabad,2024-05-10,1,13914.72,5.0,13218.98,Net Banking,,False,False,False,False
+100788,Anita Kapoor,Electronics,West,Ahmedabad,2024-05-11,5,29584.68,0.0,147923.4,UPI,5,True,False,True,True
+100125,Priya Singh,Unknown,West,Ahmedabad,2024-05-11,1,38798.94,5.0,36858.99,Credit Card,5,True,True,False,True
+100741,Unknown Customer,Home & Kitchen,West,Pune,2024-05-11,1,5399.98,20.0,4319.98,Debit Card,4,True,False,False,False
+100780,Amit Sharma,Books,South,Kochi,2024-05-12,2,1154.94,30.0,1616.92,Cash on Delivery,,False,False,False,False
+100431,Rahul Iyer,Books,West,Ahmedabad,2024-05-12,1,345.17,0.0,345.17,UPI,3,True,False,False,False
+100387,Amit Reddy,Beauty,South,Chennai,2024-05-12,4,178.83,0.0,643.79,UPI,5,True,False,True,False
+100804,Suresh Rao,Clothing,South,Bengaluru,2024-05-12,4,1486.16,5.0,5647.41,Credit Card,4,True,False,True,False
+100811,Aarav Malhotra,Sports,West,Mumbai,2024-05-13,1,2519.17,0.0,2519.17,Credit Card,4,True,False,False,False
+101090,Vikram Joshi,Electronics,South,Bengaluru,2024-05-14,2,34971.55,0.0,69943.1,Net Banking,4,True,False,False,False
+100603,Shreya Gupta,Unknown,West,Surat,2024-05-14,1,1046.48,0.0,1046.48,Cash on Delivery,,False,False,False,False
+100102,Suresh Nair,Clothing,East,Kolkata,2024-05-14,1,2654.71,0.0,2654.71,UPI,4,True,False,False,False
+101108,Amit Verma,Toys,North,Chandigarh,2024-05-15,1,2270.9,20.0,1816.72,UPI,1,True,False,False,False
+100376,Amit Iyer,Home & Kitchen,North,Delhi,2024-05-16,2,3851.53,5.0,7317.91,Credit Card,3,True,False,False,False
+100714,Sanjay Verma,Books,East,Guwahati,2024-05-17,1,673.94,10.0,673.94,Unknown,1,True,False,False,False
+100659,Anita Reddy,Electronics,North,Chandigarh,2024-05-18,1,20246.61,5.0,19234.28,UPI,3,True,False,False,False
+100368,Manoj Verma,Toys,West,Mumbai,2024-05-18,2,902.71,0.0,1805.42,Net Banking,3,True,False,False,False
+101195,Aarav Iyer,Clothing,South,Hyderabad,2024-05-18,2,1100.68,0.0,2201.36,Net Banking,5,True,False,False,False
+100167,Meena Kapoor,Books,West,Pune,2024-05-20,1,365.97,5.0,347.67,UPI,4,True,False,False,False
+100660,Amit Verma,Sports,South,Kochi,2024-05-21,2,3859.24,0.0,7718.48,Credit Card,4,True,False,False,False
+101184,Pooja Rao,Toys,North,Delhi,2024-05-21,1,1616.52,10.0,1454.87,Credit Card,4,True,False,False,False
+100835,Karan Nair,Home & Kitchen,West,Surat,2024-05-21,1,13932.15,30.0,9752.5,Cash on Delivery,4,True,False,False,False
+100798,Shreya Verma,Sports,North,Chandigarh,2024-05-21,2,2758.95,0.0,5517.9,Debit Card,,False,False,False,False
+100856,Shreya Kapoor,Sports,South,Kochi,2024-05-22,1,3060.6,5.0,2907.57,Cash on Delivery,5,True,False,False,False
+100277,Priya Reddy,Toys,South,Bengaluru,2024-05-22,2,838.06,20.0,1340.9,Cash on Delivery,3,True,False,False,False
+100526,Vikram Sharma,Books,East,Guwahati,2024-05-23,1,559.85,0.0,559.85,Debit Card,4,True,False,False,False
+100023,Aarav Mehta,Unknown,East,Bhubaneswar,2024-05-23,1,2358.38,0.0,4716.76,UPI,4,True,False,False,False
+101029,Priya Rao,Home & Kitchen,North,Jaipur,2024-05-23,1,6818.54,0.0,6818.54,Cash on Delivery,5,True,False,False,False
+100367,Neha Joshi,Beauty,South,Kochi,2024-05-23,1,838.71,25.0,629.03,Net Banking,4,True,False,False,False
+100158,Rahul Kapoor,Home & Kitchen,East,Patna,2024-05-24,2,10184.04,20.0,16294.46,Credit Card,3,True,False,False,False
+100124,Meena Verma,Electronics,East,Bhubaneswar,2024-05-25,1,35807.04,0.0,35807.04,Credit Card,5,True,False,False,False
+100723,Rahul Sharma,Home & Kitchen,East,Bhubaneswar,2024-05-26,2,752.19,0.0,1504.38,Cash on Delivery,4,True,False,False,False
+100099,Suresh Iyer,Books,East,Kolkata,2024-05-26,1,1178.21,0.0,1178.21,UPI,5,True,False,False,False
+100999,Vikram Bose,Electronics,South,Hyderabad,2024-05-26,1,29516.73,15.0,25089.22,UPI,5,True,False,False,False
+100698,Sneha Verma,Electronics,North,Jaipur,2024-05-26,5,11621.9,0.0,58109.5,Debit Card,5,True,False,True,False
+100810,Sanjay Rao,Clothing,South,Unknown,2024-05-27,1,3096.75,0.0,3096.75,Cash on Delivery,5,True,False,False,False
+100337,Arjun Verma,Beauty,North,Chandigarh,2024-05-27,1,2872.54,0.0,2872.54,Debit Card,4,True,False,False,False
+100881,Riya Bose,Electronics,East,Bhubaneswar,2024-05-27,1,6785.99,0.0,6785.99,Credit Card,4,True,False,False,False
+100844,Amit Verma,Home & Kitchen,North,Chandigarh,2024-05-27,1,6346.16,0.0,6346.16,Credit Card,4,True,False,False,False
+100147,Unknown Customer,Books,South,Bengaluru,2024-05-28,1,305.54,0.0,305.54,Net Banking,5,True,False,False,False
+100508,Manoj Sharma,Books,East,Guwahati,2024-05-28,2,1076.72,0.0,2153.44,UPI,,False,False,False,True
+100514,Kavita Rao,Clothing,North,Chandigarh,2024-05-28,1,968.61,0.0,968.61,Cash on Delivery,5,True,False,False,False
+100694,Kavita Choudhary,Sports,South,Bengaluru,2024-05-28,1,3742.6,0.0,3742.6,UPI,3,True,False,False,False
+100805,Shreya Iyer,Toys,North,Jaipur,2024-05-29,2,2948.97,5.0,5603.04,UPI,5,True,False,False,False
+100357,Vikram Choudhary,Clothing,South,Kochi,2024-05-29,1,1279.01,0.0,1279.01,Net Banking,4,True,False,False,False
+100648,Neha Bose,Home & Kitchen,East,Bhubaneswar,2024-05-30,2,3812.96,0.0,7625.92,Credit Card,,False,False,False,False
+100256,Manoj Verma,Electronics,West,Mumbai,2024-05-31,1,7121.57,0.0,7121.57,Cash on Delivery,2,True,False,False,False
+100997,Rohan Rao,Clothing,South,Kochi,2024-05-31,1,714.77,0.0,714.77,Credit Card,4,True,False,False,False
+100925,Rahul Sharma,Electronics,South,Hyderabad,2024-05-31,1,24687.05,0.0,24687.05,Net Banking,1,True,False,False,False
+100017,Rahul Malhotra,Beauty,North,Lucknow,2024-05-31,1,2019.56,10.0,1817.6,Credit Card,5,True,False,False,False
+100035,Anita Nair,Books,South,Hyderabad,2024-05-31,2,899.42,0.0,1798.84,Cash on Delivery,,False,False,False,False
+100958,Rahul Rao,Beauty,South,Bengaluru,2024-05-31,1,2414.31,15.0,2052.16,UPI,5,True,False,False,False
+100944,Aarav Mehta,Toys,West,Pune,2024-05-31,2,805.83,0.0,1611.66,Credit Card,3,True,False,False,False
+101026,Amit Singh,Sports,West,Mumbai,2024-06-01,1,4484.68,0.0,4484.68,Credit Card,,False,False,False,False
+101180,Unknown Customer,Beauty,South,Kochi,2024-06-02,1,1333.7,0.0,1333.7,Credit Card,4,True,False,False,False
+100413,Pooja Mehta,Sports,West,Surat,2024-06-03,1,2250.4,30.0,1575.28,UPI,,False,False,False,False
+100268,Manoj Bose,Books,East,Bhubaneswar,2024-06-04,1,761.32,0.0,761.32,Credit Card,5,True,False,False,False
+100521,Karan Verma,Home & Kitchen,West,Surat,2024-06-04,2,1182.69,0.0,2010.57,UPI,3,True,False,False,False
+100709,Sanjay Nair,Toys,East,Guwahati,2024-06-04,1,239.97,5.0,227.97,Cash on Delivery,5,True,False,False,False
+100627,Vikram Mehta,Beauty,South,Kochi,2024-06-04,4,256.76,30.0,718.93,UPI,5,True,False,True,False
+100500,Sanjay Malhotra,Home & Kitchen,East,Bhubaneswar,2024-06-05,2,8101.8,0.0,16203.6,Net Banking,,False,False,False,False
+100243,Anita Malhotra,Toys,West,Mumbai,2024-06-05,1,2112.97,0.0,2112.97,Net Banking,5,True,False,False,False
+100951,Vikram Singh,Books,Unknown,Bhubaneswar,2024-06-05,1,107.09,5.0,101.74,Cash on Delivery,3,True,False,False,False
+100226,Riya Bose,Sports,North,Chandigarh,2024-06-05,1,6798.86,0.0,6798.86,Net Banking,5,True,False,False,False
+100164,Meena Sharma,Unknown,West,Surat,2024-06-05,1,3274.18,0.0,3274.18,UPI,5,True,False,False,False
+100509,Kavita Verma,Toys,North,Jaipur,2024-06-06,1,2522.42,0.0,2522.42,Credit Card,4,True,False,False,False
+101127,Sneha Malhotra,Sports,North,Chandigarh,2024-06-07,1,3731.46,30.0,2612.02,Net Banking,4,True,False,False,False
+101165,Amit Nair,Sports,South,Kochi,2024-06-07,1,2238.13,5.0,2126.22,Net Banking,4,True,False,False,False
+100183,Karan Malhotra,Books,West,Ahmedabad,2024-06-08,1,1019.71,5.0,968.72,Debit Card,4,True,False,False,False
+100207,Meena Reddy,Sports,West,Surat,2024-06-08,2,3357.87,10.0,6044.17,Debit Card,4,True,False,False,False
+100548,Meena Iyer,Clothing,East,Kolkata,2024-06-08,1,3361.53,5.0,3193.45,UPI,4,True,False,False,False
+101194,Manoj Malhotra,Toys,West,Ahmedabad,2024-06-09,2,2151.08,5.0,4087.05,Net Banking,5,True,False,False,False
+100071,Riya Singh,Electronics,South,Bengaluru,2024-06-09,1,55106.36,0.0,55106.36,Net Banking,4,True,False,False,False
+100721,Unknown Customer,Clothing,South,Kochi,2024-06-10,1,2358.01,0.0,2004.31,UPI,5,True,False,False,False
+100759,Kavita Reddy,Beauty,South,Chennai,2024-06-10,2,1898.09,0.0,3796.18,Debit Card,5,True,False,False,False
+100602,Sneha Gupta,Sports,North,Jaipur,2024-06-11,4,5213.87,0.0,20855.48,Cash on Delivery,3,True,False,True,True
+101077,Anita Iyer,Clothing,East,Patna,2024-06-11,1,2726.89,10.0,2454.2,Cash on Delivery,4,True,False,False,False
+100314,Karan Choudhary,Books,East,Kolkata,2024-06-11,1,1137.66,10.0,1023.89,Credit Card,4,True,False,False,False
+101025,Sneha Kapoor,Clothing,North,Jaipur,2024-06-12,1,2027.97,0.0,2027.97,Credit Card,3,True,False,False,False
+100975,Sanjay Singh,Books,East,Unknown,2024-06-12,1,44593.5,0.0,891.87,Credit Card,5,True,True,False,False
+100301,Meena Verma,Sports,South,Chennai,2024-06-13,1,386.97,0.0,386.97,Net Banking,5,True,False,False,False
+100448,Riya Singh,Electronics,West,Mumbai,2024-06-14,1,17858.73,5.0,16965.79,Debit Card,5,True,False,False,False
+100122,Riya Gupta,Beauty,East,Bhubaneswar,2024-06-14,1,1357.96,0.0,1357.96,Cash on Delivery,,False,False,False,False
+100640,Aarav Mehta,Clothing,West,Mumbai,2024-06-15,1,898.92,0.0,898.92,Cash on Delivery,4,True,False,False,False
+100374,Arjun Reddy,Sports,West,Pune,2024-06-15,1,2445.27,0.0,2445.27,Net Banking,4,True,False,False,False
+100410,Vikram Choudhary,Electronics,North,Jaipur,2024-06-15,1,38158.39,5.0,36250.47,UPI,5,True,False,False,False
+100990,Anita Patel,Home & Kitchen,East,Patna,2024-06-15,1,257362.5,5.0,4889.89,UPI,5,True,True,False,False
+101118,Anita Bose,Sports,East,Bhubaneswar,2024-06-15,1,6842.81,0.0,6842.81,Cash on Delivery,3,True,False,False,False
+100771,Rohan Kapoor,Electronics,West,Pune,2024-06-16,1,27193.91,5.0,25834.21,Net Banking,4,True,False,False,False
+100580,Sneha Malhotra,Electronics,West,Surat,2024-06-17,2,53368.77,0.0,106737.54,UPI,4,True,False,False,False
+100115,Arjun Patel,Toys,South,Hyderabad,2024-06-18,2,199.19,15.0,338.62,Net Banking,4,True,False,False,False
+100618,Kavita Mehta,Clothing,North,Lucknow,2024-06-18,1,682.29,0.0,682.29,Net Banking,5,True,False,False,False
+100475,Shreya Rao,Beauty,North,Jaipur,2024-06-18,2,2317.79,20.0,3708.46,Cash on Delivery,4,True,False,False,False
+100041,Rahul Iyer,Home & Kitchen,North,Lucknow,2024-06-19,1,9992.59,0.0,9992.59,Debit Card,5,True,False,False,False
+100240,Divya Reddy,Books,East,Patna,2024-06-19,3,367.87,20.0,882.89,UPI,,False,False,False,False
+100088,Rohan Kapoor,Sports,East,Guwahati,2024-06-19,1,6638.12,0.0,6638.12,Unknown,4,True,False,False,False
+100130,Amit Iyer,Sports,North,Jaipur,2024-06-19,1,5120.49,0.0,5120.49,Cash on Delivery,1,True,False,False,False
+100747,Karan Choudhary,Beauty,North,Delhi,2024-06-20,1,1796.93,0.0,1796.93,UPI,4,True,False,False,False
+101143,Manoj Joshi,Sports,South,Bengaluru,2024-06-21,2,2783.19,20.0,4453.1,UPI,4,True,False,False,False
+101158,Sanjay Rao,Books,East,Patna,2024-06-21,4,368.86,20.0,1180.35,Net Banking,4,True,False,True,False
+100044,Rahul Kapoor,Clothing,West,Surat,2024-06-22,1,1026.81,10.0,924.13,Credit Card,4,True,False,False,False
+101086,Sanjay Singh,Beauty,South,Bengaluru,2024-06-23,1,2115.61,30.0,1480.93,Credit Card,4,True,False,False,False
+100541,Pooja Reddy,Clothing,South,Kochi,2024-06-23,1,3840.79,5.0,3648.75,Debit Card,4,True,False,False,False
+100962,Anita Verma,Sports,East,Bhubaneswar,2024-06-23,1,7378.83,20.0,5903.06,UPI,4,True,False,False,False
+100428,Amit Patel,Toys,North,Delhi,2024-06-24,2,1329.91,0.0,2659.82,Unknown,5,True,False,False,False
+100138,Amit Nair,Clothing,South,Kochi,2024-06-24,5,2111.89,0.0,10559.45,UPI,4,True,False,True,True
+100452,Arjun Nair,Electronics,West,Pune,2024-06-24,2,7366.81,25.0,11050.22,Credit Card,5,True,False,False,False
+100655,Riya Sharma,Electronics,West,Mumbai,2024-06-24,2,57525.06,0.0,115050.12,Cash on Delivery,5,True,False,False,True
+100260,Meena Reddy,Electronics,East,Guwahati,2024-06-25,2,24577.17,0.0,49154.34,Net Banking,4,True,False,False,False
+100400,Riya Iyer,Electronics,East,Bhubaneswar,2024-06-25,1,37204.62,0.0,37204.62,Debit Card,5,True,False,False,False
+100671,Priya Reddy,Books,South,Bengaluru,2024-06-25,2,531.97,0.0,1063.94,Cash on Delivery,5,True,False,False,False
+101116,Rahul Verma,Books,South,Kochi,2024-06-25,1,1066.9,5.0,1013.56,Debit Card,4,True,False,False,False
+100641,Amit Malhotra,Home & Kitchen,West,Pune,2024-06-26,1,3482.98,25.0,2612.24,Cash on Delivery,3,True,False,False,False
+100212,Neha Malhotra,Clothing,South,Kochi,2024-06-26,2,3778.07,10.0,6800.53,Debit Card,4,True,False,False,False
+100473,Rahul Reddy,Electronics,South,Hyderabad,2024-06-26,1,2677.04,10.0,2677.04,UPI,,False,False,False,False
+100922,Sneha Gupta,Clothing,West,Mumbai,2024-06-27,1,1838.01,0.0,1838.01,Credit Card,4,True,False,False,False
+101140,Amit Sharma,Clothing,South,Bengaluru,2024-06-27,1,1408.69,0.0,1408.69,Cash on Delivery,5,True,False,False,False
+101149,Sneha Verma,Books,South,Hyderabad,2024-06-28,2,787.88,0.0,1575.76,Debit Card,3,True,False,False,False
+100419,Sanjay Choudhary,Books,West,Pune,2024-06-29,1,239.08,15.0,203.22,Net Banking,4,True,False,False,False
+100018,Sanjay Malhotra,Beauty,East,Kolkata,2024-06-29,2,1278.52,0.0,2557.04,Debit Card,3,True,False,False,False
+100575,Sneha Nair,Beauty,South,Kochi,2024-06-29,1,1408.16,10.0,1267.34,Cash on Delivery,5,True,False,False,False
+100910,Aarav Malhotra,Clothing,East,Kolkata,2024-06-29,1,1495.87,5.0,1421.08,UPI,,False,False,False,False
+100118,Shreya Choudhary,Electronics,East,Patna,2024-06-29,1,42766.27,0.0,40627.96,Cash on Delivery,4,True,False,False,False
+100530,Divya Verma,Sports,West,Pune,2024-06-30,5,6145.56,0.0,30727.8,Cash on Delivery,2,True,False,True,True
+100245,Rahul Singh,Electronics,North,Delhi,2024-06-30,1,50591.67,10.0,45532.5,Debit Card,3,True,False,False,False
+100657,Karan Gupta,Sports,North,Delhi,2024-06-30,1,292.11,20.0,233.69,Credit Card,5,True,False,False,False
+100549,Neha Choudhary,Books,West,Mumbai,2024-07-01,2,1050.38,0.0,2100.76,UPI,4,True,False,False,True
+100196,Arjun Patel,Sports,West,Ahmedabad,2024-07-01,1,7495.97,0.0,7495.97,Credit Card,4,True,False,False,False
+100127,Vikram Joshi,Sports,North,Jaipur,2024-07-01,2,3964.07,15.0,6738.92,UPI,4,True,False,False,False
+100814,Divya Sharma,Sports,North,Jaipur,2024-07-02,1,5499.72,0.0,5499.72,Debit Card,3,True,False,False,False
+101187,Sanjay Mehta,Beauty,West,Mumbai,2024-07-02,1,2619.36,0.0,2619.36,Cash on Delivery,2,True,False,False,False
+100129,Neha Patel,Home & Kitchen,North,Delhi,2024-07-02,1,8064.88,0.0,8064.88,Unknown,,False,False,False,False
+100443,Shreya Nair,Toys,North,Chandigarh,2024-07-02,2,1742.27,0.0,3484.54,Debit Card,4,True,False,False,False
+100342,Sanjay Mehta,Home & Kitchen,North,Chandigarh,2024-07-02,2,6833.96,0.0,13667.92,Net Banking,3,True,False,False,False
+101040,Meena Reddy,Home & Kitchen,South,Chennai,2024-07-02,1,14172.9,10.0,12755.61,Net Banking,,False,False,False,False
+100786,Meena Iyer,Clothing,South,Bengaluru,2024-07-03,1,2491.05,0.0,2491.05,Cash on Delivery,4,True,False,False,False
+100472,Rahul Malhotra,Home & Kitchen,South,Hyderabad,2024-07-03,1,5803.59,0.0,5803.59,Unknown,3,True,False,False,False
+100276,Anita Rao,Books,North,Lucknow,2024-07-03,1,496.2,0.0,496.2,Cash on Delivery,5,True,False,False,False
+100150,Vikram Malhotra,Toys,East,Guwahati,2024-07-04,3,1464.44,0.0,4393.32,Unknown,4,True,False,False,False
+100875,Kavita Verma,Sports,East,Patna,2024-07-04,1,4082.04,0.0,4082.04,Credit Card,3,True,False,False,False
+101048,Rahul Patel,Beauty,South,Unknown,2024-07-05,1,1099.82,0.0,1099.82,Cash on Delivery,4,True,False,False,False
+100177,Neha Mehta,Sports,North,Jaipur,2024-07-06,2,1490.8,0.0,2683.44,Debit Card,5,True,False,False,False
+100536,Priya Verma,Home & Kitchen,East,Kolkata,2024-07-07,1,6370.31,0.0,6370.31,Cash on Delivery,4,True,False,False,False
+100108,Pooja Verma,Beauty,South,Kochi,2024-07-08,1,1474.98,5.0,1401.23,Net Banking,5,True,False,False,False
+100582,Amit Malhotra,Clothing,East,Kolkata,2024-07-08,2,3637.95,25.0,5456.92,Unknown,,False,False,False,False
+101111,Sneha Verma,Sports,West,Ahmedabad,2024-07-09,2,1901.56,10.0,3422.81,Debit Card,3,True,False,False,False
+100005,Karan Kapoor,Home & Kitchen,East,Bhubaneswar,2024-07-10,2,13418.19,0.0,26836.38,UPI,4,True,False,False,True
+100715,Anita Reddy,Beauty,South,Chennai,2024-07-10,1,913.71,0.0,913.71,Credit Card,5,True,False,False,False
+100617,Vikram Verma,Electronics,South,Hyderabad,2024-07-10,1,31571.82,0.0,31571.82,Cash on Delivery,3,True,False,False,False
+100188,Shreya Nair,Sports,South,Chennai,2024-07-13,2,3281.06,0.0,6562.12,UPI,3,True,False,False,False
+100111,Vikram Gupta,Electronics,South,Chennai,2024-07-13,2,44597.28,20.0,71355.65,UPI,4,True,False,False,False
+100343,Aarav Kapoor,Sports,North,Chandigarh,2024-07-13,1,3846.38,0.0,3846.38,Net Banking,5,True,False,False,False
+100992,Karan Gupta,Clothing,North,Delhi,2024-07-14,1,947.19,0.0,947.19,UPI,,False,False,False,False
+101191,Vikram Gupta,Electronics,East,Guwahati,2024-07-15,1,39209.41,0.0,39209.41,Cash on Delivery,,False,False,False,False
+100083,Pooja Gupta,Electronics,West,Pune,2024-07-15,1,10720.28,20.0,8576.22,Debit Card,4,True,False,False,False
+101009,Pooja Mehta,Home & Kitchen,South,Chennai,2024-07-16,5,638.55,0.0,3192.75,Debit Card,4,True,False,True,False
+100454,Aarav Mehta,Electronics,South,Kochi,2024-07-16,5,55856.01,0.0,279280.05,Net Banking,4,True,False,True,True
+100117,Sneha Joshi,Beauty,North,Chandigarh,2024-07-16,2,2986.85,0.0,5973.7,Credit Card,5,True,False,False,True
+100651,Sneha Nair,Beauty,North,Jaipur,2024-07-16,1,1823.45,5.0,1732.28,Net Banking,5,True,False,False,False
+100994,Unknown Customer,Toys,East,Bhubaneswar,2024-07-18,1,285.67,5.0,271.39,Net Banking,4,True,False,False,False
+100907,Manoj Rao,Sports,East,Guwahati,2024-07-18,1,5888.32,0.0,5888.32,Net Banking,,False,False,False,False
+100748,Anita Rao,Beauty,East,Bhubaneswar,2024-07-19,1,2112.73,0.0,2112.73,Net Banking,5,True,False,False,False
+100037,Karan Patel,Home & Kitchen,North,Lucknow,2024-07-19,1,12162.12,0.0,9121.59,UPI,4,True,False,False,False
+100631,Anita Reddy,Sports,East,Bhubaneswar,2024-07-19,1,6338.14,0.0,6338.14,Cash on Delivery,4,True,False,False,False
+100449,Anita Singh,Home & Kitchen,West,Pune,2024-07-20,1,1808.27,0.0,1808.27,UPI,4,True,False,False,False
+100295,Karan Bose,Home & Kitchen,West,Surat,2024-07-20,1,4201.06,10.0,3780.95,Debit Card,4,True,False,False,False
+100551,Riya Mehta,Toys,South,Hyderabad,2024-07-20,1,1842.26,0.0,1842.26,Cash on Delivery,4,True,False,False,False
+100141,Sanjay Verma,Electronics,North,Jaipur,2024-07-20,2,7893.01,10.0,14207.42,Debit Card,5,True,False,False,False
+100742,Aarav Kapoor,Beauty,North,Delhi,2024-07-21,1,1610.23,15.0,1368.7,Credit Card,3,True,False,False,False
+100482,Rahul Mehta,Home & Kitchen,North,Chandigarh,2024-07-21,1,7637.18,0.0,7637.18,Net Banking,3,True,False,False,False
+100854,Divya Joshi,Toys,West,Surat,2024-07-21,4,2187.23,0.0,8748.92,Credit Card,5,True,False,True,True
+101126,Rahul Joshi,Toys,West,Pune,2024-07-22,1,1347.59,0.0,1347.59,UPI,4,True,False,False,False
+100197,Manoj Gupta,Toys,North,Delhi,2024-07-22,1,589.21,5.0,559.75,Cash on Delivery,4,True,False,False,False
+100191,Vikram Sharma,Clothing,East,Guwahati,2024-07-23,2,3044.35,10.0,5479.83,Credit Card,5,True,False,False,False
+100021,Anita Verma,Electronics,West,Unknown,2024-07-24,1,38371.53,0.0,38371.53,Credit Card,3,True,False,False,False
+100142,Anita Malhotra,Sports,East,Bhubaneswar,2024-07-25,2,6950.56,0.0,11815.95,Debit Card,4,True,False,False,False
+100921,Manoj Joshi,Home & Kitchen,West,Ahmedabad,2024-07-25,1,3977.09,5.0,3778.24,Debit Card,4,True,False,False,False
+100128,Rohan Verma,Home & Kitchen,North,Chandigarh,2024-07-26,1,13661.37,15.0,11612.16,Cash on Delivery,4,True,False,False,False
+100286,Rohan Verma,Toys,South,Hyderabad,2024-07-26,1,1253.03,5.0,1190.38,UPI,5,True,False,False,False
+100499,Pooja Bose,Sports,North,Unknown,2024-07-27,1,2242.79,0.0,2242.79,Net Banking,4,True,False,False,False
+100308,Priya Reddy,Clothing,West,Ahmedabad,2024-07-28,1,2911.45,20.0,2329.16,Debit Card,,False,False,False,False
+100870,Unknown Customer,Electronics,East,Patna,2024-07-28,1,19337.31,0.0,19337.31,Debit Card,4,True,False,False,False
+100289,Divya Sharma,Beauty,West,Mumbai,2024-07-29,2,1731.75,0.0,3463.5,Cash on Delivery,5,True,False,False,False
+101192,Shreya Singh,Home & Kitchen,East,Patna,2024-07-29,4,13290.57,0.0,53162.28,UPI,5,True,False,True,True
+100686,Sneha Mehta,Sports,East,Kolkata,2024-07-29,1,3738.19,20.0,2990.55,UPI,,False,False,False,False
+100317,Shreya Reddy,Toys,South,Chennai,2024-07-30,2,409.41,0.0,818.82,UPI,,False,False,False,False
+100265,Amit Patel,Beauty,West,Pune,2024-07-31,2,2929.23,0.0,5858.46,Credit Card,4,True,False,False,True
+100228,Neha Patel,Toys,East,Kolkata,2024-07-31,1,3324.24,10.0,2991.82,Net Banking,5,True,False,False,False
+100897,Arjun Patel,Beauty,North,Lucknow,2024-07-31,1,2555.82,0.0,2172.45,Net Banking,4,True,False,False,False
+100195,Riya Joshi,Sports,West,Ahmedabad,2024-08-01,1,4948.18,0.0,4948.18,Credit Card,5,True,False,False,False
+100532,Sanjay Choudhary,Beauty,West,Ahmedabad,2024-08-02,5,1826.05,0.0,9130.25,UPI,3,True,False,True,True
+100516,Sneha Kapoor,Toys,West,Pune,2024-08-02,1,1500.97,0.0,1500.97,Cash on Delivery,4,True,False,False,False
+101121,Rohan Choudhary,Sports,West,Ahmedabad,2024-08-02,1,7991.35,15.0,6792.65,Debit Card,3,True,False,False,False
+100283,Pooja Malhotra,Toys,North,Delhi,2024-08-02,1,578.98,0.0,578.98,Credit Card,3,True,False,False,False
+100049,Karan Verma,Electronics,East,Patna,2024-08-02,2,30082.17,25.0,45123.26,Cash on Delivery,4,True,False,False,False
+100940,Neha Malhotra,Clothing,East,Kolkata,2024-08-02,1,3911.94,10.0,3520.75,Net Banking,2,True,False,False,False
+100761,Priya Verma,Books,West,Pune,2024-08-05,1,681.06,15.0,578.9,Cash on Delivery,,False,False,False,False
+100414,Karan Joshi,Electronics,South,Hyderabad,2024-08-05,1,32316.23,15.0,27468.8,Credit Card,4,True,False,False,False
+100904,Meena Reddy,Clothing,East,Guwahati,2024-08-05,1,3667.33,0.0,3667.33,Cash on Delivery,4,True,False,False,False
+100229,Manoj Reddy,Home & Kitchen,South,Bengaluru,2024-08-05,1,10852.78,20.0,8682.22,UPI,4,True,False,False,False
+100496,Sanjay Choudhary,Toys,West,Ahmedabad,2024-08-05,3,464.97,10.0,1255.42,Cash on Delivery,3,True,False,False,False
+101159,Meena Kapoor,Beauty,West,Ahmedabad,2024-08-06,1,1187.83,0.0,1187.83,Debit Card,3,True,False,False,False
+100278,Rahul Nair,Home & Kitchen,West,Surat,2024-08-07,1,1789.56,5.0,1700.08,Credit Card,5,True,False,False,False
+101034,Manoj Reddy,Books,North,Chandigarh,2024-08-07,1,236.02,15.0,200.62,Credit Card,3,True,False,False,False
+101163,Amit Patel,Sports,East,Guwahati,2024-08-07,1,5757.35,0.0,5757.35,UPI,3,True,False,False,False
+101068,Meena Rao,Sports,East,Bhubaneswar,2024-08-07,1,3387.09,0.0,3387.09,Cash on Delivery,4,True,False,False,False
+100890,Shreya Reddy,Clothing,East,Guwahati,2024-08-08,1,981.32,0.0,981.32,UPI,5,True,False,False,False
+100149,Priya Patel,Toys,West,Pune,2024-08-08,5,2075.82,10.0,9341.19,Cash on Delivery,5,True,False,True,True
+101037,Shreya Reddy,Clothing,North,Lucknow,2024-08-08,2,1559.27,0.0,3118.54,Debit Card,3,True,False,False,False
+100107,Rahul Verma,Unknown,South,Chennai,2024-08-08,1,2476.73,0.0,2476.73,UPI,4,True,False,False,False
+100285,Anita Gupta,Sports,South,Kochi,2024-08-08,3,5138.56,20.0,12332.54,Cash on Delivery,4,True,False,False,False
+100100,Priya Nair,Electronics,North,Lucknow,2024-08-10,2,3977.51,10.0,7159.52,Debit Card,3,True,False,False,False
+100411,Unknown Customer,Toys,East,Guwahati,2024-08-10,3,922.78,0.0,2768.34,Debit Card,5,True,False,False,False
+100460,Suresh Joshi,Books,East,Guwahati,2024-08-11,1,1045.34,0.0,1045.34,Net Banking,4,True,False,False,False
+100274,Shreya Gupta,Beauty,North,Jaipur,2024-08-11,1,2070.63,0.0,2070.63,Net Banking,4,True,False,False,False
+100722,Anita Reddy,Toys,West,Surat,2024-08-11,4,1733.12,5.0,6585.86,Net Banking,4,True,False,True,True
+101073,Divya Patel,Sports,West,Surat,2024-08-11,1,7289.99,0.0,7289.99,Credit Card,5,True,False,False,False
+101005,Aarav Iyer,Electronics,South,Chennai,2024-08-11,2,51257.87,5.0,97389.95,Net Banking,5,True,False,False,False
+100840,Rohan Iyer,Clothing,North,Lucknow,2024-08-13,2,614.41,20.0,983.06,Cash on Delivery,4,True,False,False,False
+100813,Riya Choudhary,Home & Kitchen,West,Mumbai,2024-08-13,1,1047.9,20.0,838.32,Debit Card,5,True,False,False,False
+100269,Manoj Nair,Clothing,East,Guwahati,2024-08-14,1,3358.46,0.0,3358.46,Credit Card,4,True,False,False,False
+100507,Suresh Malhotra,Electronics,North,Delhi,2024-08-14,2,21332.88,0.0,42665.76,Net Banking,3,True,False,False,False
+100822,Sanjay Patel,Electronics,East,Guwahati,2024-08-15,2,26656.55,0.0,53313.1,Debit Card,5,True,False,False,False
+100459,Neha Joshi,Beauty,North,Delhi,2024-08-16,4,1557.0,0.0,6228.0,UPI,4,True,False,True,True
+100253,Meena Nair,Home & Kitchen,West,Ahmedabad,2024-08-17,1,10149.51,10.0,9134.56,UPI,5,True,False,False,False
+100836,Kavita Verma,Toys,South,Bengaluru,2024-08-17,1,446.11,0.0,446.11,Net Banking,4,True,False,False,False
+101042,Karan Gupta,Sports,West,Pune,2024-08-17,1,5883.03,0.0,5883.03,Credit Card,5,True,False,False,False
+100481,Sneha Nair,Books,South,Kochi,2024-08-17,2,396.65,0.0,793.3,Credit Card,4,True,False,False,False
+100060,Manoj Reddy,Beauty,North,Lucknow,2024-08-19,1,260.65,0.0,260.65,Debit Card,5,True,False,False,False
+100519,Suresh Joshi,Home & Kitchen,West,Mumbai,2024-08-19,1,13049.9,5.0,12397.4,Debit Card,2,True,False,False,False
+100866,Riya Kapoor,Home & Kitchen,South,Kochi,2024-08-19,1,6120.99,0.0,6120.99,UPI,5,True,False,False,False
+100772,Neha Singh,Sports,South,Bengaluru,2024-08-19,1,4510.84,15.0,3834.21,Debit Card,,False,False,False,False
+101024,Meena Reddy,Electronics,West,Surat,2024-08-20,4,7723.27,15.0,26259.12,Cash on Delivery,5,True,False,True,False
+100307,Karan Sharma,Sports,East,Patna,2024-08-20,5,4369.89,25.0,16387.09,UPI,2,True,False,True,True
+100513,Sneha Gupta,Unknown,North,Chandigarh,2024-08-20,1,54040.02,0.0,270200.1,Credit Card,4,True,True,False,True
+101160,Sanjay Singh,Home & Kitchen,West,Surat,2024-08-22,1,1715.08,0.0,1715.08,Debit Card,4,True,False,False,False
+101199,Karan Patel,Toys,West,Surat,2024-08-22,1,1195.8,5.0,1136.01,UPI,2,True,False,False,False
+100894,Kavita Choudhary,Toys,North,Jaipur,2024-08-23,2,3172.94,25.0,4759.41,UPI,5,True,False,False,False
+100565,Sanjay Kapoor,Sports,West,Unknown,2024-08-23,1,2148.64,0.0,2148.64,Net Banking,,False,False,False,False
+101067,Riya Bose,Toys,East,Bhubaneswar,2024-08-23,1,304.32,15.0,258.67,Cash on Delivery,5,True,False,False,False
+100923,Arjun Mehta,Toys,North,Jaipur,2024-08-24,1,2095.92,20.0,1676.74,Debit Card,2,True,False,False,False
+100644,Riya Reddy,Electronics,East,Patna,2024-08-24,1,37949.68,0.0,37949.68,Debit Card,3,True,False,True,False
+101059,Karan Iyer,Home & Kitchen,West,Ahmedabad,2024-08-24,1,9950.49,0.0,9950.49,Net Banking,5,True,False,False,False
+100345,Amit Mehta,Toys,North,Delhi,2024-08-24,1,1387.06,10.0,1248.35,UPI,,False,False,False,False
+100231,Sanjay Verma,Beauty,East,Patna,2024-08-25,2,366.0,5.0,695.4,Cash on Delivery,5,True,False,False,False
+100977,Anita Bose,Electronics,South,Chennai,2024-08-25,1,45756.18,10.0,41180.56,Net Banking,5,True,False,False,False
+100970,Arjun Kapoor,Beauty,South,Hyderabad,2024-08-25,1,442.58,5.0,420.45,UPI,4,True,False,False,False
+100690,Sneha Iyer,Clothing,North,Jaipur,2024-08-25,1,2801.27,5.0,2661.21,Debit Card,,False,False,False,False
+100429,Vikram Malhotra,Beauty,North,Lucknow,2024-08-25,2,1870.17,15.0,3179.29,Net Banking,5,True,False,False,False
+100089,Sneha Gupta,Clothing,North,Lucknow,2024-08-26,2,3698.24,0.0,7396.48,Cash on Delivery,,False,False,False,True
+100373,Shreya Singh,Beauty,North,Jaipur,2024-08-26,2,1629.63,15.0,2770.37,Debit Card,5,True,False,False,False
+100749,Anita Rao,Clothing,North,Chandigarh,2024-08-26,2,434.33,0.0,868.66,Cash on Delivery,4,True,False,False,False
+100885,Kavita Kapoor,Clothing,West,Mumbai,2024-08-26,1,1166.64,0.0,1166.64,UPI,4,True,False,False,False
+101155,Divya Nair,Books,West,Ahmedabad,2024-08-27,1,928.39,0.0,928.39,Cash on Delivery,3,True,False,False,False
+101045,Sneha Singh,Home & Kitchen,East,Bhubaneswar,2024-08-27,1,5729.15,0.0,5729.15,Debit Card,3,True,False,False,False
+101055,Meena Mehta,Home & Kitchen,East,Bhubaneswar,2024-08-27,1,13059.5,0.0,13059.5,Debit Card,4,True,False,False,False
+100955,Rahul Iyer,Clothing,South,Chennai,2024-08-28,2,2272.25,0.0,4544.5,UPI,5,True,False,False,False
+100615,Rahul Choudhary,Books,East,Unknown,2024-08-28,5,1025.07,0.0,5125.35,Net Banking,5,True,False,True,True
+100455,Shreya Nair,Clothing,West,Ahmedabad,2024-08-28,1,842.95,30.0,590.06,Cash on Delivery,1,True,False,False,False
+101061,Riya Reddy,Books,West,Mumbai,2024-08-29,1,181.57,0.0,181.57,Credit Card,4,True,False,False,False
+100445,Neha Malhotra,Beauty,South,Chennai,2024-08-29,1,1987.3,20.0,1589.84,Debit Card,4,True,False,False,False
+100901,Meena Malhotra,Books,North,Chandigarh,2024-08-30,1,1034.47,25.0,775.85,Debit Card,4,True,False,False,False
+100874,Sanjay Reddy,Beauty,North,Delhi,2024-08-30,1,204.47,0.0,204.47,Credit Card,5,True,False,False,False
+100389,Rahul Malhotra,Beauty,South,Bengaluru,2024-08-30,2,684.45,15.0,1163.56,Net Banking,4,True,False,False,False
+100893,Aarav Nair,Electronics,South,Chennai,2024-09-01,1,43694.3,0.0,43694.3,Credit Card,4,True,False,False,False
+100528,Sanjay Reddy,Beauty,West,Pune,2024-09-01,1,2629.1,0.0,2629.1,Net Banking,5,True,False,False,False
+100751,Suresh Verma,Unknown,West,Pune,2024-09-02,1,931.56,20.0,1490.5,Debit Card,5,True,False,False,False
+100986,Neha Reddy,Toys,South,Kochi,2024-09-03,1,941.57,0.0,941.57,Cash on Delivery,4,True,False,False,False
+100096,Neha Kapoor,Home & Kitchen,North,Lucknow,2024-09-03,2,10532.19,0.0,21064.38,Cash on Delivery,3,True,False,False,False
+100172,Rahul Reddy,Electronics,West,Ahmedabad,2024-09-04,2,1777.37,5.0,3377.0,Cash on Delivery,5,True,False,False,False
+100570,Sneha Gupta,Home & Kitchen,East,Patna,2024-09-04,1,6061.77,0.0,6061.77,Net Banking,,False,False,False,False
+100022,Arjun Iyer,Clothing,North,Chandigarh,2024-09-04,3,3859.02,5.0,10998.21,Net Banking,,False,False,False,True
+100503,Amit Kapoor,Books,North,Chandigarh,2024-09-04,1,717.77,10.0,645.99,Net Banking,4,True,False,False,False
+100169,Riya Joshi,Electronics,North,Lucknow,2024-09-05,1,10301.56,0.0,10301.56,UPI,,False,False,False,False
+101001,Arjun Gupta,Home & Kitchen,North,Delhi,2024-09-05,1,6082.62,0.0,6082.62,Cash on Delivery,5,True,False,False,False
+100134,Rahul Patel,Toys,West,Ahmedabad,2024-09-05,4,2564.33,10.0,9231.59,Cash on Delivery,3,True,False,True,True
+100287,Vikram Nair,Beauty,West,Mumbai,2024-09-06,1,1707.76,0.0,1707.76,Unknown,4,True,False,False,False
+100527,Anita Malhotra,Beauty,East,Bhubaneswar,2024-09-06,1,985.89,0.0,985.89,UPI,3,True,False,False,False
+100634,Pooja Rao,Home & Kitchen,South,Bengaluru,2024-09-07,2,4948.39,20.0,7917.42,Credit Card,4,True,False,False,False
+100230,Vikram Gupta,Toys,North,Chandigarh,2024-09-07,1,2317.69,0.0,2317.69,Debit Card,3,True,False,False,False
+100079,Meena Iyer,Clothing,North,Chandigarh,2024-09-08,2,3126.52,0.0,6253.04,UPI,5,True,False,False,False
+100030,Karan Bose,Clothing,West,Pune,2024-09-09,4,384.37,0.0,1537.48,Cash on Delivery,3,True,False,True,False
+100407,Priya Choudhary,Unknown,East,Patna,2024-09-09,1,1406.67,0.0,1406.67,Debit Card,3,True,False,False,False
+100862,Rohan Gupta,Electronics,North,Lucknow,2024-09-09,2,25987.29,20.0,41579.66,Credit Card,4,True,False,False,False
+100540,Manoj Kapoor,Books,West,Ahmedabad,2024-09-09,2,1010.85,5.0,1920.62,UPI,5,True,False,False,False
+100979,Aarav Gupta,Beauty,North,Delhi,2024-09-09,1,2765.74,15.0,2350.88,UPI,3,True,False,False,False
+100280,Vikram Sharma,Home & Kitchen,North,Lucknow,2024-09-09,1,853.79,0.0,853.79,Cash on Delivery,5,True,False,False,False
+100838,Neha Bose,Electronics,North,Jaipur,2024-09-10,2,57733.74,15.0,98147.36,UPI,4,True,False,False,False
+100348,Aarav Nair,Home & Kitchen,North,Jaipur,2024-09-10,1,1401.08,0.0,1401.08,Credit Card,4,True,False,False,False
+100040,Kavita Mehta,Sports,West,Surat,2024-09-10,2,7148.18,0.0,14296.36,Debit Card,5,True,False,False,True
+101046,Rohan Nair,Sports,South,Chennai,2024-09-10,1,3537.58,0.0,3537.58,Net Banking,4,True,False,False,False
+100490,Rohan Patel,Beauty,East,Patna,2024-09-11,2,1804.14,0.0,3608.28,Net Banking,3,True,False,False,False
+100595,Suresh Reddy,Toys,Unknown,Pune,2024-09-11,1,2647.92,15.0,2250.73,Credit Card,5,True,False,False,False
+100198,Priya Kapoor,Electronics,West,Surat,2024-09-12,1,57361.56,0.0,57361.56,Net Banking,5,True,False,False,False
+100758,Riya Singh,Unknown,East,Kolkata,2024-09-12,1,1245.02,0.0,1245.02,Debit Card,4,True,False,False,False
+100379,Manoj Bose,Sports,South,Bengaluru,2024-09-12,1,931.7,0.0,791.94,Cash on Delivery,4,True,False,False,False
+100105,Neha Mehta,Clothing,North,Delhi,2024-09-13,1,796.15,0.0,796.15,UPI,4,True,False,False,False
+100650,Arjun Patel,Beauty,West,Mumbai,2024-09-13,2,1810.39,5.0,3439.74,Debit Card,5,True,False,False,False
+100248,Arjun Verma,Books,North,Lucknow,2024-09-14,1,250.94,0.0,501.88,Cash on Delivery,5,True,False,False,False
+100943,Shreya Sharma,Sports,East,Patna,2024-09-14,1,5800.45,15.0,4930.38,Unknown,1,True,False,False,False
+100273,Amit Reddy,Clothing,South,Bengaluru,2024-09-14,1,520.1,5.0,494.1,Net Banking,3,True,False,False,False
+101141,Vikram Mehta,Electronics,West,Surat,2024-09-14,1,30752.12,0.0,30752.12,UPI,4,True,False,False,False
+100494,Suresh Bose,Electronics,East,Bhubaneswar,2024-09-14,2,12617.65,0.0,25235.3,Net Banking,2,True,False,False,False
+100078,Rohan Singh,Electronics,South,Bengaluru,2024-09-14,1,11520.54,5.0,10944.51,UPI,4,True,False,False,False
+100329,Manoj Patel,Electronics,West,Ahmedabad,2024-09-15,1,5409.31,0.0,5409.31,Net Banking,5,True,False,False,False
+101167,Pooja Gupta,Electronics,North,Delhi,2024-09-15,2,16600.11,10.0,29880.2,Credit Card,5,True,False,False,False
+100899,Arjun Reddy,Electronics,West,Ahmedabad,2024-09-16,1,15627.14,0.0,15627.14,Cash on Delivery,5,True,False,False,False
+100380,Arjun Joshi,Books,South,Chennai,2024-09-16,1,966.36,25.0,724.77,Cash on Delivery,4,True,False,False,False
+100457,Meena Nair,Electronics,North,Chandigarh,2024-09-16,1,29280.29,0.0,29280.29,Debit Card,,False,False,False,False
+100834,Shreya Kapoor,Clothing,South,Chennai,2024-09-16,1,3079.85,0.0,3079.85,Net Banking,4,True,False,False,False
+100793,Amit Sharma,Toys,South,Bengaluru,2024-09-17,2,1177.69,0.0,2355.38,Credit Card,4,True,False,False,False
+100770,Rohan Joshi,Home & Kitchen,South,Kochi,2024-09-17,1,11936.71,0.0,11936.71,Net Banking,,False,False,False,False
+100201,Amit Malhotra,Home & Kitchen,South,Bengaluru,2024-09-17,1,9857.28,0.0,9857.28,Cash on Delivery,4,True,False,False,False
+101103,Karan Choudhary,Clothing,South,Bengaluru,2024-09-19,1,1171.93,0.0,1171.93,Debit Card,4,True,False,False,False
+100736,Manoj Kapoor,Sports,South,Kochi,2024-09-19,1,4459.22,0.0,4459.22,Debit Card,5,True,False,False,False
+100506,Vikram Joshi,Clothing,South,Kochi,2024-09-20,2,1045.19,5.0,2090.38,Cash on Delivery,3,True,False,False,False
+100578,Divya Kapoor,Home & Kitchen,East,Patna,2024-09-21,1,10077.47,10.0,9069.72,Debit Card,3,True,False,False,False
+101122,Sneha Bose,Books,Unknown,Patna,2024-09-21,1,1178.25,0.0,1178.25,Debit Card,3,True,False,False,False
+100405,Rohan Joshi,Home & Kitchen,South,Kochi,2024-09-22,2,9109.56,0.0,18219.12,UPI,4,True,False,False,False
+100900,Meena Bose,Toys,North,Lucknow,2024-09-22,2,3331.17,0.0,6662.34,Credit Card,5,True,False,False,True
+100349,Anita Patel,Books,East,Bhubaneswar,2024-09-23,1,724.55,15.0,615.87,Cash on Delivery,3,True,False,False,False
+100427,Rahul Joshi,Home & Kitchen,East,Guwahati,2024-09-23,1,7263.05,0.0,7263.05,Net Banking,2,True,False,False,False
+100330,Meena Mehta,Beauty,South,Hyderabad,2024-09-23,5,247.42,0.0,1237.1,Cash on Delivery,4,True,False,True,False
+100168,Priya Bose,Books,North,Jaipur,2024-09-24,3,463.14,0.0,1389.42,Cash on Delivery,5,True,False,False,False
+100598,Aarav Singh,Books,North,Delhi,2024-09-24,2,518.82,30.0,726.35,Cash on Delivery,3,True,False,False,False
+100733,Meena Kapoor,Beauty,West,Mumbai,2024-09-25,3,176.79,0.0,530.37,Cash on Delivery,4,True,False,False,False
+100611,Riya Mehta,Electronics,North,Chandigarh,2024-09-25,2,14679.89,15.0,24955.81,UPI,3,True,False,False,False
+100585,Riya Malhotra,Toys,West,Mumbai,2024-09-25,1,2261.01,0.0,2261.01,Cash on Delivery,4,True,False,False,False
+100484,Manoj Sharma,Sports,East,Patna,2024-09-25,4,2202.43,10.0,7928.75,UPI,5,True,False,True,False
+100375,Karan Sharma,Beauty,South,Chennai,2024-09-28,1,1789.67,10.0,1610.7,Net Banking,,False,False,False,False
+100483,Riya Reddy,Toys,North,Jaipur,2024-09-28,1,1328.97,0.0,1328.97,Debit Card,5,True,False,False,False
+100974,Amit Malhotra,Toys,East,Patna,2024-09-28,2,1729.87,20.0,2767.79,UPI,3,True,False,False,False
+101151,Kavita Mehta,Sports,South,Kochi,2024-09-29,1,5331.56,0.0,5331.56,Net Banking,5,True,False,False,False
+100808,Neha Iyer,Books,South,Kochi,2024-09-29,1,1004.16,15.0,853.54,Debit Card,4,True,False,False,False
+101115,Sanjay Bose,Home & Kitchen,West,Surat,2024-09-30,1,9092.57,20.0,7274.06,UPI,5,True,False,False,False
+100696,Arjun Iyer,Sports,South,Hyderabad,2024-09-30,1,966.87,10.0,870.18,UPI,5,True,False,False,False
+100614,Rohan Mehta,Beauty,North,Jaipur,2024-09-30,1,1015.72,25.0,761.79,Debit Card,5,True,False,False,False
+100012,Divya Sharma,Home & Kitchen,North,Lucknow,2024-09-30,2,10636.45,0.0,21272.9,UPI,3,True,False,False,False
+100116,Sanjay Mehta,Sports,South,Hyderabad,2024-10-01,1,1398.18,0.0,1398.18,Debit Card,,False,False,False,False
+100612,Arjun Bose,Home & Kitchen,South,Bengaluru,2024-10-01,2,13254.75,15.0,22533.08,Debit Card,5,True,False,False,False
+100919,Divya Malhotra,Clothing,North,Chandigarh,2024-10-02,2,2161.27,10.0,3890.29,Cash on Delivery,5,True,False,False,False
+100304,Rahul Singh,Home & Kitchen,North,Chandigarh,2024-10-03,1,2989.42,0.0,2989.42,Debit Card,4,True,False,False,False
+100328,Manoj Verma,Toys,East,Bhubaneswar,2024-10-03,5,1612.84,0.0,8064.2,Cash on Delivery,4,True,False,True,True
+100790,Aarav Malhotra,Toys,South,Kochi,2024-10-03,1,2827.01,20.0,2261.61,UPI,4,True,False,False,False
+100982,Manoj Mehta,Home & Kitchen,South,Kochi,2024-10-04,1,7757.78,0.0,7757.78,UPI,4,True,False,False,False
+100562,Aarav Malhotra,Electronics,North,Chandigarh,2024-10-04,1,38430.23,5.0,36508.72,UPI,1,True,False,False,False
+100718,Aarav Sharma,Home & Kitchen,South,Chennai,2024-10-04,1,1859.42,0.0,1859.42,Credit Card,3,True,False,False,False
+101012,Vikram Joshi,Toys,West,Ahmedabad,2024-10-06,2,988.76,10.0,1779.77,Credit Card,1,True,False,False,False
+100213,Riya Nair,Sports,West,Ahmedabad,2024-10-06,1,4332.02,0.0,4332.02,UPI,3,True,False,False,False
+100802,Riya Malhotra,Beauty,North,Delhi,2024-10-06,2,754.76,0.0,1509.52,Cash on Delivery,5,True,False,False,False
+100112,Manoj Malhotra,Clothing,South,Hyderabad,2024-10-07,2,2225.02,0.0,4450.04,Cash on Delivery,4,True,False,False,False
+101168,Anita Reddy,Sports,West,Pune,2024-10-07,1,4896.29,0.0,4896.29,UPI,5,True,False,False,False
+100033,Arjun Rao,Sports,East,Bhubaneswar,2024-10-08,2,368.57,20.0,589.71,Cash on Delivery,3,True,False,False,False
+100628,Manoj Bose,Beauty,West,Surat,2024-10-08,1,1449.12,15.0,1231.75,Debit Card,4,True,False,False,False
+100883,Divya Rao,Books,South,Chennai,2024-10-08,1,183.07,0.0,183.07,Credit Card,3,True,False,False,False
+101082,Aarav Sharma,Beauty,East,Bhubaneswar,2024-10-08,1,1942.47,0.0,1942.47,Net Banking,5,True,False,False,False
+100370,Suresh Bose,Beauty,North,Lucknow,2024-10-09,2,2567.89,0.0,5135.78,Cash on Delivery,5,True,False,False,False
+100377,Shreya Gupta,Electronics,East,Bhubaneswar,2024-10-09,4,48021.09,10.0,172875.92,UPI,,False,False,True,True
+100630,Riya Verma,Books,North,Delhi,2024-10-09,1,807.13,0.0,807.13,Net Banking,2,True,False,False,False
+101054,Priya Malhotra,Toys,East,Kolkata,2024-10-10,1,1107.85,0.0,1107.85,Unknown,5,True,False,False,False
+100132,Meena Gupta,Books,South,Bengaluru,2024-10-10,1,107.05,10.0,96.34,Cash on Delivery,,False,False,False,False
+100744,Sneha Sharma,Home & Kitchen,West,Pune,2024-10-10,1,11652.98,0.0,11652.98,UPI,2,True,False,False,False
+100750,Kavita Verma,Books,North,Delhi,2024-10-11,1,566.19,20.0,452.95,Net Banking,,False,False,False,False
+100110,Arjun Verma,Electronics,North,Jaipur,2024-10-11,1,33624.95,5.0,31943.7,Cash on Delivery,4,True,False,False,False
+100468,Anita Verma,Home & Kitchen,East,Kolkata,2024-10-11,5,10761.08,0.0,53805.4,Net Banking,4,True,False,True,True
+100362,Karan Nair,Toys,North,Delhi,2024-10-11,1,1523.66,15.0,1295.11,Cash on Delivery,5,True,False,False,False
+100534,Pooja Mehta,Sports,East,Kolkata,2024-10-11,2,7161.82,0.0,14323.64,Credit Card,4,True,False,False,True
+100166,Rahul Choudhary,Electronics,South,Chennai,2024-10-13,2,26732.63,15.0,45445.47,Credit Card,4,True,False,False,False
+101153,Manoj Sharma,Unknown,South,Chennai,2024-10-13,1,2067.84,5.0,1964.45,UPI,3,True,False,False,False
+100451,Sanjay Verma,Home & Kitchen,North,Chandigarh,2024-10-13,1,523.1,0.0,523.1,Cash on Delivery,4,True,False,False,False
+101099,Unknown Customer,Electronics,North,Lucknow,2024-10-14,2,36318.09,5.0,69004.37,Debit Card,5,True,False,False,False
+100073,Arjun Reddy,Clothing,North,Lucknow,2024-10-14,2,1366.18,0.0,2732.36,Cash on Delivery,5,True,False,False,False
+100809,Anita Kapoor,Beauty,South,Kochi,2024-10-15,2,187.61,0.0,375.22,Net Banking,2,True,False,False,False
+100995,Sneha Patel,Books,East,Patna,2024-10-16,4,1011.18,0.0,4044.72,UPI,5,True,False,True,True
+100408,Neha Iyer,Home & Kitchen,South,Bengaluru,2024-10-17,1,208.41,10.0,187.57,Debit Card,2,True,False,False,False
+100590,Arjun Kapoor,Beauty,South,Hyderabad,2024-10-17,1,2788.15,5.0,2648.74,Credit Card,4,True,False,False,False
+100325,Divya Bose,Sports,West,Surat,2024-10-18,2,2701.73,5.0,5133.29,UPI,4,True,False,False,False
+101071,Neha Iyer,Sports,West,Ahmedabad,2024-10-18,1,5773.51,5.0,5484.83,Cash on Delivery,5,True,False,False,False
+100821,Pooja Sharma,Electronics,South,Kochi,2024-10-19,1,26279.74,0.0,26279.74,Credit Card,1,True,False,False,False
+100695,Meena Singh,Clothing,West,Ahmedabad,2024-10-19,3,2848.92,0.0,8546.76,Cash on Delivery,,False,False,False,True
+101004,Rohan Singh,Home & Kitchen,South,Unknown,2024-10-20,1,11495.17,0.0,11495.17,Debit Card,5,True,False,False,False
+100567,Amit Reddy,Books,North,Unknown,2024-10-20,1,807.76,0.0,3231.04,Cash on Delivery,5,True,False,False,True
+100315,Sneha Rao,Toys,West,Ahmedabad,2024-10-21,4,3161.39,10.0,11381.0,Credit Card,4,True,False,True,True
+101057,Arjun Iyer,Sports,East,Bhubaneswar,2024-10-21,1,7917.63,20.0,6334.1,Debit Card,4,True,False,False,False
+100032,Sneha Nair,Electronics,South,Bengaluru,2024-10-21,1,29199.13,0.0,29199.13,UPI,4,True,False,False,False
+100036,Karan Joshi,Clothing,East,Bhubaneswar,2024-10-22,1,1151.79,5.0,1094.2,Cash on Delivery,5,True,False,False,False
+100976,Aarav Malhotra,Sports,South,Hyderabad,2024-10-22,2,4247.66,0.0,8495.32,Net Banking,3,True,False,False,False
+100458,Rahul Iyer,Books,East,Kolkata,2024-10-22,1,391.66,0.0,391.66,Credit Card,,False,False,False,False
+100424,Suresh Malhotra,Clothing,East,Unknown,2024-10-23,2,3270.18,0.0,6540.36,Debit Card,,False,False,False,False
+100435,Rohan Singh,Home & Kitchen,East,Patna,2024-10-24,1,12776.88,5.0,12138.04,Cash on Delivery,4,True,False,False,False
+100566,Sanjay Verma,Clothing,West,Ahmedabad,2024-10-24,1,939.83,0.0,939.83,UPI,4,True,False,False,False
+100738,Vikram Reddy,Home & Kitchen,North,Jaipur,2024-10-24,2,6623.73,15.0,11260.34,Net Banking,5,True,False,False,False
+100555,Pooja Singh,Books,East,Patna,2024-10-25,1,1001.22,0.0,1001.22,Credit Card,5,True,False,False,False
+101139,Riya Bose,Beauty,South,Bengaluru,2024-10-25,1,1374.5,20.0,1099.6,UPI,,False,False,False,False
+100072,Suresh Singh,Electronics,West,Pune,2024-10-25,2,51140.79,15.0,86939.34,Net Banking,5,True,False,False,False
+100185,Priya Iyer,Home & Kitchen,North,Jaipur,2024-10-25,2,10228.79,5.0,19434.7,Cash on Delivery,5,True,False,False,False
+101120,Aarav Verma,Home & Kitchen,East,Patna,2024-10-26,1,3763.0,0.0,3763.0,Debit Card,4,True,False,False,False
+100966,Anita Joshi,Toys,South,Bengaluru,2024-10-27,1,3088.54,0.0,2625.26,Credit Card,2,True,False,False,False
+100353,Meena Mehta,Clothing,West,Ahmedabad,2024-10-27,1,928.26,0.0,928.26,Cash on Delivery,,False,False,False,False
+100535,Sneha Kapoor,Books,South,Chennai,2024-10-27,3,462.09,5.0,1316.96,Debit Card,,False,False,False,False
+100406,Priya Gupta,Electronics,West,Pune,2024-10-27,3,29673.11,0.0,89019.33,Debit Card,,False,False,False,False
+100015,Priya Bose,Clothing,North,Lucknow,2024-10-28,1,414.03,0.0,414.03,Debit Card,4,True,False,False,False
+101123,Unknown Customer,Sports,East,Bhubaneswar,2024-10-28,1,6571.2,0.0,6571.2,Cash on Delivery,4,True,False,False,False
+100512,Rohan Malhotra,Electronics,North,Lucknow,2024-10-29,1,27013.98,0.0,27013.98,Cash on Delivery,5,True,False,False,False
+101142,Rahul Joshi,Beauty,West,Ahmedabad,2024-10-29,1,2544.04,5.0,2416.84,Cash on Delivery,,False,False,False,False
+100157,Vikram Iyer,Toys,West,Ahmedabad,2024-10-30,1,2775.81,0.0,2775.81,Net Banking,,False,False,False,False
+100008,Unknown Customer,Home & Kitchen,South,Chennai,2024-10-31,1,2122.84,0.0,2122.84,Net Banking,4,True,False,False,False
+100267,Arjun Iyer,Sports,North,Delhi,2024-11-01,2,6662.67,0.0,13325.34,Credit Card,2,True,False,False,False
+100109,Sneha Singh,Toys,West,Surat,2024-11-01,2,2320.63,0.0,4641.26,Cash on Delivery,5,True,False,False,False
+100710,Neha Gupta,Books,East,Guwahati,2024-11-01,1,526.25,0.0,526.25,Net Banking,,False,False,False,False
+100311,Sanjay Singh,Electronics,North,Chandigarh,2024-11-02,1,27533.44,25.0,20650.08,Credit Card,4,True,False,False,False
+100847,Neha Reddy,Unknown,South,Chennai,2024-11-02,1,2387.07,0.0,2387.07,UPI,4,True,False,False,False
+101066,Aarav Iyer,Home & Kitchen,West,Pune,2024-11-02,2,7292.36,10.0,13126.25,Debit Card,4,True,False,False,False
+100642,Rahul Rao,Electronics,West,Pune,2024-11-03,1,8921.24,30.0,6244.87,Net Banking,5,True,False,False,False
+100013,Suresh Joshi,Toys,South,Chennai,2024-11-03,2,533.68,0.0,1067.36,Cash on Delivery,5,True,False,False,False
+100776,Arjun Choudhary,Home & Kitchen,West,Ahmedabad,2024-11-04,1,12868.25,0.0,12868.25,UPI,5,True,False,False,False
+100823,Amit Choudhary,Clothing,North,Jaipur,2024-11-05,1,525.07,0.0,525.07,Credit Card,5,True,False,False,False
+100609,Rahul Singh,Beauty,East,Bhubaneswar,2024-11-06,1,2548.78,10.0,2293.9,UPI,4,True,False,False,False
+100708,Sanjay Reddy,Sports,East,Guwahati,2024-11-06,2,5870.69,0.0,11741.38,Debit Card,3,True,False,False,False
+100210,Rahul Singh,Clothing,East,Bhubaneswar,2024-11-06,2,1207.46,15.0,2052.68,Cash on Delivery,4,True,False,False,False
+100180,Amit Joshi,Electronics,East,Kolkata,2024-11-08,1,1734.44,30.0,1214.11,Debit Card,3,True,False,False,False
+101069,Anita Iyer,Toys,South,Kochi,2024-11-08,1,2431.24,25.0,1823.43,Net Banking,4,True,False,False,False
+100946,Sneha Kapoor,Clothing,South,Unknown,2024-11-09,4,2021.12,0.0,8084.48,Credit Card,5,True,False,True,True
+100416,Priya Iyer,Clothing,North,Chandigarh,2024-11-10,5,3946.8,20.0,15787.2,Cash on Delivery,4,True,False,True,True
+100670,Aarav Malhotra,Beauty,South,Bengaluru,2024-11-10,3,2155.94,0.0,6467.82,Credit Card,4,True,False,False,True
+100181,Sanjay Iyer,Home & Kitchen,West,Mumbai,2024-11-11,2,13480.07,0.0,26960.14,Debit Card,5,True,False,False,True
+100492,Meena Reddy,Beauty,West,Ahmedabad,2024-11-11,1,2774.84,0.0,2774.84,Cash on Delivery,,False,False,False,False
+100027,Vikram Joshi,Books,West,Pune,2024-11-11,1,191.97,0.0,191.97,Credit Card,4,True,False,False,False
+101177,Vikram Malhotra,Books,East,Kolkata,2024-11-11,1,364.79,0.0,364.79,Credit Card,5,True,False,False,False
+100584,Suresh Nair,Books,East,Kolkata,2024-11-13,1,416.7,0.0,416.7,Cash on Delivery,5,True,False,False,False
+100029,Aarav Patel,Books,South,Chennai,2024-11-13,1,1117.56,0.0,1117.56,Debit Card,5,True,False,False,False
+100501,Rohan Sharma,Home & Kitchen,East,Patna,2024-11-13,3,7925.31,10.0,21398.34,Credit Card,2,True,False,False,False
+100632,Amit Singh,Books,West,Surat,2024-11-13,1,329.58,0.0,329.58,UPI,5,True,False,False,False
+100915,Vikram Mehta,Sports,North,Chandigarh,2024-11-14,1,2680.28,25.0,2010.21,Credit Card,5,True,False,False,False
+100061,Sanjay Reddy,Sports,South,Bengaluru,2024-11-15,1,3270.32,0.0,3270.32,Cash on Delivery,5,True,False,False,False
+100884,Meena Bose,Clothing,East,Kolkata,2024-11-17,2,2125.89,0.0,4251.78,Debit Card,5,True,False,False,False
+101085,Aarav Patel,Clothing,East,Guwahati,2024-11-18,2,1559.11,15.0,2650.49,Debit Card,3,True,False,False,False
+100225,Divya Joshi,Electronics,South,Kochi,2024-11-19,1,57078.57,0.0,57078.57,Credit Card,5,True,False,False,False
+100616,Unknown Customer,Toys,East,Guwahati,2024-11-21,1,3122.87,10.0,2810.58,Credit Card,5,True,False,False,False
+100055,Manoj Iyer,Electronics,South,Hyderabad,2024-11-21,1,23389.77,5.0,22220.28,Debit Card,5,True,False,False,False
+100479,Rohan Malhotra,Electronics,North,Chandigarh,2024-11-21,1,7226.17,0.0,7226.17,Net Banking,2,True,False,False,False
+101051,Pooja Singh,Beauty,North,Lucknow,2024-11-22,3,1017.73,0.0,3053.19,Cash on Delivery,4,True,False,False,False
+100739,Arjun Singh,Clothing,North,Jaipur,2024-11-22,2,1804.06,0.0,3608.12,Credit Card,4,True,False,False,False
+100592,Manoj Sharma,Clothing,East,Patna,2024-11-23,2,2118.96,20.0,3390.34,Cash on Delivery,5,True,False,False,False
+100678,Rohan Sharma,Toys,West,Mumbai,2024-11-23,1,476.77,10.0,429.09,Cash on Delivery,4,True,False,True,False
+100217,Sneha Kapoor,Electronics,North,Chandigarh,2024-11-24,1,24926.4,0.0,24926.4,Credit Card,,False,False,False,False
+100622,Pooja Reddy,Electronics,West,Surat,2024-11-24,5,46568.13,0.0,232840.65,Cash on Delivery,5,True,False,True,True
+100432,Karan Kapoor,Toys,South,Bengaluru,2024-11-24,3,2911.79,0.0,8735.37,Credit Card,1,True,False,False,True
+101117,Priya Iyer,Home & Kitchen,East,Bhubaneswar,2024-11-24,1,4967.17,0.0,4967.17,UPI,1,True,False,False,False
+100505,Rahul Sharma,Clothing,East,Kolkata,2024-11-26,2,3417.08,0.0,6834.16,Cash on Delivery,5,True,False,False,False
+100916,Arjun Verma,Sports,South,Hyderabad,2024-11-26,1,4983.23,30.0,4983.23,Net Banking,4,True,False,False,False
+100646,Sanjay Reddy,Books,East,Bhubaneswar,2024-11-26,3,162.42,5.0,462.9,Credit Card,3,True,False,False,False
+100983,Divya Singh,Home & Kitchen,East,Guwahati,2024-11-27,1,8964.67,0.0,8964.67,Net Banking,3,True,False,False,False
+100679,Neha Verma,Electronics,North,Delhi,2024-11-27,1,37614.81,0.0,37614.81,Net Banking,4,True,False,False,False
+100996,Kavita Gupta,Toys,East,Kolkata,2024-11-28,1,2797.88,15.0,2378.2,Net Banking,5,True,False,False,False
+100803,Arjun Reddy,Sports,North,Delhi,2024-11-28,2,4899.94,0.0,9799.88,Net Banking,3,True,False,False,False
+100066,Aarav Verma,Sports,West,Mumbai,2024-11-28,2,6455.8,5.0,12266.02,Net Banking,3,True,False,False,False
+101119,Shreya Mehta,Toys,North,Lucknow,2024-11-28,1,3150.7,20.0,2520.56,Cash on Delivery,5,True,False,False,False
+100643,Sanjay Choudhary,Beauty,South,Chennai,2024-11-29,1,2961.42,25.0,2221.06,Net Banking,4,True,False,False,False
+100675,Riya Mehta,Home & Kitchen,South,Bengaluru,2024-11-29,1,2927.79,0.0,2927.79,UPI,,False,False,False,False
+100666,Vikram Choudhary,Clothing,East,Patna,2024-11-30,4,1077.32,0.0,4309.28,Cash on Delivery,5,True,False,True,False
+100303,Shreya Verma,Toys,West,Surat,2024-11-30,1,1696.79,0.0,1696.79,Net Banking,3,True,False,False,False
+100544,Sanjay Rao,Home & Kitchen,North,Jaipur,2024-12-01,1,8386.68,5.0,8386.68,Cash on Delivery,5,True,False,False,False
+100791,Kavita Verma,Books,West,Pune,2024-12-02,1,881.89,20.0,705.51,UPI,3,True,False,False,False
+100346,Sneha Reddy,Electronics,North,Lucknow,2024-12-02,1,30629.01,15.0,26034.66,UPI,5,True,False,False,False
+100706,Anita Iyer,Electronics,North,Delhi,2024-12-03,1,22833.68,0.0,22833.68,Net Banking,4,True,False,False,False
+100968,Kavita Reddy,Home & Kitchen,South,Bengaluru,2024-12-04,1,14292.57,0.0,14292.57,Debit Card,4,True,False,False,False
+100561,Priya Gupta,Books,North,Delhi,2024-12-04,3,265.24,20.0,636.58,Cash on Delivery,5,True,False,False,False
+100194,Divya Verma,Electronics,North,Jaipur,2024-12-05,2,23562.96,20.0,37700.74,Cash on Delivery,4,True,False,False,False
+100333,Priya Kapoor,Toys,North,Chandigarh,2024-12-06,2,2369.47,25.0,3554.2,Unknown,4,True,False,False,False
+100051,Arjun Kapoor,Beauty,West,Surat,2024-12-08,1,506.98,25.0,380.24,Cash on Delivery,5,True,False,False,False
+100242,Arjun Rao,Beauty,South,Chennai,2024-12-08,1,1423.71,5.0,1352.52,Net Banking,4,True,False,False,False
+100133,Meena Iyer,Home & Kitchen,West,Ahmedabad,2024-12-08,1,9381.29,10.0,8443.16,Credit Card,,False,False,False,False
+100052,Suresh Rao,Beauty,East,Guwahati,2024-12-08,2,2805.77,0.0,5611.54,Debit Card,1,True,False,False,True
+100074,Riya Singh,Beauty,West,Pune,2024-12-09,1,2596.09,5.0,2466.29,UPI,5,True,False,False,False
+100366,Anita Mehta,Electronics,West,Mumbai,2024-12-09,3,48069.54,15.0,122577.33,Net Banking,4,True,False,False,True
+101181,Sanjay Patel,Books,West,Ahmedabad,2024-12-10,1,535.06,20.0,428.05,Net Banking,4,True,False,False,False
+100298,Rohan Iyer,Books,East,Unknown,2024-12-10,1,991.87,5.0,942.28,Credit Card,5,True,False,False,False
+100924,Amit Bose,Sports,South,Hyderabad,2024-12-10,1,3717.21,0.0,3717.21,Cash on Delivery,5,True,False,False,False
+100087,Amit Bose,Sports,West,Surat,2024-12-10,2,4788.41,0.0,9576.82,UPI,4,True,False,False,False
+100827,Anita Reddy,Books,East,Bhubaneswar,2024-12-10,1,1035.99,15.0,880.59,Debit Card,5,True,False,False,False
+100270,Divya Nair,Home & Kitchen,West,Pune,2024-12-11,1,7924.39,5.0,7528.17,Credit Card,2,True,False,False,False
+101156,Anita Choudhary,Electronics,West,Mumbai,2024-12-12,1,11458.47,0.0,11458.47,Net Banking,2,True,False,False,False
+100363,Manoj Patel,Sports,South,Chennai,2024-12-12,1,7867.3,0.0,7867.3,Net Banking,,False,False,False,False
+101133,Amit Malhotra,Home & Kitchen,North,Jaipur,2024-12-13,1,12955.01,0.0,12955.01,Net Banking,1,True,False,False,False
+100003,Priya Choudhary,Beauty,East,Kolkata,2024-12-13,1,1385.9,5.0,1316.6,Net Banking,2,True,False,False,False
+101022,Pooja Mehta,Toys,West,Pune,2024-12-13,1,1481.21,20.0,1184.97,Net Banking,5,True,False,False,False
+101096,Vikram Malhotra,Beauty,South,Bengaluru,2024-12-14,1,2383.93,0.0,2264.73,Debit Card,4,True,False,False,False
+100190,Meena Reddy,Clothing,East,Guwahati,2024-12-14,2,2038.26,15.0,3465.04,Cash on Delivery,4,True,False,False,False
+100905,Sanjay Choudhary,Clothing,West,Surat,2024-12-15,1,946.83,0.0,946.83,Debit Card,5,True,False,True,False
+101190,Kavita Singh,Home & Kitchen,South,Bengaluru,2024-12-17,1,13938.95,0.0,13938.95,Net Banking,5,True,False,False,False
+100398,Riya Gupta,Sports,West,Ahmedabad,2024-12-17,1,2599.79,5.0,2469.8,UPI,4,True,False,False,False
+101113,Sneha Choudhary,Home & Kitchen,East,Guwahati,2024-12-17,1,6162.02,0.0,6162.02,Credit Card,4,True,False,False,False
+100322,Kavita Iyer,Books,West,Pune,2024-12-18,2,321.26,5.0,610.39,Debit Card,,False,False,False,False
+100895,Shreya Mehta,Beauty,East,Kolkata,2024-12-18,3,1492.09,0.0,4476.27,UPI,4,True,False,False,False
+100251,Neha Rao,Toys,West,Ahmedabad,2024-12-18,1,3498.06,0.0,3498.06,UPI,5,True,False,False,False
+100571,Vikram Malhotra,Home & Kitchen,West,Pune,2024-12-19,1,433.89,10.0,390.5,Net Banking,5,True,False,False,False
+100993,Riya Rao,Beauty,South,Hyderabad,2024-12-21,3,782.88,0.0,2348.64,UPI,5,True,False,False,False
+100224,Kavita Singh,Beauty,South,Kochi,2024-12-21,1,2205.92,5.0,2095.62,Net Banking,4,True,False,False,False
+100704,Sneha Iyer,Clothing,North,Delhi,2024-12-21,1,583.56,30.0,408.49,Debit Card,5,True,False,False,False
+100635,Kavita Reddy,Home & Kitchen,North,Jaipur,2024-12-22,1,11267.29,0.0,11267.29,Credit Card,4,True,False,False,False
+101039,Amit Sharma,Sports,South,Kochi,2024-12-22,1,1068.65,0.0,1068.65,Cash on Delivery,5,True,False,False,False
+100378,Unknown Customer,Sports,North,Lucknow,2024-12-22,1,7876.65,5.0,7482.82,UPI,,False,False,False,False
+100871,Manoj Malhotra,Electronics,North,Jaipur,2024-12-22,2,14243.48,0.0,28486.96,Debit Card,,False,False,False,False
+100489,Arjun Reddy,Beauty,North,Delhi,2024-12-23,2,2817.45,0.0,5634.9,Debit Card,4,True,False,False,True
+100498,Arjun Bose,Books,West,Surat,2024-12-24,1,165.75,0.0,165.75,UPI,3,True,False,False,False
+100865,Aarav Iyer,Sports,South,Chennai,2024-12-24,3,4280.71,5.0,12200.02,Credit Card,4,True,False,False,False
+101093,Priya Joshi,Home & Kitchen,West,Pune,2024-12-26,1,6237.28,0.0,6237.28,Debit Card,4,True,False,False,False
+100284,Kavita Reddy,Toys,West,Mumbai,2024-12-26,1,3051.58,0.0,3051.58,Net Banking,4,True,False,False,False
+100009,Unknown Customer,Sports,Unknown,Lucknow,2024-12-27,2,6694.89,0.0,13389.78,Credit Card,5,True,False,False,False
+101019,Karan Rao,Beauty,South,Chennai,2024-12-28,3,1566.7,5.0,4465.1,Credit Card,5,True,False,False,False
+101154,Meena Joshi,Beauty,North,Chandigarh,2024-12-28,2,2057.29,25.0,3085.94,Cash on Delivery,4,True,False,False,False
+100354,Aarav Bose,Sports,East,Guwahati,2024-12-28,2,3342.46,5.0,6350.67,Credit Card,3,True,False,False,False
+100908,Suresh Bose,Beauty,West,Ahmedabad,2024-12-28,1,1663.9,0.0,1663.9,Credit Card,3,True,False,False,False
+100705,Karan Verma,Electronics,North,Jaipur,2024-12-28,2,59098.22,0.0,118196.44,Credit Card,5,True,False,False,True
+100693,Shreya Verma,Toys,West,Ahmedabad,2024-12-29,1,1064.0,0.0,1064.0,Credit Card,4,True,False,False,False
+101018,Rahul Malhotra,Books,South,Chennai,2024-12-30,2,969.45,30.0,1357.23,Debit Card,5,True,False,False,False
+101006,Rohan Gupta,Books,North,Delhi,2024-12-30,1,849.21,5.0,806.75,Unknown,4,True,False,False,False
+100271,Manoj Choudhary,Home & Kitchen,East,Patna,2024-12-31,1,215.8,20.0,172.64,Credit Card,5,True,False,False,False
+100775,Sneha Rao,Sports,East,Guwahati,2024-12-31,1,1827.43,5.0,1736.06,UPI,1,True,False,False,False
+100466,Suresh Bose,Sports,East,Bhubaneswar,2025-01-01,1,4057.88,0.0,4057.88,Credit Card,3,True,False,False,False
+100928,Manoj Rao,Clothing,North,Jaipur,2025-01-01,5,2563.51,5.0,12176.67,Cash on Delivery,5,True,False,True,True
+100960,Anita Joshi,Electronics,West,Pune,2025-01-02,1,49717.98,5.0,47232.08,UPI,4,True,False,False,False
+100463,Rahul Malhotra,Toys,East,Patna,2025-01-02,1,2410.62,0.0,2410.62,Net Banking,4,True,False,False,False
+100011,Karan Patel,Toys,North,Delhi,2025-01-03,1,819.69,10.0,737.72,Net Banking,5,True,False,False,False
+101091,Anita Singh,Toys,East,Bhubaneswar,2025-01-03,1,553.93,0.0,553.93,Net Banking,,False,False,False,False
+100911,Kavita Sharma,Sports,North,Delhi,2025-01-05,2,2501.31,5.0,4752.49,Debit Card,4,True,False,False,False
+101112,Sneha Bose,Toys,West,Ahmedabad,2025-01-06,1,296.93,10.0,267.24,Cash on Delivery,5,True,False,False,False
+100563,Suresh Nair,Clothing,East,Bhubaneswar,2025-01-07,1,3844.94,10.0,3460.45,Credit Card,4,True,False,False,False
+100767,Pooja Joshi,Electronics,North,Chandigarh,2025-01-08,1,1558.06,30.0,1090.64,Credit Card,5,True,False,False,False
+100868,Sneha Nair,Beauty,West,Mumbai,2025-01-08,2,2457.43,0.0,4914.86,UPI,4,True,False,False,False
+100529,Aarav Singh,Home & Kitchen,South,Bengaluru,2025-01-09,1,3715.53,0.0,3715.53,Debit Card,2,True,False,False,False
+100401,Rohan Singh,Books,West,Ahmedabad,2025-01-09,1,850.53,0.0,850.53,Debit Card,4,True,False,False,False
+100047,Aarav Gupta,Electronics,East,Bhubaneswar,2025-01-09,2,13186.88,10.0,23736.38,Credit Card,5,True,False,False,False
+101083,Manoj Patel,Books,West,Mumbai,2025-01-10,1,670.76,0.0,670.76,Net Banking,5,True,False,False,False
+100430,Arjun Gupta,Books,South,Bengaluru,2025-01-10,1,212.18,5.0,201.57,Net Banking,2,True,False,False,False
+100725,Karan Kapoor,Home & Kitchen,East,Guwahati,2025-01-10,1,7260.83,0.0,7260.83,Debit Card,3,True,False,False,False
+100001,Arjun Nair,Beauty,North,Lucknow,2025-01-11,2,2929.3,10.0,5272.74,Debit Card,3,True,False,False,False
+100144,Vikram Iyer,Home & Kitchen,West,Ahmedabad,2025-01-12,1,10223.85,0.0,10223.85,Cash on Delivery,5,True,False,False,False
+100613,Kavita Kapoor,Toys,South,Hyderabad,2025-01-12,2,1909.06,20.0,3054.5,Credit Card,3,True,False,False,False
+100004,Divya Malhotra,Home & Kitchen,South,Bengaluru,2025-01-13,1,12448.94,10.0,11204.05,Credit Card,,False,False,False,False
+100558,Karan Patel,Toys,West,Mumbai,2025-01-14,1,1556.21,0.0,1556.21,Debit Card,5,True,False,False,False
+100495,Anita Malhotra,Home & Kitchen,East,Bhubaneswar,2025-01-15,2,773.52,0.0,1547.04,Debit Card,5,True,False,False,False
+100341,Divya Sharma,Books,West,Mumbai,2025-01-15,2,628.72,10.0,1131.7,Net Banking,5,True,False,False,False
+100647,Manoj Kapoor,Sports,South,Chennai,2025-01-15,2,4360.42,0.0,8720.84,UPI,3,True,False,False,False
+100024,Meena Patel,Home & Kitchen,East,Kolkata,2025-01-15,3,1626.59,0.0,4879.77,Debit Card,4,True,False,False,False
+100649,Manoj Joshi,Clothing,North,Lucknow,2025-01-17,1,327.69,0.0,311.31,Net Banking,2,True,False,False,False
+100339,Divya Patel,Toys,East,Guwahati,2025-01-17,1,1348.24,0.0,1348.24,UPI,4,True,False,False,False
+100436,Rahul Mehta,Electronics,West,Surat,2025-01-17,1,34952.76,10.0,31457.48,Cash on Delivery,5,True,False,False,False
+100863,Shreya Bose,Clothing,North,Jaipur,2025-01-19,1,3905.44,30.0,2733.81,Net Banking,5,True,False,False,False
+100383,Kavita Iyer,Electronics,West,Ahmedabad,2025-01-19,1,30492.9,0.0,30492.9,Net Banking,5,True,False,False,False
+100395,Riya Sharma,Clothing,North,Delhi,2025-01-19,1,1580.44,0.0,1580.44,Credit Card,5,True,False,False,False
+100652,Meena Reddy,Sports,North,Lucknow,2025-01-19,1,5401.3,0.0,5401.3,UPI,4,True,False,False,False
+100462,Pooja Joshi,Books,West,Ahmedabad,2025-01-20,1,133.21,0.0,133.21,Credit Card,3,True,False,False,False
+101088,Aarav Sharma,Home & Kitchen,East,Unknown,2025-01-20,1,3469.01,20.0,2775.21,Credit Card,4,True,False,False,False
+100586,Meena Bose,Clothing,West,Mumbai,2025-01-20,2,1074.33,0.0,2148.66,Debit Card,5,True,False,False,False
+100326,Rahul Iyer,Books,North,Jaipur,2025-01-21,2,350.74,0.0,701.48,Debit Card,3,True,False,False,False
+100587,Shreya Gupta,Toys,East,Bhubaneswar,2025-01-21,2,2075.81,0.0,4151.62,Debit Card,5,True,False,False,False
+100236,Aarav Gupta,Books,South,Kochi,2025-01-22,1,379.87,0.0,379.87,Credit Card,4,True,False,False,False
+100779,Rohan Choudhary,Books,North,Delhi,2025-01-22,2,645.71,5.0,1226.85,Net Banking,4,True,False,False,False
+100674,Rahul Singh,Sports,West,Surat,2025-01-22,5,1994.8,10.0,8976.6,Cash on Delivery,1,True,False,True,False
+101129,Unknown Customer,Beauty,South,Kochi,2025-01-22,1,1785.92,0.0,1785.92,UPI,,False,False,False,False
+100545,Sneha Choudhary,Beauty,South,Bengaluru,2025-01-23,1,2391.71,0.0,2391.71,Cash on Delivery,5,True,False,False,False
+101173,Karan Joshi,Sports,West,Surat,2025-01-23,4,5904.87,0.0,23619.48,UPI,,False,False,True,True
+100080,Divya Mehta,Clothing,West,Surat,2025-01-24,1,3745.57,0.0,3745.57,Cash on Delivery,5,True,False,False,False
+100412,Pooja Iyer,Home & Kitchen,South,Chennai,2025-01-26,5,12776.01,0.0,63880.05,Debit Card,4,True,False,True,True
+101013,Sanjay Reddy,Home & Kitchen,North,Chandigarh,2025-01-26,5,10615.3,0.0,53076.5,UPI,4,True,False,True,True
+101124,Meena Gupta,Clothing,West,Surat,2025-01-26,1,2529.77,0.0,2529.77,Debit Card,4,True,False,False,False
+101011,Suresh Choudhary,Clothing,East,Patna,2025-01-26,2,560.81,0.0,1121.62,Debit Card,5,True,False,False,False
+101043,Rahul Malhotra,Unknown,East,Patna,2025-01-27,1,3319.62,0.0,6639.24,Cash on Delivery,4,True,False,False,False
+100208,Kavita Nair,Beauty,East,Kolkata,2025-01-27,1,2830.46,20.0,2264.37,Debit Card,4,True,False,False,False
+101152,Sanjay Choudhary,Electronics,South,Bengaluru,2025-01-28,2,4676.03,0.0,9352.06,Net Banking,5,True,False,False,False
+100913,Riya Gupta,Clothing,South,Kochi,2025-01-28,1,2218.75,15.0,1885.94,Net Banking,5,True,False,False,False
+100972,Anita Mehta,Beauty,South,Kochi,2025-01-29,1,1812.56,10.0,1631.3,Cash on Delivery,5,True,False,False,False
+100114,Rohan Nair,Beauty,North,Delhi,2025-01-29,1,913.77,0.0,913.77,UPI,5,True,False,False,False
+100600,Manoj Gupta,Electronics,East,Bhubaneswar,2025-01-29,1,41792.0,0.0,41792.0,Cash on Delivery,5,True,False,False,False
+100576,Manoj Singh,Sports,North,Jaipur,2025-01-30,1,5290.02,0.0,5290.02,UPI,3,True,False,False,False
+100855,Pooja Bose,Electronics,North,Jaipur,2025-01-30,1,15321.65,0.0,15321.65,Credit Card,4,True,False,False,False
+100336,Pooja Malhotra,Books,South,Chennai,2025-01-30,2,789.13,20.0,1262.61,Cash on Delivery,3,True,False,False,False
+100522,Karan Singh,Clothing,North,Lucknow,2025-01-31,1,387.9,15.0,329.72,UPI,4,True,False,False,False
+100174,Sanjay Choudhary,Home & Kitchen,South,Kochi,2025-01-31,5,9130.68,0.0,45653.4,Cash on Delivery,4,True,False,True,True
+100988,Anita Joshi,Beauty,North,Delhi,2025-01-31,1,1205.91,5.0,1145.61,Debit Card,5,True,False,False,False
+100137,Anita Sharma,Books,North,Lucknow,2025-01-31,1,480.49,0.0,480.49,UPI,5,True,False,False,False
+100409,Kavita Choudhary,Toys,North,Chandigarh,2025-01-31,1,2059.44,25.0,1544.58,Net Banking,3,True,False,False,False
+100629,Kavita Joshi,Toys,East,Guwahati,2025-02-01,1,1661.57,15.0,1412.33,Cash on Delivery,5,True,False,False,False
+100335,Amit Singh,Beauty,East,Kolkata,2025-02-01,2,724.94,0.0,1449.88,Credit Card,3,True,False,False,False
+100176,Anita Iyer,Toys,South,Kochi,2025-02-01,1,1214.08,0.0,1214.08,Net Banking,1,True,False,False,False
+100518,Anita Sharma,Sports,Unknown,Bengaluru,2025-02-01,2,3138.54,0.0,6277.08,Net Banking,5,True,False,False,False
+100358,Arjun Rao,Electronics,East,Kolkata,2025-02-02,2,46883.78,0.0,93767.56,Credit Card,4,True,False,False,False
+101041,Aarav Malhotra,Sports,East,Bhubaneswar,2025-02-02,1,2913.39,0.0,2913.39,Cash on Delivery,5,True,False,False,False
+100597,Anita Choudhary,Books,East,Patna,2025-02-03,1,838.22,0.0,838.22,Cash on Delivery,,False,False,False,False
+100206,Amit Sharma,Electronics,East,Bhubaneswar,2025-02-03,1,51338.09,10.0,46204.28,Unknown,4,True,False,False,False
+101185,Shreya Kapoor,Electronics,East,Patna,2025-02-04,1,10908.34,0.0,9817.51,UPI,5,True,False,False,False
+100969,Kavita Joshi,Toys,South,Hyderabad,2025-02-04,2,1965.19,25.0,2947.78,Cash on Delivery,5,True,False,False,False
+100155,Riya Reddy,Sports,North,Chandigarh,2025-02-04,1,5296.83,0.0,5296.83,Net Banking,4,True,False,False,False
+100662,Neha Kapoor,Beauty,West,Mumbai,2025-02-05,1,2637.79,0.0,2637.79,Cash on Delivery,5,True,False,False,False
+100403,Riya Sharma,Beauty,East,Guwahati,2025-02-05,1,2506.27,10.0,2255.64,Debit Card,4,True,False,False,False
+100057,Shreya Reddy,Clothing,East,Patna,2025-02-06,1,689.53,5.0,655.05,Net Banking,3,True,False,False,False
+100007,Manoj Rao,Toys,West,Surat,2025-02-06,1,1241.51,0.0,1241.51,Credit Card,3,True,False,False,False
+100467,Rahul Choudhary,Sports,South,Kochi,2025-02-07,3,6494.16,5.0,18508.36,Credit Card,5,True,False,False,True
+100872,Rohan Nair,Clothing,North,Jaipur,2025-02-07,1,1067.21,0.0,1067.21,Net Banking,3,True,False,False,False
+100531,Kavita Kapoor,Home & Kitchen,South,Bengaluru,2025-02-07,2,8963.57,0.0,17927.14,Credit Card,1,True,False,False,False
+100255,Divya Singh,Electronics,East,Patna,2025-02-08,2,30238.56,0.0,60477.12,Debit Card,5,True,False,False,False
+101130,Riya Choudhary,Books,West,Surat,2025-02-08,2,554.38,0.0,1108.76,Cash on Delivery,4,True,False,False,False
+100669,Shreya Iyer,Sports,West,Mumbai,2025-02-09,2,7136.55,5.0,13559.44,UPI,4,True,False,False,False
+100898,Shreya Verma,Beauty,East,Patna,2025-02-09,1,2285.15,20.0,1828.12,Credit Card,4,True,False,False,False
+100054,Riya Malhotra,Electronics,Unknown,Lucknow,2025-02-10,1,32550.02,15.0,27667.52,Cash on Delivery,4,True,False,False,False
+100626,Karan Bose,Clothing,North,Chandigarh,2025-02-10,1,2507.89,20.0,2006.31,Credit Card,5,True,False,False,False
+100199,Manoj Mehta,Books,North,Jaipur,2025-02-10,1,405.2,0.0,405.2,Debit Card,4,True,False,False,False
+100261,Vikram Verma,Books,South,Chennai,2025-02-10,1,925.04,0.0,925.04,Cash on Delivery,4,True,False,False,False
+100902,Manoj Rao,Books,South,Kochi,2025-02-10,4,979.89,10.0,3527.6,Debit Card,5,True,False,True,True
+101015,Sneha Patel,Clothing,West,Pune,2025-02-11,1,2348.92,0.0,2348.92,UPI,5,True,False,False,False
+100829,Neha Gupta,Toys,South,Hyderabad,2025-02-12,1,3188.12,5.0,3028.71,UPI,3,True,False,False,False
+100949,Shreya Malhotra,Electronics,East,Patna,2025-02-12,2,29492.98,15.0,50138.07,Credit Card,4,True,False,False,False
+100825,Meena Mehta,Toys,West,Mumbai,2025-02-13,2,2677.11,15.0,4551.09,Net Banking,5,True,False,False,False
+100668,Riya Rao,Sports,North,Delhi,2025-02-13,1,4801.88,0.0,4801.88,Debit Card,4,True,False,False,False
+100697,Rahul Reddy,Beauty,West,Mumbai,2025-02-14,2,264.77,0.0,529.54,UPI,4,True,False,False,False
+100262,Rohan Sharma,Clothing,East,Bhubaneswar,2025-02-14,2,1071.0,0.0,2142.0,Credit Card,3,True,False,False,False
+100692,Karan Bose,Beauty,South,Bengaluru,2025-02-15,1,1408.77,0.0,1408.77,Net Banking,4,True,False,False,False
+100764,Sneha Iyer,Beauty,West,Pune,2025-02-15,1,120.55,0.0,120.55,Net Banking,2,True,False,False,False
+101188,Aarav Singh,Toys,West,Pune,2025-02-16,2,2573.42,5.0,4889.5,Cash on Delivery,,False,False,False,False
+100360,Pooja Mehta,Home & Kitchen,South,Chennai,2025-02-18,1,3278.37,15.0,2786.61,Cash on Delivery,4,True,False,False,False
+100332,Riya Mehta,Sports,East,Patna,2025-02-20,1,3539.72,15.0,3008.76,Credit Card,4,True,False,False,False
+100610,Priya Gupta,Toys,West,Surat,2025-02-20,1,2772.25,0.0,2772.25,Debit Card,2,True,False,False,False
+100350,Rohan Reddy,Toys,West,Surat,2025-02-20,2,904.35,15.0,1537.4,UPI,5,True,False,False,False
+101007,Arjun Singh,Beauty,East,Kolkata,2025-02-20,1,1996.52,0.0,1996.52,Debit Card,3,True,False,False,False
+100560,Vikram Choudhary,Books,North,Delhi,2025-02-20,1,278.69,0.0,278.69,Debit Card,,False,False,False,False
+100941,Manoj Choudhary,Beauty,East,Unknown,2025-02-21,1,598.42,0.0,508.66,Cash on Delivery,4,True,False,False,False
+100202,Rohan Iyer,Books,North,Jaipur,2025-02-21,2,423.55,15.0,720.04,Cash on Delivery,,False,False,False,False
+100978,Priya Bose,Home & Kitchen,South,Bengaluru,2025-02-21,1,11249.69,0.0,11249.69,Unknown,5,True,False,False,False
+100581,Pooja Singh,Toys,East,Kolkata,2025-02-21,1,1805.77,15.0,1534.9,Net Banking,5,True,False,False,False
+101081,Anita Kapoor,Beauty,South,Kochi,2025-02-22,1,434.29,0.0,434.29,UPI,4,True,False,False,False
+100148,Kavita Rao,Electronics,South,Kochi,2025-02-22,5,48734.75,0.0,243673.75,Cash on Delivery,3,True,False,True,True
+100093,Suresh Bose,Clothing,East,Bhubaneswar,2025-02-23,2,3669.36,0.0,7338.72,Net Banking,1,True,False,False,True
+100233,Rahul Joshi,Beauty,West,Ahmedabad,2025-02-24,2,815.37,0.0,1630.74,UPI,4,True,False,False,False
+100067,Sanjay Rao,Sports,South,Kochi,2025-02-24,1,4381.33,15.0,3724.13,Net Banking,4,True,False,False,False
+101197,Pooja Bose,Beauty,South,Hyderabad,2025-02-24,1,653.21,20.0,522.57,Credit Card,5,True,False,False,False
+100031,Suresh Iyer,Electronics,West,Ahmedabad,2025-02-26,1,29969.51,20.0,23975.61,UPI,5,True,False,False,False
+100002,Neha Iyer,Beauty,East,Kolkata,2025-02-26,1,1406.12,20.0,1124.9,Debit Card,5,True,False,False,False
+100816,Arjun Iyer,Home & Kitchen,North,Jaipur,2025-02-27,1,4584.57,10.0,4126.11,Debit Card,4,True,False,False,False
+101193,Rohan Sharma,Toys,South,Hyderabad,2025-02-27,1,1207.58,30.0,845.31,Net Banking,2,True,False,False,False
+100053,Pooja Malhotra,Electronics,East,Patna,2025-02-27,2,7884.92,10.0,14192.86,Cash on Delivery,4,True,False,False,False
+101175,Meena Singh,Home & Kitchen,South,Hyderabad,2025-02-27,1,4745.54,0.0,4745.54,Credit Card,4,True,False,False,False
+100596,Suresh Bose,Clothing,West,Surat,2025-02-27,1,867.92,0.0,867.92,Cash on Delivery,4,True,False,False,False
+100440,Riya Patel,Clothing,East,Bhubaneswar,2025-02-28,1,3480.38,15.0,2958.32,UPI,5,True,False,False,False
+100720,Sneha Iyer,Clothing,West,Mumbai,2025-02-28,1,3623.53,20.0,2898.82,Debit Card,3,True,False,False,False
+100820,Neha Joshi,Sports,East,Bhubaneswar,2025-03-01,1,503.5,0.0,503.5,Debit Card,5,True,False,False,False
+100159,Divya Choudhary,Sports,East,Guwahati,2025-03-01,1,4584.93,5.0,4355.68,Net Banking,,False,False,False,False
+101000,Sanjay Malhotra,Sports,East,Bhubaneswar,2025-03-01,1,347.04,5.0,329.69,Credit Card,3,True,False,False,False
+100716,Anita Gupta,Books,East,Guwahati,2025-03-01,2,935.68,0.0,1871.36,Cash on Delivery,5,True,False,False,False
+100837,Sanjay Reddy,Sports,East,Guwahati,2025-03-02,2,2828.5,5.0,5374.15,Credit Card,,False,False,False,False
+100302,Meena Singh,Books,South,Hyderabad,2025-03-02,2,278.89,0.0,557.78,Debit Card,2,True,False,False,False
+100296,Aarav Gupta,Electronics,West,Ahmedabad,2025-03-03,4,32884.54,25.0,98653.62,Debit Card,3,True,False,True,False
+100839,Divya Choudhary,Electronics,West,Ahmedabad,2025-03-03,1,42710.81,10.0,38439.73,Credit Card,,False,False,False,False
+100769,Meena Bose,Books,South,Chennai,2025-03-03,1,968.3,0.0,968.3,Debit Card,5,True,False,False,False
+101089,Rohan Kapoor,Home & Kitchen,North,Jaipur,2025-03-03,1,4469.69,15.0,3799.24,UPI,5,True,False,False,False
+101047,Shreya Rao,Sports,West,Pune,2025-03-04,3,4972.78,5.0,14172.42,UPI,3,True,False,False,False
+100077,Rahul Bose,Beauty,East,Guwahati,2025-03-05,1,834.81,0.0,834.81,Cash on Delivery,5,True,False,False,False
+100831,Unknown Customer,Clothing,South,Hyderabad,2025-03-05,1,1081.42,15.0,919.21,Credit Card,4,True,False,False,False
+100082,Manoj Reddy,Beauty,North,Lucknow,2025-03-05,2,2705.26,0.0,5410.52,Cash on Delivery,4,True,False,False,True
+100193,Riya Mehta,Beauty,East,Kolkata,2025-03-06,2,692.75,0.0,1385.5,Debit Card,,False,False,False,False
+101138,Meena Rao,Clothing,North,Chandigarh,2025-03-06,1,1435.29,5.0,1363.53,Net Banking,2,True,False,False,False
+100222,Amit Singh,Home & Kitchen,South,Kochi,2025-03-06,1,4357.27,0.0,4357.27,Debit Card,3,True,False,False,False
+100250,Priya Mehta,Books,North,Delhi,2025-03-06,1,706.96,5.0,671.61,Credit Card,,False,False,False,False
+100396,Divya Choudhary,Home & Kitchen,North,Chandigarh,2025-03-07,1,4058.42,0.0,4058.42,UPI,4,True,False,False,False
+100417,Neha Bose,Toys,West,Ahmedabad,2025-03-07,1,1163.61,5.0,1163.61,UPI,4,True,False,False,False
+100386,Riya Reddy,Electronics,East,Patna,2025-03-07,1,14131.6,10.0,12718.44,UPI,4,True,False,False,False
+100120,Arjun Malhotra,Clothing,South,Hyderabad,2025-03-08,1,3959.79,15.0,3365.82,UPI,3,True,False,False,False
+100502,Shreya Verma,Books,East,Bhubaneswar,2025-03-08,2,571.44,30.0,800.02,Credit Card,3,True,False,False,False
+100848,Karan Singh,Books,North,Chandigarh,2025-03-08,1,570.02,5.0,541.52,Debit Card,5,True,False,False,False
+100797,Pooja Choudhary,Books,South,Hyderabad,2025-03-08,2,632.12,0.0,1264.24,UPI,5,True,False,False,False
+100572,Anita Singh,Electronics,North,Delhi,2025-03-08,1,33394.49,5.0,31724.77,Cash on Delivery,3,True,False,False,False
+100552,Vikram Reddy,Sports,West,Unknown,2025-03-08,1,6562.7,10.0,5906.43,Credit Card,3,True,False,False,False
+100553,Suresh Mehta,Beauty,West,Surat,2025-03-09,4,1865.11,0.0,7460.44,Credit Card,2,True,False,True,True
+100478,Kavita Mehta,Beauty,North,Chandigarh,2025-03-09,2,199.12,10.0,358.42,Credit Card,5,True,False,False,False
+100850,Arjun Malhotra,Beauty,East,Patna,2025-03-09,1,1680.45,0.0,1680.45,Net Banking,5,True,False,False,False
+100282,Amit Iyer,Books,North,Jaipur,2025-03-10,4,642.53,0.0,2570.12,Debit Card,5,True,False,True,True
+100984,Aarav Singh,Toys,North,Delhi,2025-03-10,1,943.48,0.0,943.48,Debit Card,5,True,False,False,False
+100700,Amit Gupta,Beauty,North,Lucknow,2025-03-11,1,102.39,0.0,102.39,Net Banking,3,True,False,False,False
+100605,Amit Choudhary,Electronics,South,Bengaluru,2025-03-12,1,25504.97,10.0,22954.47,Cash on Delivery,5,True,False,False,False
+101104,Anita Kapoor,Home & Kitchen,South,Chennai,2025-03-12,1,661.11,5.0,628.05,Debit Card,4,True,False,False,False
+100418,Sneha Verma,Electronics,East,Bhubaneswar,2025-03-12,1,38745.21,10.0,34870.69,Debit Card,4,True,False,False,False
+100717,Priya Nair,Toys,North,Chandigarh,2025-03-12,1,40135.5,0.0,802.71,UPI,4,True,True,False,False
+100892,Anita Kapoor,Beauty,North,Lucknow,2025-03-14,1,1738.93,0.0,1738.93,UPI,3,True,False,False,False
+100601,Amit Nair,Unknown,East,Patna,2025-03-14,1,1458.38,0.0,2916.76,Debit Card,3,True,False,False,False
+100757,Rahul Singh,Toys,South,Kochi,2025-03-14,1,993.23,0.0,993.23,Net Banking,5,True,False,False,False
+100175,Arjun Mehta,Toys,South,Bengaluru,2025-03-15,1,2827.37,0.0,2827.37,Net Banking,4,True,False,False,False
+100756,Priya Rao,Toys,South,Kochi,2025-03-16,3,1903.47,15.0,4853.85,Unknown,4,True,False,False,False
+101064,Manoj Malhotra,Sports,West,Ahmedabad,2025-03-16,2,1267.29,0.0,2534.58,Cash on Delivery,4,True,False,False,False
+100204,Amit Choudhary,Home & Kitchen,North,Jaipur,2025-03-16,1,4706.1,0.0,4706.1,UPI,5,True,False,False,False
+100683,Meena Nair,Electronics,East,Patna,2025-03-16,3,52341.87,0.0,157025.61,Cash on Delivery,5,True,False,False,True
+100777,Shreya Singh,Books,East,Guwahati,2025-03-16,1,933.89,15.0,793.81,Debit Card,4,True,False,False,False
+100860,Rohan Rao,Clothing,West,Mumbai,2025-03-17,1,1671.32,0.0,1671.32,Credit Card,,False,False,False,False
+100795,Neha Gupta,Electronics,East,Kolkata,2025-03-18,1,45098.95,10.0,40589.06,UPI,5,True,False,False,False
+100869,Shreya Bose,Clothing,East,Unknown,2025-03-18,2,2055.76,0.0,4111.52,Cash on Delivery,4,True,False,False,False
+100665,Amit Iyer,Electronics,East,Patna,2025-03-19,1,33613.84,0.0,33613.84,UPI,5,True,False,False,False
+100136,Sanjay Sharma,Sports,West,Surat,2025-03-19,5,7764.56,0.0,38822.8,Cash on Delivery,5,True,False,True,True
+100938,Kavita Sharma,Toys,North,Chandigarh,2025-03-21,1,197.22,0.0,197.22,Net Banking,5,True,False,False,False
+100220,Kavita Joshi,Home & Kitchen,West,Surat,2025-03-22,2,9416.09,10.0,16948.96,UPI,,False,False,False,False
+100699,Riya Rao,Home & Kitchen,South,Hyderabad,2025-03-22,2,11079.19,15.0,18834.62,Net Banking,3,True,False,False,False
+100667,Rahul Iyer,Books,West,Pune,2025-03-23,2,368.59,0.0,737.18,Debit Card,5,True,False,False,False
+100873,Suresh Singh,Clothing,North,Jaipur,2025-03-23,1,3666.77,5.0,3483.43,Cash on Delivery,4,True,False,False,False
+100340,Pooja Reddy,Home & Kitchen,South,Bengaluru,2025-03-23,1,4763.33,0.0,4525.16,UPI,2,True,False,False,False
+100272,Vikram Patel,Home & Kitchen,North,Lucknow,2025-03-24,2,2745.01,0.0,5490.02,UPI,,False,False,False,False
+100402,Anita Patel,Books,East,Patna,2025-03-25,1,194.47,0.0,194.47,Debit Card,4,True,False,False,False
+100359,Riya Nair,Books,North,Delhi,2025-03-26,1,103.74,30.0,72.62,UPI,2,True,False,False,False
+100214,Sneha Sharma,Books,North,Chandigarh,2025-03-26,4,237.36,0.0,949.44,UPI,3,True,False,True,False
+100636,Sneha Verma,Toys,North,Delhi,2025-03-26,1,1214.37,0.0,1214.37,Cash on Delivery,4,True,False,False,False
+100113,Suresh Nair,Clothing,North,Jaipur,2025-03-28,1,728.67,15.0,619.37,Cash on Delivery,2,True,False,False,False
+100218,Anita Patel,Clothing,West,Pune,2025-03-29,2,3327.74,0.0,6655.48,Debit Card,,False,False,False,False
+100849,Meena Rao,Clothing,North,Lucknow,2025-03-30,1,2622.68,0.0,2622.68,UPI,5,True,False,False,False
+100782,Neha Mehta,Electronics,South,Chennai,2025-03-30,1,46274.53,15.0,39333.35,UPI,4,True,False,False,False
+101016,Divya Reddy,Beauty,West,Surat,2025-03-30,1,571.97,15.0,486.17,Cash on Delivery,5,True,False,False,False
+100397,Riya Mehta,Electronics,East,Bhubaneswar,2025-03-30,2,41633.92,0.0,83267.84,Cash on Delivery,5,True,False,False,False
+100864,Suresh Rao,Sports,North,Delhi,2025-03-31,1,7445.65,0.0,7445.65,Net Banking,4,True,False,False,False
+100241,Arjun Gupta,Toys,East,Bhubaneswar,2025-03-31,2,2645.72,10.0,4762.3,Net Banking,4,True,False,False,False
+100556,Shreya Malhotra,Books,South,Hyderabad,2025-04-01,2,1145.5,0.0,2291.0,Debit Card,,False,False,False,True
+100205,Sneha Patel,Electronics,East,Guwahati,2025-04-01,1,33228.32,0.0,33228.32,UPI,3,True,False,False,False
+100450,Unknown Customer,Toys,West,Surat,2025-04-02,2,1470.14,0.0,2940.28,Net Banking,5,True,False,False,False
+100589,Rahul Nair,Clothing,West,Ahmedabad,2025-04-02,2,1854.6,10.0,3338.28,Credit Card,4,True,False,False,False
+100238,Arjun Nair,Home & Kitchen,West,Surat,2025-04-02,1,9231.37,20.0,7385.1,Debit Card,4,True,False,False,False
+100672,Arjun Mehta,Toys,West,Pune,2025-04-03,1,1202.42,0.0,1202.42,UPI,5,True,False,False,False
+101094,Sneha Mehta,Electronics,South,Kochi,2025-04-03,1,52966.92,0.0,52966.92,Cash on Delivery,4,True,False,False,False
+100423,Riya Nair,Clothing,North,Jaipur,2025-04-03,1,2544.3,0.0,2544.3,Net Banking,2,True,False,False,False
+100480,Karan Bose,Clothing,West,Ahmedabad,2025-04-04,1,1958.4,0.0,1958.4,Unknown,5,True,False,False,False
+101182,Karan Patel,Sports,South,Kochi,2025-04-04,1,2759.52,5.0,2621.54,Credit Card,2,True,False,False,False
+100754,Meena Patel,Toys,West,Mumbai,2025-04-04,2,244.95,20.0,391.92,Debit Card,3,True,False,False,False
+100789,Arjun Choudhary,Beauty,West,Mumbai,2025-04-05,1,1704.28,0.0,1704.28,UPI,4,True,False,False,False
+100162,Suresh Nair,Clothing,East,Patna,2025-04-05,1,2209.52,0.0,2209.52,UPI,4,True,False,False,False
+100465,Arjun Reddy,Clothing,East,Kolkata,2025-04-05,3,1091.17,0.0,3273.51,Cash on Delivery,2,True,False,False,False
+100092,Vikram Malhotra,Books,North,Unknown,2025-04-06,1,130.93,0.0,130.93,UPI,3,True,False,False,False
+100461,Divya Choudhary,Books,West,Surat,2025-04-06,4,683.33,0.0,2733.32,Debit Card,4,True,False,True,True
+100239,Sanjay Bose,Books,South,Bengaluru,2025-04-06,1,698.55,5.0,663.62,Net Banking,4,True,False,False,False
+100297,Meena Kapoor,Beauty,West,Mumbai,2025-04-07,2,1823.39,0.0,3646.78,Debit Card,3,True,False,False,False
+100016,Karan Verma,Sports,West,Surat,2025-04-07,1,6856.54,0.0,6856.54,Cash on Delivery,4,True,False,False,False
+101114,Manoj Bose,Electronics,West,Mumbai,2025-04-07,1,43984.38,0.0,43984.38,Credit Card,4,True,False,False,False
+101134,Kavita Verma,Electronics,East,Kolkata,2025-04-08,2,37442.59,0.0,74885.18,Cash on Delivery,4,True,False,False,False
+100573,Kavita Mehta,Books,West,Mumbai,2025-04-08,1,1118.73,15.0,950.92,Debit Card,2,True,False,False,False
+101002,Kavita Singh,Home & Kitchen,East,Patna,2025-04-08,1,4956.73,0.0,4956.73,UPI,3,True,False,False,False
+100442,Sanjay Choudhary,Books,East,Patna,2025-04-08,1,264.81,5.0,251.57,Cash on Delivery,2,True,False,False,False
+100673,Divya Rao,Sports,North,Delhi,2025-04-09,2,3148.31,0.0,6296.62,UPI,4,True,False,False,False
+100832,Pooja Patel,Home & Kitchen,West,Mumbai,2025-04-09,2,1534.03,0.0,3068.06,UPI,4,True,False,False,False
+100318,Neha Kapoor,Beauty,West,Mumbai,2025-04-09,1,1875.44,0.0,1875.44,Cash on Delivery,,False,False,False,False
+100746,Sanjay Gupta,Books,North,Delhi,2025-04-10,2,628.15,5.0,1193.48,Credit Card,4,True,False,False,False
+100192,Kavita Joshi,Clothing,East,Guwahati,2025-04-10,3,687.08,15.0,1752.05,Cash on Delivery,3,True,False,False,False
+101183,Pooja Choudhary,Home & Kitchen,East,Patna,2025-04-11,1,2350.03,5.0,2232.53,Cash on Delivery,,False,False,False,False
+101078,Neha Singh,Sports,North,Delhi,2025-04-11,2,5904.7,0.0,11809.4,Credit Card,,False,False,False,False
+100323,Sanjay Malhotra,Books,West,Ahmedabad,2025-04-11,1,482.04,0.0,482.04,Credit Card,4,True,False,False,False
+100135,Riya Reddy,Books,North,Jaipur,2025-04-13,1,905.39,5.0,860.12,Net Banking,5,True,False,False,False
+100914,Neha Bose,Books,West,Surat,2025-04-13,2,649.85,0.0,1299.7,Credit Card,5,True,False,False,False
+100574,Sanjay Mehta,Beauty,West,Ahmedabad,2025-04-13,1,664.42,0.0,664.42,UPI,3,True,False,False,False
+100384,Priya Joshi,Clothing,West,Ahmedabad,2025-04-13,1,414.3,25.0,310.73,Net Banking,5,True,False,False,False
+100426,Divya Choudhary,Toys,East,Guwahati,2025-04-15,1,2578.14,25.0,1933.6,Cash on Delivery,4,True,False,False,False
+100310,Priya Singh,Books,South,Bengaluru,2025-04-15,1,270.49,20.0,216.39,UPI,4,True,False,False,False
+100568,Kavita Kapoor,Sports,East,Kolkata,2025-04-16,1,395.31,0.0,395.31,Debit Card,5,True,False,False,False
+100547,Karan Mehta,Electronics,West,Ahmedabad,2025-04-16,1,6788.87,0.0,6788.87,Net Banking,5,True,False,False,False
+100625,Shreya Iyer,Beauty,West,Ahmedabad,2025-04-16,1,205.05,5.0,205.05,UPI,4,True,False,False,False
+100687,Rahul Malhotra,Books,West,Mumbai,2025-04-17,4,1035.14,0.0,4140.56,Debit Card,2,True,False,True,True
+100599,Vikram Reddy,Clothing,West,Ahmedabad,2025-04-17,1,3332.74,0.0,3332.74,Cash on Delivery,5,True,False,False,False
+101186,Rahul Joshi,Home & Kitchen,East,Kolkata,2025-04-17,2,10054.63,0.0,20109.26,UPI,2,True,False,False,False
+100211,Meena Bose,Sports,North,Lucknow,2025-04-17,1,4340.63,0.0,4340.63,Debit Card,3,True,False,False,False
+100833,Meena Patel,Toys,North,Delhi,2025-04-18,1,820.91,0.0,820.91,Cash on Delivery,4,True,False,False,False
+100497,Amit Mehta,Books,North,Chandigarh,2025-04-18,1,451.5,0.0,451.5,Debit Card,4,True,False,False,False
+101003,Sanjay Mehta,Books,North,Delhi,2025-04-18,1,224.8,0.0,224.8,Net Banking,4,True,False,False,False
+100086,Amit Bose,Toys,West,Mumbai,2025-04-19,1,3336.5,15.0,2836.02,Debit Card,3,True,False,False,False
+101100,Suresh Kapoor,Clothing,East,Bhubaneswar,2025-04-19,2,1142.9,0.0,2285.8,Cash on Delivery,4,True,False,False,False
+100817,Pooja Rao,Toys,East,Kolkata,2025-04-19,1,2064.58,0.0,2064.58,UPI,5,True,False,False,False
+100126,Priya Reddy,Electronics,North,Lucknow,2025-04-20,1,4899.35,0.0,4899.35,Debit Card,5,True,False,False,False
+100886,Arjun Iyer,Beauty,South,Bengaluru,2025-04-20,5,1453.58,30.0,5087.53,Net Banking,4,True,False,True,False
+100877,Vikram Verma,Sports,North,Chandigarh,2025-04-21,2,910.83,0.0,1821.66,Credit Card,4,True,False,False,False
+101035,Anita Reddy,Home & Kitchen,South,Chennai,2025-04-21,1,8699.6,5.0,8264.62,UPI,,False,False,False,False
+101148,Karan Bose,Books,West,Surat,2025-04-21,2,502.38,0.0,1004.76,Cash on Delivery,5,True,False,False,False
+100681,Arjun Iyer,Toys,North,Delhi,2025-04-21,1,1644.21,0.0,1644.21,Credit Card,5,True,False,False,False
+100249,Pooja Patel,Sports,North,Delhi,2025-04-22,2,1072.39,0.0,2144.78,Net Banking,4,True,False,False,False
+100933,Vikram Mehta,Toys,South,Chennai,2025-04-22,1,492.91,15.0,418.97,Credit Card,3,True,False,False,False
+100381,Kavita Iyer,Electronics,East,Bhubaneswar,2025-04-22,1,46556.3,5.0,44228.48,Net Banking,5,True,False,False,False
+100926,Riya Nair,Books,North,Jaipur,2025-04-22,1,543.97,0.0,543.97,UPI,5,True,False,False,False
+101074,Shreya Nair,Toys,West,Ahmedabad,2025-04-23,1,2629.49,15.0,2235.07,Debit Card,1,True,False,False,False
+100152,Arjun Mehta,Sports,East,Guwahati,2025-04-24,1,5149.41,0.0,5149.41,Debit Card,5,True,False,False,False
+100787,Neha Sharma,Books,South,Chennai,2025-04-24,1,1074.36,0.0,1074.36,UPI,4,True,False,False,False
+100062,Rohan Patel,Books,South,Kochi,2025-04-25,1,1036.1,0.0,1036.1,Debit Card,4,True,False,False,False
+100812,Rahul Bose,Clothing,North,Lucknow,2025-04-25,1,1475.32,0.0,1475.32,Net Banking,5,True,False,False,False
+100227,Pooja Bose,Electronics,East,Unknown,2025-04-26,1,59520.75,5.0,56544.71,Cash on Delivery,4,True,False,False,False
+100145,Sneha Joshi,Toys,South,Chennai,2025-04-28,2,946.16,0.0,1892.32,Cash on Delivery,5,True,False,False,False
+100950,Vikram Rao,Home & Kitchen,South,Hyderabad,2025-04-29,1,822.58,15.0,699.19,Credit Card,5,True,False,False,False
+100331,Meena Kapoor,Toys,South,Chennai,2025-04-29,2,352.11,5.0,669.01,Debit Card,5,True,False,False,False
+100606,Shreya Choudhary,Home & Kitchen,West,Surat,2025-04-30,1,2222.62,20.0,1778.1,Net Banking,4,True,False,False,False
+100796,Neha Patel,Clothing,West,Mumbai,2025-04-30,2,1786.29,20.0,2858.06,Net Banking,4,True,False,False,False
+100510,Sanjay Malhotra,Electronics,East,Kolkata,2025-04-30,2,3812.13,0.0,7624.26,UPI,5,True,False,False,False
+100929,Priya Verma,Beauty,North,Jaipur,2025-04-30,2,469.42,0.0,938.84,Debit Card,,False,False,False,False
+101132,Shreya Malhotra,Beauty,South,Kochi,2025-05-01,1,2984.99,5.0,2835.74,Debit Card,5,True,False,False,False
+100762,Sanjay Iyer,Toys,North,Delhi,2025-05-01,1,2902.4,5.0,2757.28,Cash on Delivery,4,True,False,False,False
+100539,Sanjay Choudhary,Books,South,Chennai,2025-05-01,2,174.55,5.0,331.64,UPI,5,True,False,False,False
+100203,Riya Singh,Books,West,Mumbai,2025-05-01,4,1180.59,0.0,4722.36,Debit Card,3,True,False,True,True
+100985,Karan Bose,Home & Kitchen,North,Lucknow,2025-05-02,1,5705.66,5.0,5420.38,Net Banking,5,True,False,False,False
+100391,Manoj Nair,Unknown,North,Jaipur,2025-05-02,1,20931.54,0.0,20931.54,Net Banking,3,True,True,False,True
+100773,Rohan Iyer,Electronics,West,Pune,2025-05-05,1,34511.33,10.0,31060.2,UPI,5,True,False,False,False
+101107,Divya Singh,Toys,South,Chennai,2025-05-06,1,1190.98,0.0,1190.98,Cash on Delivery,4,True,False,False,False
+100399,Kavita Joshi,Home & Kitchen,North,Lucknow,2025-05-06,1,8618.74,5.0,8187.8,UPI,5,True,False,False,False
+100235,Suresh Verma,Books,South,Kochi,2025-05-06,2,695.83,25.0,1043.75,Credit Card,5,True,False,False,False
+100234,Sanjay Mehta,Electronics,West,Pune,2025-05-08,1,9611.29,5.0,9130.73,Credit Card,4,True,False,False,False
+100577,Manoj Sharma,Electronics,South,Kochi,2025-05-08,3,25301.07,25.0,56927.41,UPI,4,True,False,False,False
+100104,Sanjay Iyer,Clothing,North,Delhi,2025-05-08,1,849.22,0.0,849.22,Cash on Delivery,3,True,False,False,False
+101128,Rohan Patel,Home & Kitchen,West,Mumbai,2025-05-08,1,7422.05,0.0,7422.05,Cash on Delivery,3,True,False,False,False
+100058,Riya Reddy,Home & Kitchen,Unknown,Kochi,2025-05-09,1,12405.03,0.0,12405.03,Credit Card,3,True,False,False,False
+101063,Sanjay Verma,Toys,North,Lucknow,2025-05-09,2,3389.27,0.0,6778.54,Cash on Delivery,5,True,False,False,True
+100216,Pooja Mehta,Home & Kitchen,West,Unknown,2025-05-09,3,1960.51,0.0,5881.53,Net Banking,4,True,False,False,False
+100382,Karan Gupta,Books,South,Chennai,2025-05-10,1,1012.38,0.0,1012.38,Debit Card,5,True,False,False,False
+100264,Suresh Reddy,Books,South,Chennai,2025-05-10,2,250.07,0.0,500.14,Debit Card,5,True,False,False,False
+101171,Manoj Iyer,Sports,South,Bengaluru,2025-05-10,2,7659.45,15.0,13021.06,Credit Card,5,True,False,False,False
+100734,Pooja Joshi,Sports,South,Bengaluru,2025-05-12,2,7995.39,0.0,15990.78,UPI,1,True,False,False,True
+100059,Rahul Patel,Toys,East,Kolkata,2025-05-12,1,1103.81,0.0,1103.81,Cash on Delivery,1,True,False,False,False
+100638,Sanjay Singh,Clothing,East,Guwahati,2025-05-12,1,1993.62,0.0,1993.62,Credit Card,4,True,False,False,False
+101062,Manoj Malhotra,Sports,North,Delhi,2025-05-13,1,5312.83,30.0,3718.98,Debit Card,5,True,False,False,False
+100604,Shreya Mehta,Beauty,North,Lucknow,2025-05-13,1,135.21,0.0,135.21,UPI,4,True,False,False,False
+100006,Riya Gupta,Books,South,Chennai,2025-05-13,1,147.23,5.0,139.87,Cash on Delivery,,False,False,False,False
+101084,Rohan Iyer,Sports,North,Chandigarh,2025-05-15,1,3222.5,0.0,3222.5,Net Banking,5,True,False,False,False
+101137,Pooja Nair,Sports,East,Bhubaneswar,2025-05-15,1,6180.27,0.0,6180.27,Debit Card,5,True,False,False,False
+100046,Amit Reddy,Beauty,South,Bengaluru,2025-05-15,1,2065.21,0.0,2065.21,UPI,5,True,False,False,False
+100504,Sanjay Rao,Books,East,Patna,2025-05-15,2,895.5,5.0,1701.45,Cash on Delivery,5,True,False,False,False
+100433,Sneha Reddy,Clothing,East,Bhubaneswar,2025-05-16,4,3722.36,0.0,14889.44,UPI,5,True,False,True,True
+100477,Pooja Singh,Beauty,South,Hyderabad,2025-05-16,2,2983.38,0.0,5966.76,Net Banking,5,True,False,False,True
+100664,Priya Sharma,Sports,South,Chennai,2025-05-16,1,1450.64,10.0,1305.58,Cash on Delivery,4,True,False,False,False
+101172,Rahul Reddy,Clothing,West,Surat,2025-05-16,2,1712.94,5.0,3254.59,Credit Card,3,True,False,False,False
+100404,Rahul Singh,Clothing,South,Kochi,2025-05-17,1,2147.02,20.0,1717.62,Cash on Delivery,4,True,False,False,False
+100661,Kavita Joshi,Electronics,South,Bengaluru,2025-05-17,2,49442.39,10.0,88996.3,Net Banking,5,True,False,False,False
+100645,Neha Joshi,Electronics,East,Patna,2025-05-17,1,59828.54,5.0,56837.11,UPI,,False,False,False,False
+100493,Meena Malhotra,Home & Kitchen,West,Pune,2025-05-17,1,4857.82,0.0,4857.82,Net Banking,4,True,False,False,False
+100320,Suresh Kapoor,Beauty,West,Pune,2025-05-18,1,785.45,0.0,785.45,Credit Card,3,True,False,False,False
+100474,Riya Mehta,Clothing,North,Delhi,2025-05-18,1,3735.55,0.0,3735.55,Net Banking,5,True,False,False,False
+100415,Priya Bose,Beauty,East,Kolkata,2025-05-18,2,1632.77,0.0,3265.54,Credit Card,4,True,False,False,False
+101098,Priya Choudhary,Home & Kitchen,East,Bhubaneswar,2025-05-19,1,989.59,30.0,692.71,Debit Card,5,True,False,False,False
+100085,Anita Reddy,Clothing,East,Patna,2025-05-20,1,2073.67,30.0,1451.57,Net Banking,5,True,False,False,False
+101080,Shreya Kapoor,Electronics,South,Kochi,2025-05-20,2,31065.76,0.0,62131.52,Credit Card,5,True,False,False,False
+100851,Meena Bose,Sports,South,Bengaluru,2025-05-20,1,3912.12,0.0,3912.12,Cash on Delivery,4,True,False,False,False
+100846,Rahul Kapoor,Home & Kitchen,North,Jaipur,2025-05-20,3,9517.86,10.0,25698.22,Credit Card,3,True,False,False,True
+100327,Suresh Nair,Electronics,West,Pune,2025-05-20,1,7777.77,0.0,7777.77,Cash on Delivery,4,True,False,False,False
+100707,Vikram Bose,Sports,West,Surat,2025-05-20,1,4033.8,0.0,4033.8,Cash on Delivery,3,True,False,False,False
+100160,Sneha Gupta,Toys,South,Chennai,2025-05-21,1,1867.65,0.0,1867.65,Net Banking,3,True,False,False,False
+100726,Meena Malhotra,Clothing,East,Patna,2025-05-21,4,3124.62,0.0,12498.48,Credit Card,5,True,False,True,True
+100752,Meena Sharma,Sports,South,Kochi,2025-05-21,2,1780.89,0.0,3561.78,Cash on Delivery,4,True,False,False,False
+101131,Pooja Nair,Toys,East,Kolkata,2025-05-21,2,1530.97,0.0,3061.94,Net Banking,4,True,False,False,False
+100394,Aarav Patel,Beauty,West,Mumbai,2025-05-21,1,2658.31,0.0,2658.31,Debit Card,4,True,False,False,False
+100486,Vikram Gupta,Beauty,South,Kochi,2025-05-22,1,1794.07,20.0,1435.26,Debit Card,5,True,False,False,False
+100186,Kavita Gupta,Beauty,East,Guwahati,2025-05-24,1,2951.91,0.0,2951.91,Debit Card,5,True,False,False,False
+100702,Neha Singh,Books,West,Ahmedabad,2025-05-24,5,442.63,25.0,1659.86,UPI,5,True,False,True,False
+100103,Meena Rao,Books,East,Guwahati,2025-05-25,2,735.4,5.0,1397.26,Unknown,,False,False,False,False
+100524,Sneha Iyer,Sports,West,Pune,2025-05-25,1,7914.92,15.0,6727.68,UPI,4,True,False,False,False
+100246,Neha Verma,Books,South,Chennai,2025-05-25,5,528.46,0.0,2642.3,Debit Card,4,True,False,True,True
+100470,Amit Choudhary,Books,South,Bengaluru,2025-05-25,1,1120.36,0.0,1120.36,Credit Card,4,True,False,False,False
+100753,Divya Verma,Toys,South,Chennai,2025-05-25,1,1049.52,5.0,997.04,Net Banking,,False,False,False,False
+100305,Anita Iyer,Toys,South,Chennai,2025-05-26,4,2860.05,0.0,11440.2,Cash on Delivery,5,True,False,True,True
+100520,Aarav Joshi,Clothing,North,Delhi,2025-05-27,1,930.18,10.0,837.16,UPI,5,True,False,False,False
+100281,Kavita Bose,Electronics,South,Kochi,2025-05-27,1,48662.17,25.0,36496.63,UPI,4,True,False,False,False
+100084,Manoj Iyer,Books,North,Lucknow,2025-05-27,2,521.04,5.0,989.98,Cash on Delivery,5,True,False,False,False
+100859,Sanjay Kapoor,Sports,North,Chandigarh,2025-05-27,1,4597.69,5.0,4367.81,Credit Card,4,True,False,False,False
+100215,Kavita Verma,Home & Kitchen,West,Pune,2025-05-29,1,8405.36,0.0,8405.36,UPI,2,True,False,False,False
+100728,Anita Nair,Clothing,South,Bengaluru,2025-05-30,1,2088.83,0.0,2088.83,Debit Card,5,True,False,False,False
+100732,Kavita Gupta,Home & Kitchen,West,Ahmedabad,2025-05-31,4,7407.33,10.0,26666.39,Unknown,4,True,False,True,True
+100947,Aarav Kapoor,Unknown,South,Bengaluru,2025-06-01,1,4390.4,5.0,8341.76,UPI,4,True,False,False,False
+100153,Priya Reddy,Beauty,South,Kochi,2025-06-01,1,1668.48,20.0,1334.78,UPI,4,True,False,False,False
+100830,Karan Nair,Clothing,South,Chennai,2025-06-01,1,3907.36,0.0,3516.62,Credit Card,4,True,False,False,False
+100727,Amit Joshi,Clothing,North,Lucknow,2025-06-02,2,2674.14,10.0,4813.45,Debit Card,5,True,False,False,False
+100356,Aarav Kapoor,Beauty,North,Chandigarh,2025-06-02,2,2065.35,0.0,4130.7,UPI,,False,False,False,False
+100161,Arjun Gupta,Books,West,Surat,2025-06-02,1,144.23,0.0,144.23,Credit Card,4,True,False,False,False
+100927,Aarav Sharma,Sports,North,Delhi,2025-06-03,1,7966.22,10.0,7169.6,UPI,5,True,False,False,False
+100189,Sneha Choudhary,Clothing,East,Bhubaneswar,2025-06-03,2,1038.31,20.0,1661.3,Debit Card,4,True,False,False,False
+100094,Manoj Iyer,Books,South,Chennai,2025-06-04,1,155.88,15.0,132.5,UPI,5,True,False,False,False
+100288,Suresh Singh,Toys,East,Bhubaneswar,2025-06-06,1,467.04,10.0,420.34,UPI,4,True,False,False,False
+100778,Rohan Reddy,Home & Kitchen,West,Mumbai,2025-06-06,1,8643.54,5.0,8211.36,UPI,5,True,False,False,False
+100485,Aarav Gupta,Home & Kitchen,North,Lucknow,2025-06-06,1,2303.14,0.0,2303.14,Credit Card,5,True,False,False,False
+100364,Sanjay Nair,Beauty,North,Lucknow,2025-06-07,2,813.04,10.0,1463.47,Credit Card,4,True,False,False,False
+100438,Suresh Rao,Books,South,Hyderabad,2025-06-07,2,1166.37,0.0,2332.74,UPI,4,True,False,False,True
+100045,Aarav Verma,Sports,North,Delhi,2025-06-08,1,1322.4,0.0,1322.4,Net Banking,3,True,False,False,False
+100781,Shreya Sharma,Books,South,Chennai,2025-06-08,1,930.66,0.0,930.66,Net Banking,4,True,False,False,False
+101072,Pooja Sharma,Toys,South,Chennai,2025-06-09,1,1527.79,0.0,1527.79,UPI,5,True,False,False,False
+101164,Amit Rao,Clothing,East,Bhubaneswar,2025-06-09,1,1919.16,0.0,1919.16,Debit Card,4,True,False,False,False
+100677,Kavita Gupta,Beauty,East,Bhubaneswar,2025-06-10,3,1963.33,0.0,5889.99,Debit Card,5,True,False,False,True
+100372,Sneha Gupta,Toys,North,Delhi,2025-06-10,3,2765.81,10.0,7467.69,Cash on Delivery,5,True,False,False,True
+100546,Rahul Sharma,Electronics,South,Hyderabad,2025-06-11,1,7419.81,0.0,7419.81,UPI,5,True,False,False,False
+100237,Rohan Gupta,Electronics,North,Jaipur,2025-06-11,1,41597.52,0.0,41597.52,Debit Card,5,True,False,False,False
+100784,Aarav Nair,Home & Kitchen,West,Ahmedabad,2025-06-12,1,12596.74,0.0,12596.74,Credit Card,4,True,False,False,False
+100887,Amit Patel,Books,West,Surat,2025-06-12,1,187.83,0.0,187.83,UPI,1,True,False,False,False
+101146,Rahul Patel,Books,East,Guwahati,2025-06-12,1,748.07,0.0,748.07,Debit Card,,False,False,False,False
+100139,Amit Iyer,Home & Kitchen,North,Chandigarh,2025-06-12,1,11946.5,5.0,11349.18,Net Banking,5,True,False,False,False
+101101,Suresh Verma,Home & Kitchen,West,Pune,2025-06-13,2,3702.92,0.0,7405.84,UPI,4,True,False,False,False
+101044,Sanjay Reddy,Sports,West,Pune,2025-06-13,2,4294.3,25.0,6441.45,Cash on Delivery,4,True,False,False,False
+101014,Manoj Rao,Clothing,East,Patna,2025-06-14,1,3310.05,5.0,3144.55,Net Banking,2,True,False,False,False
+100299,Rahul Kapoor,Clothing,South,Kochi,2025-06-14,1,1872.42,0.0,1872.42,Net Banking,3,True,False,False,False
+100154,Unknown Customer,Sports,North,Chandigarh,2025-06-15,3,2737.67,0.0,8213.01,Debit Card,5,True,False,False,False
+100763,Manoj Mehta,Books,South,Chennai,2025-06-15,1,182.62,0.0,182.62,Net Banking,4,True,False,False,False
+100800,Pooja Mehta,Clothing,West,Surat,2025-06-16,1,1361.29,0.0,1361.29,Net Banking,,False,False,False,False
+101023,Rohan Kapoor,Home & Kitchen,East,Patna,2025-06-16,1,10558.85,15.0,8975.02,Credit Card,4,True,False,False,False
+100517,Vikram Malhotra,Sports,East,Guwahati,2025-06-16,1,1745.32,0.0,1745.32,Credit Card,5,True,False,False,False
+100852,Sneha Mehta,Toys,North,Lucknow,2025-06-16,1,1122.54,5.0,1066.41,Net Banking,5,True,False,False,False
+101176,Pooja Choudhary,Home & Kitchen,West,Mumbai,2025-06-17,2,12967.43,10.0,23341.37,UPI,,False,False,False,False
+100294,Anita Bose,Books,South,Hyderabad,2025-06-17,1,965.1,15.0,820.34,Cash on Delivery,5,True,False,False,False
+100621,Meena Nair,Clothing,East,Kolkata,2025-06-17,1,2444.76,0.0,2444.76,Net Banking,5,True,False,False,False
+100121,Shreya Malhotra,Clothing,South,Hyderabad,2025-06-18,1,1958.51,0.0,1958.51,Debit Card,5,True,False,False,False
+100880,Divya Nair,Toys,West,Surat,2025-06-18,1,1207.05,5.0,1146.7,Net Banking,4,True,False,False,False
+100882,Sanjay Bose,Electronics,North,Jaipur,2025-06-19,4,9885.52,0.0,39542.08,Credit Card,3,True,False,True,False
+100290,Divya Patel,Toys,East,Patna,2025-06-19,1,3257.14,5.0,3094.28,Cash on Delivery,,False,False,False,False
+101147,Manoj Choudhary,Clothing,South,Hyderabad,2025-06-19,1,764.92,5.0,726.67,UPI,5,True,False,False,False
+100554,Manoj Sharma,Beauty,West,Ahmedabad,2025-06-19,2,2777.58,0.0,5555.16,UPI,4,True,False,False,True
+100056,Sneha Choudhary,Books,East,Bhubaneswar,2025-06-21,1,598.74,0.0,598.74,UPI,5,True,False,False,False
+100352,Rahul Gupta,Clothing,East,Patna,2025-06-21,3,2543.31,0.0,7629.93,Debit Card,4,True,False,False,True
+100351,Rohan Rao,Home & Kitchen,South,Hyderabad,2025-06-21,1,13370.51,0.0,13370.51,UPI,4,True,False,False,False
+100952,Shreya Mehta,Sports,West,Pune,2025-06-22,1,7193.53,20.0,5754.82,Net Banking,,False,False,False,False
+101110,Suresh Sharma,Toys,West,Surat,2025-06-22,1,898.87,0.0,898.87,Credit Card,5,True,False,False,False
+100076,Arjun Rao,Electronics,East,Bhubaneswar,2025-06-22,1,48351.72,10.0,43516.55,Cash on Delivery,,False,False,False,False
+100347,Divya Patel,Beauty,North,Jaipur,2025-06-23,3,2680.36,10.0,7236.97,Debit Card,4,True,False,False,True
+101070,Meena Iyer,Clothing,West,Ahmedabad,2025-06-23,1,358.89,0.0,358.89,UPI,5,True,False,False,False

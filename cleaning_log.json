@@ -1,0 +1,173 @@
+{
+  "initial_row_count": 1250,
+  "initial_columns": [
+    "OrderID",
+    "CustomerName",
+    "Category",
+    "Region",
+    "City",
+    "OrderDate",
+    "Quantity",
+    "UnitPrice",
+    "DiscountPercent",
+    "Revenue",
+    "PaymentMethod",
+    "CustomerRating"
+  ],
+  "initial_missing_by_column": {
+    "OrderID": 0,
+    "CustomerName": 26,
+    "Category": 18,
+    "Region": 12,
+    "City": 24,
+    "OrderDate": 0,
+    "Quantity": 13,
+    "UnitPrice": 27,
+    "DiscountPercent": 39,
+    "Revenue": 18,
+    "PaymentMethod": 25,
+    "CustomerRating": 123
+  },
+  "exact_duplicates_removed": 35,
+  "orderid_duplicates_removed": 15,
+  "rows_after_dedup": 1200,
+  "unparseable_dates": 0,
+  "rows_dropped_no_price_no_revenue": 1,
+  "missing_after_handling": {
+    "OrderID": 0,
+    "CustomerName": 0,
+    "Category": 0,
+    "Region": 0,
+    "City": 0,
+    "OrderDate": 0,
+    "Quantity": 0,
+    "UnitPrice": 0,
+    "DiscountPercent": 0,
+    "Revenue": 0,
+    "PaymentMethod": 0,
+    "CustomerRating": 119,
+    "HasRating": 0
+  },
+  "negative_unitprice_corrected": 5,
+  "negative_revenue_corrected": 4,
+  "outlier_summary": {
+    "UnitPrice": {
+      "method": "IQR per category (1.5x)",
+      "by_category": {
+        "Beauty": {
+          "lower_bound": -1389.48,
+          "upper_bound": 4516.04,
+          "outlier_count": 0
+        },
+        "Books": {
+          "lower_bound": -496.51,
+          "upper_bound": 1803.45,
+          "outlier_count": 1
+        },
+        "Clothing": {
+          "lower_bound": -1588.93,
+          "upper_bound": 5435.39,
+          "outlier_count": 0
+        },
+        "Electronics": {
+          "lower_bound": -26978.77,
+          "upper_bound": 85726.93,
+          "outlier_count": 1
+        },
+        "Home & Kitchen": {
+          "lower_bound": -6455.4,
+          "upper_bound": 21473.02,
+          "outlier_count": 1
+        },
+        "Sports": {
+          "lower_bound": -2183.3,
+          "upper_bound": 10829.15,
+          "outlier_count": 0
+        },
+        "Toys": {
+          "lower_bound": -1367.98,
+          "upper_bound": 4799.48,
+          "outlier_count": 1
+        },
+        "Unknown": {
+          "lower_bound": -1748.81,
+          "upper_bound": 6342.5,
+          "outlier_count": 3
+        }
+      },
+      "total_outlier_count": 7
+    },
+    "Revenue": {
+      "method": "IQR per category (1.5x)",
+      "by_category": {
+        "Beauty": {
+          "lower_bound": -1469.0,
+          "upper_bound": 5383.5,
+          "outlier_count": 14
+        },
+        "Books": {
+          "lower_bound": -519.09,
+          "upper_bound": 2099.55,
+          "outlier_count": 15
+        },
+        "Clothing": {
+          "lower_bound": -2351.3,
+          "upper_bound": 7043.98,
+          "outlier_count": 12
+        },
+        "Electronics": {
+          "lower_bound": -28197.56,
+          "upper_bound": 107966.27,
+          "outlier_count": 13
+        },
+        "Home & Kitchen": {
+          "lower_bound": -7573.54,
+          "upper_bound": 24930.92,
+          "outlier_count": 13
+        },
+        "Sports": {
+          "lower_bound": -3801.01,
+          "upper_bound": 14258.38,
+          "outlier_count": 12
+        },
+        "Toys": {
+          "lower_bound": -1683.7,
+          "upper_bound": 5701.36,
+          "outlier_count": 11
+        },
+        "Unknown": {
+          "lower_bound": -5300.87,
+          "upper_bound": 13034.31,
+          "outlier_count": 3
+        }
+      },
+      "total_outlier_count": 93
+    },
+    "Quantity": {
+      "method": "IQR global (1.5x)",
+      "lower_bound": -0.5,
+      "upper_bound": 3.5,
+      "total_outlier_count": 72
+    }
+  },
+  "extreme_quantity_capped": 4,
+  "final_row_count": 1199,
+  "final_missing_by_column": {
+    "OrderID": 0,
+    "CustomerName": 0,
+    "Category": 0,
+    "Region": 0,
+    "City": 0,
+    "OrderDate": 0,
+    "Quantity": 0,
+    "UnitPrice": 0,
+    "DiscountPercent": 0,
+    "Revenue": 0,
+    "PaymentMethod": 0,
+    "CustomerRating": 119,
+    "HasRating": 0,
+    "UnitPrice_outlier": 0,
+    "Quantity_outlier": 0,
+    "Revenue_outlier": 0
+  }
+}
